@@ -3,7 +3,6 @@ from pendulum import timezone
 from scripts.azure_upload import upload_to_adls
 from scripts.helpers import add_date_suffix
 from datetime import datetime, timedelta
-import great_expectations as gx
 
 
 LOCAL_FILE_PATH = "/opt/airflow/data/players.csv"
