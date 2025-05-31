@@ -1,9 +1,9 @@
 from airflow.decorators import dag, task
 from airflow.models import Variable
-from pendulum import timezone
+from datetime import datetime, timedelta, timezone
+import pytz
 from scripts.azure_upload import upload_to_adls
 from scripts.helpers import add_date_suffix
-from datetime import datetime, timedelta
 import requests
 import json
 import pandas as pd
@@ -34,7 +34,7 @@ default_args = {
     dag_id="dag_live_score",
     description="Fetch Champions League live scores and upload to ADLS as JSON and Parquet",
     default_args=default_args,
-    start_date=datetime(2025, 1, 1, tzinfo=timezone("America/Bogota")),
+    start_date=datetime(2025, 1, 1, tzinfo=pytz.timezone("America/Bogota")),
     schedule="*/5 * * * *",  # Every 5 minutes
     catchup=False,
     tags=["champions_league", "live_scores", "json", "parquet", "adls_upload"],
@@ -79,53 +79,28 @@ def live_scores_dag():
                 'competition_id': CHAMPIONS_LEAGUE_ID,
                 'competition_name': 'UEFA Champions League',
                 'total_matches': len(matches),
-                'api_response_success': data.get('success'),
-                'matches_summary': [
-                    {
-                        'match_id': match.get('id'),
-                        'fixture_id': match.get('fixture_id'),
-                        'home_team': match.get('home', {}).get('name'),
-                        'away_team': match.get('away', {}).get('name'),
-                        'score': match.get('scores', {}).get('score'),
-                        'status': match.get('status'),
-                        'time': match.get('time'),
-                        'location': match.get('location'),
-                        'scheduled': match.get('scheduled')
-                    }
-                    for match in matches
-                ]
+                'api_response_success': data.get('success')
             }
+            logger.info(matches[0])
             
             # Create matches data for parquet
             matches_list = []
             if matches:
                 for match in matches:
                     match_data = {
-                        'match_id': match.get('id'),
-                        'fixture_id': match.get('fixture_id'),
-                        'home_team_id': match.get('home', {}).get('id'),
-                        'home_team_name': match.get('home', {}).get('name'),
-                        'home_team_logo': match.get('home', {}).get('logo'),
-                        'away_team_id': match.get('away', {}).get('id'),
-                        'away_team_name': match.get('away', {}).get('name'),
-                        'away_team_logo': match.get('away', {}).get('logo'),
-                        'score': match.get('scores', {}).get('score'),
-                        'ht_score': match.get('scores', {}).get('ht_score'),
-                        'ft_score': match.get('scores', {}).get('ft_score'),
-                        'et_score': match.get('scores', {}).get('et_score'),
-                        'ps_score': match.get('scores', {}).get('ps_score'),
-                        'status': match.get('status'),
-                        'time': match.get('time'),
-                        'location': match.get('location'),
-                        'scheduled': match.get('scheduled'),
-                        'competition_id': match.get('competition', {}).get('id'),
-                        'competition_name': match.get('competition', {}).get('name'),
-                        'country_id': match.get('country', {}).get('id'),
-                        'country_name': match.get('country', {}).get('name'),
-                        'federation_name': match.get('federation', {}).get('name') if match.get('federation') else None,
-                        'odds_home_win': match.get('odds', {}).get('live', {}).get('1'),
-                        'odds_draw': match.get('odds', {}).get('live', {}).get('X'),
-                        'odds_away_win': match.get('odds', {}).get('live', {}).get('2'),
+                        'match_id': match.get('id', None),
+                        'fixture_id': match.get('fixture_id', None),
+                        'home_team_id': match.get('home', {}).get('id', None),
+                        'home_team_name': match.get('home', {}).get('name', None),
+                        'home_team_logo': match.get('home', {}).get('logo', None),
+                        'away_team_id': match.get('away', {}).get('id', None),
+                        'away_team_name': match.get('away', {}).get('name', None),
+                        'away_team_logo': match.get('away', {}).get('logo', None),
+                        'score': match.get('scores', {}).get('score', None),
+                        'status': match.get('status', None),
+                        'time': match.get('time', None),
+                        'location': match.get('location', None),
+                        'scheduled': match.get('scheduled', None),
                         'extracted_at': datetime.now().isoformat()
                     }
                     matches_list.append(match_data)

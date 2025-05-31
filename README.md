@@ -144,20 +144,44 @@ python scripts/test_api_connection.py
 ```bash
 docker compose down && docker compose up --build -d
 ```
-
 ## 📚 API Documentation
 - [Live Scores API](https://live-score-api.com/documentation/reference/6/getting_livescores)
 - [Fixtures API](https://live-score-api.com/documentation/reference/13/getting-scheduled-games)
 - [Competitions List](https://live-score-api.com/competitions)
 
+## 📊 ETLs & Analytics
+This project includes ETLs that fetch and process football match data to power analytics pipelines and insights.
+
+## ☁️ Connecting to Azure Blob Storage
+
+To connect Azure Blob Storage in Airflow:
+
+🔗 Tutorial: [Astronomer Guide](https://www.astronomer.io/docs/learn/connections/azure-blob-storage?tab=shared-access-key#azure-blob-storage)  
+🔐 How to get Storage Keys: [Microsoft Docs](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?tabs=azure-portal#view-account-access-keys)
+
+### Steps:
+1. In Airflow, go to **Admin > Connections**
+2. Click on **"Add Connection"**
+3. Set the following fields:
+   - **Connection ID**: `utec_blob_storage`
+   - **Connection Type**: `wasb`
+   - **Extra (JSON)**:
+     ```json
+     {
+       "connection_string": "<paste_your_connection_string_here>"
+     }
+     ```
+4. 💡 *Ensure there are no duplicate Azure connections — they can trigger warnings.*
+
+---
+
 ## 🤝 Contributing
 1. Test changes with the API test script
 2. Implement proper error handling
-3. Update documentation
-4. Follow existing code structure
+3. Update documentation as needed
+4. Follow existing code structure and naming conventions
 
-## ⚖️ License
-This project is for educational and development purposes. Please ensure compliance with the Live Score API terms of service.
+---
 
 ## 🔄 Useful Commands
 ```bash
@@ -172,4 +196,3 @@ docker compose down && docker compose up -d
 
 # Rebuild with changes
 docker compose down && docker compose up --build -d
-```

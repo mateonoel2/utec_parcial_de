@@ -1,9 +1,9 @@
 from airflow.decorators import dag, task
 from airflow.models import Variable
-from pendulum import timezone
+from datetime import datetime, timedelta, timezone
+import pytz
 from scripts.azure_upload import upload_to_adls
 from scripts.helpers import add_date_suffix
-from datetime import datetime, timedelta
 import requests
 import pandas as pd
 import logging
@@ -32,7 +32,7 @@ default_args = {
     dag_id="dag_live_fixtures",
     description="Fetch Champions League fixtures and upload to ADLS",
     default_args=default_args,
-    start_date=datetime(2025, 1, 1, tzinfo=timezone("America/Bogota")),
+    start_date=datetime(2025, 1, 1, tzinfo=pytz.timezone("America/Bogota")),
     schedule="0 6 * * *",  # Daily at 6 AM
     catchup=False,
     tags=["champions_league", "fixtures", "adls_upload"],
