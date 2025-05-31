@@ -19,4 +19,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy environment variables script
 COPY scripts/set_airflow_variables.sh /opt/airflow/scripts/
+USER root
 RUN chmod +x /opt/airflow/scripts/set_airflow_variables.sh
+USER airflow
