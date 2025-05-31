@@ -1,0 +1,14 @@
+# Ignore environment variable files
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Airflow Docker logs (if logs are outside of Airflow home directory)
+logs/
+
+__pycache__
+
+# Ignore all files inside data folder
+#data/
