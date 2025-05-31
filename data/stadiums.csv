@@ -1,0 +1,95 @@
+stadium_id,name,location,capacity
+81,Stadium Municipal,"1 allée Gabriel Biénèsm, BP 54023 Toulouse 31028",
+82,Stade Francis-Le Blé,"Port de Plaisance, 470 bis rue Alain Colas Brest 29200",
+83,Orange Vélodrome,"La Commanderie, 33, traverse de La Martine Marseille 13012",
+21,Emirates Stadium,"London, UK",60704.0
+22,Villa Park,"Birmingham, UK",42640.0
+23,Stamford Bridge,"London, UK",40834.0
+24,Goodison Park,"Liverpool, UK",39571.0
+25,Craven Cottage,"London, UK",25700.0
+26,Anfield,"Liverpool, UK",54074.0
+27,Etihad Stadium,"Manchester, UK",55097.0
+28,Old Trafford,"Manchester, UK",74879.0
+29,St. James' Park,"Newcastle upon Tyne, UK",52305.0
+30,Tottenham Hotspur Stadium,"London, UK",62062.0
+31,Molineux Stadium,"Wolverhampton, UK",32050.0
+32,Turf Moor,"Burnley, UK",21944.0
+33,The City Ground,"Nottingham, UK",30445.0
+34,Selhurst Park,"London, UK",25456.0
+35,Bramall Lane,"Sheffield, UK",32702.0
+36,Kenilworth Road Stadium,"Luton, UK",10356.0
+37,The American Express Community Stadium,"Brighton & Hove, UK",30750.0
+38,Griffin Park,"Brentford, UK",12763.0
+39,London Stadium,"London, UK",60000.0
+40,Vitality Stadium,"Bournemouth, UK",11329.0
+101,RheinEnergieSTADION,Franz-Kremer-Allee 1 Köln 50937,
+102,PreZero Arena,Horrenberger Straße 58 Zuzenhausen 74939,
+103,BayArena,Bismarckstr. 122-124 Leverkusen 51373,
+104,Signal Iduna Park,Rheinlanddamm 207-209 Dortmund 44137,
+105,Allianz Arena,Säbenerstr. 51 München 81547,
+106,Mercedes-Benz Arena,Mercedesstraße 109 Stuttgart 70372,
+107,Volkswagen Arena,In den Allerwiesen 1 Wolfsburg 38446,
+108,Weserstadion,Franz-Böhmert-Str. 1c Bremen 28205,
+109,Opel Arena,Dr.-Martin-Luther-King-Weg 20 Mainz 55122,
+110,WWK Arena,Donauwörther Straße 170 Augsburg 86154,
+111,Schwarzwald-Stadion,Schwarzwaldstraße 193 Freiburg 79117,
+112,Stadion im Borussia-Park,Hennes-Weisweiler-Allee 1 Mönchengladbach 41179,
+113,Deutsche Bank Park,Mörfelder Landstraße 362 Frankfurt am Main 60528,
+114,Stadion An der Alten Försterei,An der Wuhlheide 263 Berlin 12555,
+115,Vonovia Ruhrstadion,Castroper Straße 145 Bochum 44791,
+116,Voith-Arena,Schloßhaustraße 162 Heidenheim 89522,
+117,Merck-Stadion am Böllenfalltor,Nieder-Ramstädter-Straße 170 Darmstadt 64285,
+118,Red Bull Arena,Neumarkt 29-33 Leipzig 04109,
+41,Stadio Giuseppe Meazza,Via Filippo Turati 3 Milano 20121,
+42,Stadio Artemio Franchi,Viale Manfredo Fanti 4 Firenze 50137,
+43,Stadio Olimpico,"Via di Trigoria km. 3,600 Roma 00128",
+44,Stadio Atleti Azzurri d'Italia,"Corso Europa, 46, Zingonia Ciserano 24040",
+45,Stadio Renato Dall'Ara,Via Casteldebole 10 Bologna 40132,
+46,Sardegna Arena,Viale la Plaia 15 Cagliari 09123,
+47,Stadio Comunale Luigi Ferraris,"Via Ronchi, 67 Genova 16155",
+48,Allianz Stadium,"Corso Galileo Ferraris, 32 Torino 10128",
+49,Stadio San Paolo,"Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
+50,Dacia Arena,Via Agostino e Angelo Candolini 2 Udine 33100,
+51,Stadio Carlo Castellani,Piazza Matteotti Empoli 50053,
+52,Stadio Marc'Antonio Bentegodi,"Via Evangelista Torricelli, 37 Verona 37136",
+53,Stadio Arechi,"Via San Leonardo, 51 Salerno 84131",
+54,Stadio Benito Stirpe,"Via Marittima, 2 Frosinone 03100",
+55,Mapei Stadium - Città del Tricolore,"Piazza Risorgimento, 47 Sassuolo 41049",
+56,Stadio Olimpico di Torino,Via Arcivescovado 1 Torino 10122,
+57,Stadio Comunale Via Del Mare,Via Templari 11 Lecce 73100,
+58,Stadio Comunale Brianteo,"Via Ragazzi del '99, 14 Monza 20900",
+61,San Mamés,"Ibaigane, Alameda Mazarredo, 23 Bilbao 48009",
+62,Estadio Wanda Metropolitano,"Paseo Virgen del Puerto, 67 Madrid 28005",
+63,Estadio El Sadar,"Calle del Sadar, s/n Pamplona 31006",
+64,Camp Nou,Avenida Arístides Maillol s/n Barcelona 08028,
+65,Coliseum Alfonso Pérez,"Avenida Teresa de Calcuta, s/n Getafe 28903",
+66,Estadio Nuevo Los Cármenes,"Calle del Pintor Manuel Maldonado, s/n Granada 18007",
+67,Estadio Santiago Bernabéu,"Avenida Concha Espina, 1 Madrid 28036",
+68,Estadio del Rayo Vallecano,"Calle del Payaso Fofó, s/n Madrid 28018",
+69,Iberostar Estadi,"Son Moix, Calle Camí dels Reis, s/n Palma de Mallorca 07011",
+70,Estadio Benito Villamarín,"Avenida de Heliópolis, s/n Sevilla 41012",
+71,Estadio Municipal de Anoeta,"Anoeta Pasalekua, 1 San Sebastián 20014",
+72,Estadio de la Cerámica,"Camino Miralcamp, s/n Villarreal 12540",
+73,Estadio de Mestalla,"Plaza del Valencia Club de Fútbol, 2 Valencia 46010",
+74,Estadio de Mendizorroza,"Mendizorroza, Paseo Cervantes, s/n Vitoria 01007",
+75,Estadio Ramón de Carranza,"Plaza de Madrid, s/n Cádiz 11010",
+76,Estadio de los Juegos Mediterráneos,"Calle Alcalde Santiago Martínez Cabrejas, 5 Almería 04007",
+77,Estadio de Gran Canaria,"Calle Pío XII, 29 Las Palmas de Gran Canaria 35005",
+78,Estadi Municipal de Montilivi,"Avinguda de Montilivi, 141 Girona 17003",
+79,Estadio de Balaídos,"Calle del Conde de Gondomar, 1 Vigo 36203",
+80,Estadio Ramón Sánchez Pizjuán,"Calle Sevilla Fútbol Club, s/n Sevilla 41005",
+84,Stade de la Mosson,Domaine de Grammont CS 79041 Montpellier 34967,
+85,Stade Pierre-Mauroy,"Grand Rue 59, 780 Camphin-en-Pévèle Lille null",
+86,Stade de Nice,"35, avenue du Ray Nice 06100",
+87,Groupama Stadium,350 avenue Jean Jaurès Lyon 69007,
+88,Parc des Princes,"24, rue de Commandant Guibaud Paris 7501",
+89,Stade Yves Allainmat - Le Moustoir,"Tade Yves Allainmat<br>Rue Du Tour Des Portes, BP 404 Lorient 56104",
+90,Roazhon Park,La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039,
+91,Stade Océane,2 route du château BP 90 Saint-Laurent-de-Brèvedent 76700,
+92,Stade Gabriel Montpied,Rue Adrien Mabrut Clermont-Ferrand 63100,
+93,Stade de la Beaujoire - Louis Fonteneau,"Centre Sportif José Arribas, La Jonelière Nantes 44240",
+94,Stade Saint-Symphorien,"3, allée Saint Symphonien, BP 40292 Metz 5700",
+95,Stade Bollaert-Delelis,33 rue Arthur Lamendin Avion 62210,
+96,Stade Auguste-Delaune II,26 rue Robert-Fulton Reims 51100,
+97,Stade Louis II.,Avenue des Castellans Monaco 98000,
+98,Stade de la Meinau,12 Rue Extenwoerth Strasbourg 67000,

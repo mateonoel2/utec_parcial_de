@@ -74,6 +74,9 @@ x-airflow-common:
     # The following line can be used to set a custom config file, stored in the local config folder
     AIRFLOW_CONFIG: '/opt/airflow/config/airflow.cfg'
     PYTHONPATH: '/opt/airflow'
+    # Live Score API credentials
+    LIVE_SCORE_API_KEY: ${LIVE_SCORE_API_KEY}
+    LIVE_SCORE_API_SECRET: ${LIVE_SCORE_API_SECRET}
   volumes:
     - ${AIRFLOW_PROJ_DIR:-.}/dags:/opt/airflow/dags
     - ${AIRFLOW_PROJ_DIR:-.}/logs:/opt/airflow/logs

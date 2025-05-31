@@ -1,3 +1,7 @@
+apache-airflow-providers-microsoft-azure
+requests
+python-dotenv
+psycopg2-binary
+SQLAlchemy
 pandas
 pyarrow
-apache-airflow-providers-microsoft-azure

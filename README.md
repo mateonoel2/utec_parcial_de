@@ -1,84 +1,198 @@
-# APACHE AIRFLOW WITH DOCKER
-- Airflow official documentation
-Steps: https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html
-- Donwload yaml file indicated in Airflow official documentation
-curl -LfO 'https://airflow.apache.org/docs/apache-airflow/3.0.0/docker-compose.yaml'
-- Create folders for the volumes:
-mkdir ./dags ./logs ./config ./plugings
-- Setting airflow user
-    - For Linux - MAC
-    echo -e "AIRFLOW_UID=$(id -u)\nAIRFLOW_GID=0" > .env
-    - For Windows, ignore the warning, or manually we can create an .env file with value:
-    AIRFLOW_UID=50000
-- Initialize Database (It will create the first user account)
+# Champions League Data Pipeline 🏆
+
+## Overview
+This project implements an automated data pipeline using Apache Airflow to collect and process Champions League data from the Live Score API. The data is stored in Azure Data Lake Storage (ADLS) for further analysis and processing.
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Docker and Docker Compose
+- Python 3.8+
+- Live Score API credentials
+- Azure Data Lake Storage account
+
+### Initial Setup
+1. Clone the repository
+2. Create required directories:
+```bash
+mkdir ./dags ./logs ./config ./plugins ./data
+```
+
+3. Set up environment variables:
+```bash
+# For Linux/Mac
+echo -e "AIRFLOW_UID=$(id -u)\nAIRFLOW_GID=0" > .env
+
+# For Windows
+# Create .env file with:
+# AIRFLOW_UID=50000
+```
+
+4. Initialize Airflow:
+```bash
 docker compose up airflow-init
-(At the end we should see Messages like: User "airflow" created with role "Admin" \n 3.0.0 \n airflow-init_1 exited with code 0)
-- Run Airflow
-docker compose up
-- In a second terminal we can check all the conditions of the containers, by running
-docker ps
-- To interact with one of the container, just use the docker exec [CONTAINER ID] [Comand Line Interface]
-docker exec 0c04f0e03aa8 airflow version
+```
 
-- Adding requirements file to docker airflow
-    - Comment the image and add: "build: ." bellow it
-    #image: ${AIRFLOW_IMAGE_NAME:-apache/airflow:3.0.0}
-    build: .
-    - Create "Dockerfile" in the same folder your docker-compose.yaml file is with content similar to:
-    FROM apache/airflow:3.0.0
-    ADD requirements.txt .
-    RUN pip install apache-airflow==${AIRFLOW_VERSION} -r requirements.txt
-    - Create a requirements.txt file in the same folder of the docker-compose.yaml
-    - Now we can restart and build:
-    docker compose down && docker compose up --build -d
+5. Start the services:
+```bash
+docker compose up -d
+```
 
-- Adding data volume to the yaml
-    - Go to the docker-compose.yaml
-    - Locate the volumns part and add the volume
-    "- ${AIRFLOW_PROJ_DIR:-.}/data:/opt/airflow/data"
-    - Create the data folder (at the same level of dags):
-    mkdir ./data
-    - restart the volume (No need to use build here)
-    docker compose down && docker compose up -d
+## 📊 Pipeline Architecture
 
-- Note, each task executes acctions (Behind the scenes, each DAG is an operator):
-    - Python Function: pythonoperator
-    - Bash Command: bashoperator
-    - Inser data into a DB: postgresoperator
-(Depending in the action we want to trigger from our dag, we will use the corresponding operator)
-Operator: It is an object encapsulating the job we want to run in our dag
-(Each time we are adding an operator in our dag, we are adding a dag)
+### DAGs Overview
+The pipeline consists of three main DAGs that run in sequence:
 
-Examples:
-1. Create my_dag.py inside ./dags
-2. You will automatically see the DAG in Airflow UI: http://localhost:8080
+1. **Fixtures DAG** (`dag_live_fixtures.py`)
+   - Schedule: Daily at 6:00 AM
+   - Purpose: Fetches scheduled Champions League matches
+   - Output: Parquet files in `raw/airflow/G30/champions_league_fixtures/`
 
-# Connecting to Azure Blob Storage
-Tutorial: https://www.astronomer.io/docs/learn/connections/azure-blob-storage?tab=shared-access-key#azure-blob-storage
-Get Account Keys: https://learn.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?tabs=azure-portal#view-account-access-keys
+2. **Teams DAG** (`dag_live_teams.py`)
+   - Schedule: Daily at 7:00 AM
+   - Purpose: Collects team information
+   - Output: Parquet files in `raw/airflow/G30/champions_league_teams/`
 
-0. Add connection to Azure in Airflow
-1. In Airflow, go to admin
-2. Go to connection
-3. Click in Add conneciton
-4. Define a connection_id: azure_blob_storage
-5. Connection Type: wasb
-6. In Extra files JSON, copy the Blob Storage Connection String (IT is located below Key1)
-{"connection_string": <copy_the_connection_string>}
-(Make sure there are no other connections from Azure or it would generate warnings)
+3. **Live Scores DAG** (`dag_live_score.py`)
+   - Schedule: Every 5 minutes
+   - Purpose: Real-time match score updates
+   - Output: JSON files in `raw/airflow/G30/champions_league_live_scores/`
 
-# Isolating python scripts in Airflow Dags
-1. Add Python Path to Airflow in the yaml (To be able to import scripts)
-    environment:
-        PYTHONPATH: '/opt/airflow'
+## 🔧 Configuration
 
-# Avoid loading samples in Airflow
-1. Change in yaml:
-    AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+### Environment Variables
+Create a `.env` file with the following variables:
+```bash
+# Airflow Configuration
+AIRFLOW_UID=50000
+AIRFLOW_GID=0
 
-# Docker compose codes
-- docker compose up airflow-init: Initial load for airflow
-- docker compose up: To turn on airflow
-- docker compose up -d: To turn on airflow and run it in background (Recommended)
-- docker compose down && docker compose up -d: Normal Restart
-- docker compose down && docker compose up --build -d: Restart forcing to build docker file (Only when dockerfile is updated)
+# Live Score API Credentials
+LIVE_SCORE_API_KEY=your_api_key_here
+LIVE_SCORE_API_SECRET=your_api_secret_here
+
+# Database Configuration
+POSTGRES_USER=airflow
+POSTGRES_PASSWORD=airflow
+POSTGRES_DB=airflow
+
+# Airflow Admin User
+_AIRFLOW_WWW_USER_USERNAME=airflow
+_AIRFLOW_WWW_USER_PASSWORD=airflow
+```
+
+### Azure Blob Storage Setup
+1. Access Airflow UI at `http://localhost:8080`
+2. Navigate to Admin > Connections
+3. Create new connection:
+   - Connection ID: `utec_blob_storage`
+   - Connection Type: Azure Blob Storage
+   - Add your Azure storage credentials
+
+## 📁 Project Structure
+```
+├── dags/                    # Airflow DAG definitions
+│   ├── dag_live_fixtures.py
+│   ├── dag_live_teams.py
+│   └── dag_live_score.py
+├── scripts/                 # Utility scripts
+│   ├── test_api_connection.py
+│   ├── azure_upload.py
+│   └── helpers.py
+├── config/                  # Configuration files
+├── plugins/                 # Custom Airflow plugins
+├── data/                    # Data storage
+├── docker-compose.yaml      # Docker configuration
+├── Dockerfile              # Custom Airflow image
+└── requirements.txt        # Python dependencies
+```
+
+## 🔍 Monitoring & Troubleshooting
+
+### Common Issues
+1. **API Rate Limits**
+   - Adjust schedule intervals if hitting rate limits
+   - Monitor API response headers for limit information
+
+2. **No Data**
+   - Champions League is seasonal
+   - Empty responses are normal outside the season
+
+3. **Authentication Errors**
+   - Verify API credentials in `.env`
+   - Check Azure storage connection settings
+
+### Logs
+- Airflow UI: Task-specific logs
+- Container logs: `docker compose logs [service_name]`
+
+## 🛠️ Development
+
+### Testing API Connection
+```bash
+# Set environment variables
+export LIVE_SCORE_API_KEY="your_api_key_here"
+export LIVE_SCORE_API_SECRET="your_api_secret_here"
+
+# Run test script
+python scripts/test_api_connection.py
+```
+
+### Adding Dependencies
+1. Add to `requirements.txt`
+2. Rebuild containers:
+```bash
+docker compose down && docker compose up --build -d
+```
+## 📚 API Documentation
+- [Live Scores API](https://live-score-api.com/documentation/reference/6/getting_livescores)
+- [Fixtures API](https://live-score-api.com/documentation/reference/13/getting-scheduled-games)
+- [Competitions List](https://live-score-api.com/competitions)
+
+## 📊 ETLs & Analytics
+This project includes ETLs that fetch and process football match data to power analytics pipelines and insights.
+
+## ☁️ Connecting to Azure Blob Storage
+
+To connect Azure Blob Storage in Airflow:
+
+🔗 Tutorial: [Astronomer Guide](https://www.astronomer.io/docs/learn/connections/azure-blob-storage?tab=shared-access-key#azure-blob-storage)  
+🔐 How to get Storage Keys: [Microsoft Docs](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?tabs=azure-portal#view-account-access-keys)
+
+### Steps:
+1. In Airflow, go to **Admin > Connections**
+2. Click on **"Add Connection"**
+3. Set the following fields:
+   - **Connection ID**: `utec_blob_storage`
+   - **Connection Type**: `wasb`
+   - **Extra (JSON)**:
+     ```json
+     {
+       "connection_string": "<paste_your_connection_string_here>"
+     }
+     ```
+4. 💡 *Ensure there are no duplicate Azure connections — they can trigger warnings.*
+
+---
+
+## 🤝 Contributing
+1. Test changes with the API test script
+2. Implement proper error handling
+3. Update documentation as needed
+4. Follow existing code structure and naming conventions
+
+---
+
+## 🔄 Useful Commands
+```bash
+# Start services
+docker compose up -d
+
+# View logs
+docker compose logs -f
+
+# Restart services
+docker compose down && docker compose up -d
+
+# Rebuild with changes
+docker compose down && docker compose up --build -d
