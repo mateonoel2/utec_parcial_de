@@ -1,0 +1,3151 @@
+player_id,team_id,name,position,date_of_birth,nationality
+3222,65,Ederson,Goalkeeper,1993-08-17,Brazil
+4172,65,Scott Carson,Goalkeeper,1985-09-03,England
+6958,65,Stefan Ortega Moreno,Goalkeeper,1992-11-06,Germany
+244993,65,True Grant,Goalkeeper,2005-11-02,England
+143,65,Manuel Akanji,Defence,1995-07-19,Switzerland
+164,65,Sergio Gómez,Defence,2000-09-04,Spain
+3311,65,Kyle Walker,Defence,1990-05-28,England
+3313,65,John Stones,Defence,1994-05-28,England
+8240,65,Nathan Aké,Defence,1995-02-18,Netherlands
+10183,65,Rúben Dias,Defence,1997-05-14,Portugal
+122266,65,Joško Gvardiol,Defence,2002-01-23,Croatia
+244856,65,Max Alleyne,Defence,2005-07-21,England
+65,65,Mateo Kovačić,Midfield,1994-05-06,Croatia
+3199,65,Rodri,Midfield,1996-06-22,Spain
+3254,65,Bernardo Silva,Midfield,1994-08-10,Portugal
+3654,65,Kevin De Bruyne,Midfield,1991-06-28,Belgium
+3895,65,Jack Grealish,Midfield,1995-09-10,England
+7888,65,Phil Foden,Midfield,2000-05-28,England
+91512,65,Matheus Nunes,Midfield,1998-08-27,Portugal
+179716,65,Oscar Bobb,Midfield,2003-07-12,Norway
+221259,65,Micah Hamilton,Midfield,2003-11-13,England
+244846,65,Mahamadou Susoho,Midfield,2005-01-20,Spain
+245445,65,Jacob Wright,Midfield,2005-09-21,England
+38101,65,Erling Haaland,Offence,2000-07-21,Norway
+98571,65,Julián Álvarez,Offence,2000-01-31,Argentina
+99775,65,Jeremy Doku,Offence,2002-05-27,Belgium
+4832,57,David Raya,Goalkeeper,1995-09-15,Spain
+5530,57,Aaron Ramsdale,Goalkeeper,1998-05-14,England
+153843,57,Karl Jakob Hein,Goalkeeper,2002-04-13,Estonia
+3244,57,Cédric,Defence,1991-08-31,Portugal
+6154,57,Ben White,Defence,1997-10-08,England
+7889,57,Oleksandr Zinchenko,Defence,1996-12-15,Ukraine
+9034,57,Takehiro Tomiyasu,Defence,1998-11-05,Japan
+23128,57,Gabriel,Defence,1997-12-19,Brazil
+80171,57,William Saliba,Defence,2001-03-24,France
+98816,57,Jurrien Timber,Defence,2001-06-17,Netherlands
+147286,57,Jakub Kiwior,Defence,2000-02-15,Poland
+204501,57,Reuell Walters,Defence,2004-12-16,England
+247644,57,Ayden Heaven,Defence,2006-09-22,England
+110,57,Thomas Partey,Midfield,1993-06-13,Ghana
+171,57,Kai Havertz,Midfield,1999-06-11,Germany
+2094,57,Jorginho,Midfield,1991-12-20,Italy
+7427,57,Martin Ødegaard,Midfield,1998-12-17,Norway
+8215,57,Declan Rice,Midfield,1999-01-14,England
+8984,57,Leandro Trossard,Midfield,1994-12-04,Belgium
+85570,57,Emile Smith Rowe,Midfield,2000-07-28,England
+112948,57,Fabio Vieira,Midfield,2000-05-30,Portugal
+179669,57,Mohamed Elneny,Midfield,1992-07-11,Egypt
+204461,57,Mauro Bandeira,Midfield,2004-04-19,Portugal
+204503,57,Amario Cozier-Duberry,Midfield,2005-05-29,England
+221250,57,James Sweet,Midfield,2003-11-03,Wales
+244120,57,Myles Lewis-Skelly,Midfield,2006-09-26,England
+3236,57,Gabriel Jesus,Offence,1997-04-03,Brazil
+7799,57,Reiss Nelson,Offence,1999-12-10,England
+7800,57,Eddie Nketiah,Offence,1999-05-30,England
+61450,57,Martinelli,Offence,2001-06-18,Brazil
+99813,57,Bukayo Saka,Offence,2001-09-05,England
+188476,57,Ethan Nwaneri,Offence,2007-03-21,England
+1795,64,Alisson,Goalkeeper,1992-10-02,Brazil
+8197,64,Adrián,Goalkeeper,1987-01-03,Spain
+102046,64,Caoimhin Kelleher,Goalkeeper,1998-11-23,Ireland
+221770,64,Fabian Mrozek,Goalkeeper,2003-09-28,Poland
+3269,64,Wataru Endō,Defence,1993-02-09,Japan
+7383,64,Kostas Tsimikas,Defence,1996-05-12,Greece
+7862,64,Joe Gomez,Defence,1997-05-23,England
+7865,64,Joël Matip,Defence,1991-08-08,Cameroon
+7867,64,Trent Alexander-Arnold,Defence,1998-10-07,England
+7868,64,Andrew Robertson,Defence,1994-03-11,Scotland
+7869,64,Virgil van Dijk,Defence,1991-07-08,Netherlands
+9542,64,Ibrahima Konaté,Defence,1999-05-25,France
+135636,64,Rhys Williams,Defence,2001-02-03,England
+175865,64,Conor Bradley,Defence,2003-07-09,Northern Ireland
+176718,64,Jarell Quansah,Defence,2003-01-29,England
+186701,64,Stefan Bajcetic,Defence,2004-10-22,Spain
+226978,64,Calum Scanlon,Defence,2005-02-14,England
+248990,64,Amara Nallo,Defence,2006-11-18,England
+356,64,Thiago Alcântara,Midfield,1991-04-11,Spain
+7873,64,Curtis Jones,Midfield,2001-01-30,England
+16347,64,Dominik Szoboszlai,Midfield,2000-10-25,Hungary
+45681,64,Alexis Mac Allister,Midfield,1998-12-24,Argentina
+81793,64,Ryan Gravenberch,Midfield,2002-05-16,Netherlands
+186708,64,Bobby Clark,Midfield,2005-02-07,England
+214502,64,James McConnell,Midfield,2004-09-13,England
+230517,64,Trey Nyoni,Midfield,2007-06-30,England
+244935,64,Tom Hill,Midfield,2002-10-13,England
+3754,64,Mohamed Salah,Offence,1992-06-15,Egypt
+4092,64,Diogo Jota,Offence,1996-12-04,Portugal
+7459,64,Cody Gakpo,Offence,1999-05-07,Netherlands
+22396,64,Luis Díaz,Offence,1997-01-13,Colombia
+28612,64,Darwin Núñez,Offence,1999-06-24,Uruguay
+124824,64,Harvey Elliott,Offence,2003-04-04,England
+157176,64,Kaide Gordon,Offence,2004-10-05,England
+176789,64,Ben Doak,Offence,2005-11-11,Scotland
+244989,64,Lewis Koumas,Offence,2005-09-19,Wales
+247657,64,Jayden Danns,Offence,2006-01-16,England
+249379,64,Mateusz Musiałowski,Offence,2003-10-16,Poland
+3141,58,Emiliano Martínez,Goalkeeper,1992-09-02,Argentina
+187202,65,Rico Lewis,Defence,2004-11-21,England
+15512,58,Robin Olsen,Goalkeeper,1990-01-08,Sweden
+81871,58,Joe Gauci,Goalkeeper,2000-07-04,Australia
+204460,58,James Wright,Goalkeeper,2004-12-02,England
+244962,58,Sam Proctor,Goalkeeper,2006-12-21,England
+252845,58,Lander Emery,Goalkeeper,2004-03-29,Spain
+63,58,Clément Lenglet,Defence,1995-06-17,France
+3359,58,Lucas Digne,Defence,1993-07-20,France
+4082,58,Kortney Hause,Defence,1995-07-16,England
+6317,58,Ezri Konsa,Defence,1998-04-06,England
+7787,58,Calum Chambers,Defence,1995-01-20,England
+8235,58,Tyrone Mings,Defence,1993-03-13,England
+8346,58,Boubacar Kamara,Defence,1999-11-23,France
+8698,58,Diego Carlos,Defence,1993-03-15,Brazil
+11644,58,Matty Cash,Defence,1997-08-07,Poland
+32123,58,Alex Moreno,Defence,1993-06-08,Spain
+33109,58,Pau Torres,Defence,1997-01-16,Spain
+171509,58,Kaine Kesler,Defence,2002-10-23,England
+204428,58,Travis Patterson,Defence,2005-10-06,England
+246589,58,Finley Munroe,Defence,2005-02-08,England
+2013,58,Nicolò Zaniolo,Midfield,1999-07-02,Italy
+3658,58,Youri Tielemans,Midfield,1997-05-07,Belgium
+31941,58,Emiliano Buendía,Midfield,1996-12-25,Argentina
+33525,58,Douglas Luiz,Midfield,1998-05-09,Brazil
+34646,58,John McGinn,Midfield,1994-10-18,Scotland
+111437,58,Jacob Ramsey,Midfield,2001-05-28,England
+169326,58,Tim Iroegbunam,Midfield,2002-08-12,England
+190563,58,Kadan Young,Midfield,2006-01-19,England
+157,58,Leon Bailey,Offence,1997-08-09,Jamaica
+2240,58,Moussa Diaby,Offence,1999-07-07,France
+4444,58,Ollie Watkins,Offence,1995-12-30,England
+82140,58,Morgan Rogers,Offence,2002-07-26,England
+104493,58,Jhon Durán,Offence,2003-12-13,Colombia
+214417,58,Omari Kellyman,Offence,2005-09-25,Northern Ireland
+3086,73,Guglielmo Vicario,Goalkeeper,1996-10-07,Italy
+7992,73,Alfie Whiteman,Goalkeeper,1998-10-02,England
+8079,73,Fraser Forster,Goalkeeper,1988-03-17,England
+133229,73,Brandon Austin,Goalkeeper,1999-01-08,England
+1131,73,Emerson Royal,Defence,1999-01-14,Brazil
+7994,73,Ben Davies,Defence,1993-04-24,Wales
+45735,73,Christian Romero,Defence,1998-04-27,Argentina
+81037,73,Pedro Porro,Defence,1999-09-13,Spain
+131177,73,Mickey van de Ven,Defence,2001-04-19,Netherlands
+140432,73,Radu Drăgușin,Defence,2002-02-03,Romania
+170378,73,Destiny Udogie,Defence,2002-11-28,Italy
+230351,73,Alfie Dorrington,Defence,2005-04-20,England
+2041,73,Rodrigo Bentancur,Midfield,1997-06-25,Uruguay
+3216,73,Giovani Lo Celso,Midfield,1996-04-09,Argentina
+3959,73,Ryan Sessegnon,Midfield,2000-05-18,England
+3992,73,James Maddison,Midfield,1996-11-23,England
+8093,73,Pierre Emile Højbjerg,Midfield,1995-08-05,Denmark
+8410,73,Yves Bissouma,Midfield,1996-08-30,Mali
+96974,73,Oliver Skipp,Midfield,2000-09-16,England
+124694,73,Brennan Johnson,Midfield,2001-05-23,Wales
+170281,73,Heung-min Son,Midfield,1992-07-08,South Korea
+170391,73,Pape Sarr,Midfield,2002-09-14,Senegal
+206810,73,Yago Santiago,Midfield,2003-04-15,Spain
+251740,73,Tyrese Hall,Midfield,2005-09-04,England
+1859,73,Dejan Kulusevski,Offence,2000-04-25,Sweden
+3187,73,Timo Werner,Offence,1996-03-06,Germany
+8133,73,Richarlison,Offence,1997-05-10,Brazil
+40541,73,Manor Solomon,Offence,1999-07-24,Israel
+101912,73,Bryan Gil,Offence,2001-02-11,Spain
+156616,73,Dane Scarlett,Offence,2004-03-24,England
+221328,73,Jamie Donley,Offence,2005-01-03,Northern Ireland
+251079,73,Mikey Moore,Offence,2007-08-11,England
+3953,61,Marcus Bettinelli,Goalkeeper,1992-05-24,England
+121765,61,Đorđe Petrović,Goalkeeper,1999-10-08,Serbia
+135555,61,Robert Sánchez,Goalkeeper,1997-11-18,Spain
+175910,61,Teddy Sharman-Lowe,Goalkeeper,2003-01-19,England
+246715,61,Max Merrick,Goalkeeper,2005-11-10,England
+246743,61,Ted Curd,Goalkeeper,2006-02-14,England
+813,61,Axel Disasi,Defence,1998-03-11,France
+3224,61,Thiago Silva,Defence,1984-09-22,Brazil
+7810,61,Trevoh Chalobah,Defence,1999-07-05,England
+8065,61,Ben Chilwell,Defence,1996-12-21,England
+8424,61,Malang Sarr,Defence,1999-01-23,France
+8545,61,Wesley Fofana,Defence,2000-12-17,France
+15863,61,Cucurella,Defence,1998-07-22,Spain
+56628,61,Reece James,Defence,1999-12-08,England
+152498,61,Malo Gusto,Defence,2003-05-19,France
+170426,61,Benoît Badiashile,Defence,2001-03-26,France
+170440,61,Levi Colwill,Defence,2003-02-26,England
+179698,61,Dylan Williams,Defence,2003-09-13,England
+189625,61,Ishe Samuels-Smith,Defence,2006-06-05,England
+206825,61,Alfie Gilchrist,Defence,2003-11-28,England
+221263,61,Joshua Brooking,Defence,2002-09-01,England
+248984,61,Harrison Murray-Campbell,Defence,2006-08-04,England
+249320,61,Josh Acheampong,Defence,2006-05-05,England
+8484,61,Christopher Nkunku,Midfield,1997-11-14,France
+98978,61,Mykhailo Mudryk,Midfield,2001-01-05,Ukraine
+102603,61,Enzo Fernández,Midfield,2001-01-17,Argentina
+119265,61,Conor Gallagher,Midfield,2000-02-06,England
+121103,61,Moisés Caicedo,Midfield,2001-11-02,Ecuador
+144892,61,Cole Palmer,Midfield,2002-05-06,England
+153555,61,Chimuanya Ugochukwu,Midfield,2004-03-26,France
+167570,61,Carney Chukwuemeka,Midfield,2003-10-20,England
+167720,61,Noni Madueke,Midfield,2002-03-10,England
+172738,61,Romeo Lavia,Midfield,2004-01-06,Belgium
+179558,61,Cesare Casadei,Midfield,2003-01-10,Italy
+203375,61,Deivid Washington,Midfield,2005-06-05,Brazil
+217744,61,Zak Sturge,Midfield,2004-06-15,England
+228509,61,Leo Castledine,Midfield,2005-08-20,England
+245340,61,Michael Golding,Midfield,2006-05-23,England
+247243,61,Ollie Harrison,Midfield,2007-08-07,England
+248777,61,Billy Gee,Midfield,2005-07-30,England
+250364,61,Kiano Dyer,Midfield,2006-11-21,England
+3329,61,Raheem Sterling,Offence,1994-12-08,England
+152515,61,Nicolas Jackson,Offence,2001-06-20,Senegal
+218431,61,Ronnie Stutter,Offence,2005-01-06,England
+248767,61,Jimi Tauriainen,Offence,2004-03-09,Finland
+250436,61,Tyrique George,Offence,2006-02-04,England
+3310,67,Nick Pope,Goalkeeper,1992-04-19,England
+5048,67,Mark Gillespie,Goalkeeper,1992-03-27,England
+7856,67,Loris Karius,Goalkeeper,1993-06-22,Germany
+7914,67,Martin Dúbravka,Goalkeeper,1989-01-15,Slovakia
+220503,67,Aidan Harris,Goalkeeper,2006-12-16,England
+244853,67,Adam Harrison,Goalkeeper,2006-10-20,England
+88,67,Fabian Schär,Defence,1991-12-20,Switzerland
+1868,67,Emil Krafth,Defence,1994-08-02,Sweden
+3312,67,Kieran Trippier,Defence,1990-09-19,England
+3962,67,Matt Targett,Defence,1995-09-18,England
+4870,67,Dan Burn,Defence,1992-05-09,England
+7917,67,Paul Dummett,Defence,1991-09-26,Wales
+7919,67,Jamaal Lascelles,Defence,1993-11-11,England
+7930,67,Matt Ritchie,Defence,1989-09-10,Scotland
+81082,67,Sven Botman,Defence,2000-01-12,Netherlands
+124683,67,Joe White,Defence,2002-10-01,England
+168712,67,Valentino Livramento,Defence,2002-11-12,England
+230364,67,Alex Murphy,Defence,2004-06-25,Ireland
+1684,67,Bruno Guimarães,Midfield,1997-11-16,Brazil
+2563,67,Sandro Tonali,Midfield,2000-05-08,Italy
+4955,67,Sean Longstaff,Midfield,1997-10-30,England
+6486,67,Alexander Isak,Midfield,1999-09-21,Sweden
+7798,67,Joe Willock,Midfield,1999-08-20,England
+7934,67,Jacob Murphy,Midfield,1995-02-24,England
+8076,67,Harvey Barnes,Midfield,1997-12-09,England
+76861,67,Miguel Almirón,Midfield,1994-02-10,Paraguay
+107330,67,Elliot Anderson,Midfield,2002-11-06,Scotland
+176852,67,Lewis Hall,Midfield,2004-09-08,England
+177513,67,Lucas De Bolle,Midfield,2002-10-22,Scotland
+204719,67,Travis Hernes,Midfield,2005-11-04,England
+243652,67,James Huntley,Midfield,2004-03-02,England
+7848,67,Anthony Gordon,Offence,2001-02-24,England
+8251,67,Callum Wilson,Offence,1992-02-27,England
+10653,67,Joelinton,Offence,1996-08-14,Brazil
+181158,67,Garang Kuol,Offence,2004-09-15,Australia
+191939,67,Lewis Miley,Offence,2006-05-01,England
+228507,67,Ben Parkinson,Offence,2005-03-10,England
+228508,67,Amadou Diallo,Offence,2003-02-15,England
+7544,66,André Onana,Goalkeeper,1996-04-02,Cameroon
+8035,66,Tom Heaton,Goalkeeper,1986-04-15,England
+29518,66,Altay Bayındır,Goalkeeper,1998-04-14,Turkey
+210730,66,Dermot Mee,Goalkeeper,2002-11-20,England
+3326,66,Harry Maguire,Defence,1993-03-05,England
+3360,66,Raphaël Varane,Defence,1993-04-25,France
+3492,66,Victor Nilsson-Lindelöf,Defence,1994-07-17,Sweden
+7467,66,Tyrell Malacia,Defence,1999-08-17,Netherlands
+7898,66,Luke Shaw,Defence,1995-07-12,England
+8014,66,Jonny Evans,Defence,1988-01-03,Northern Ireland
+8158,66,Aaron Wan-Bissaka,Defence,1997-11-26,England
+15905,66,Diogo Dalot,Defence,1999-03-18,Portugal
+46451,66,Lisandro Martínez,Defence,1998-01-18,Argentina
+244860,66,Willy Kambwala,Defence,2004-08-25,DR Congo
+248978,66,Habeeb Ogunneye,Defence,2005-11-12,England
+250886,66,Louis Jackson,Defence,2005-09-18,England
+3231,66,Casemiro,Midfield,1992-02-23,Brazil
+3257,66,Bruno Fernandes,Midfield,1994-09-08,Portugal
+3459,66,Christian Eriksen,Midfield,1992-02-14,Denmark
+3705,66,Sofyan Amrabat,Midfield,1996-08-21,Morocco
+7599,66,Mason Mount,Midfield,1999-01-10,England
+7905,66,Scott McTominay,Midfield,1996-12-08,Scotland
+190797,66,Kobbie Mainoo,Midfield,2005-04-19,England
+210150,66,Harry Amass,Midfield,2007-03-16,England
+220574,66,Omari Forson,Midfield,2004-07-20,England
+248734,66,Toby Collyer,Midfield,2004-01-03,England
+3331,66,Marcus Rashford,Offence,1997-10-31,England
+3372,66,Anthony Martial,Offence,1995-12-05,France
+97085,66,Antony,Offence,2000-02-24,Brazil
+133584,66,Amad Diallo,Offence,2002-07-11,Ivory Coast
+152770,66,Rasmus Højlund,Offence,2003-02-04,Denmark
+160846,66,Shola Shoretire,Offence,2004-02-02,Nigeria
+250421,66,Ethan Wheatley,Offence,2006-01-20,England
+3357,563,Alphonse Aréola,Goalkeeper,1993-02-27,France
+3526,563,Łukasz Fabiański,Goalkeeper,1985-04-18,Poland
+137390,563,Joseph Anang,Goalkeeper,2000-06-08,England
+249553,563,Jacob Knightbridge,Goalkeeper,2004-01-25,England
+3293,563,Edson Álvarez,Defence,1997-10-24,Mexico
+7789,563,Konstantinos Mavropanos,Defence,1997-12-11,Greece
+7809,563,Emerson,Defence,1994-08-03,Italy
+7948,563,Kurt Zouma,Defence,1994-10-27,France
+8201,563,Aaron Cresswell,Defence,1989-12-15,England
+8202,563,Angelo Ogbonna,Defence,1988-05-23,Italy
+8224,563,Ben Johnson,Defence,2000-01-24,England
+15742,563,Tomáš Souček,Defence,1995-02-27,Czech Republic
+62631,563,Vladimir Coufal,Defence,1992-08-22,Czech Republic
+81191,563,Nayef Aguerd,Defence,1996-03-30,Morocco
+1543,563,Lucas Paquetá,Midfield,1997-08-27,Brazil
+4147,563,Kalvin Phillips,Midfield,1995-12-02,England
+8088,563,James Ward-Prowse,Midfield,1994-11-01,England
+8212,563,Michail Antonio,Midfield,1990-03-28,Jamaica
+77399,563,Mohammed Kudus,Midfield,2000-08-02,Ghana
+179657,563,Kamarai Simon-Swyer,Midfield,2002-12-04,England
+188900,563,Oliver Scarles,Midfield,2005-12-12,England
+191334,563,Levi Laing,Midfield,2003-04-12,England
+209125,563,Kaelan Casey,Midfield,2004-10-28,England
+209130,563,Lewis Orford,Midfield,2006-02-18,England
+248957,563,George Earthy,Midfield,2004-09-05,England
+7875,563,Danny Ings,Offence,1992-07-23,England
+8471,563,Maxwel Cornet,Offence,1996-09-27,Ivory Coast
+11414,563,Jarrod Bowen,Offence,1996-01-01,England
+187380,563,Divin Mubama,Offence,2004-10-25,England
+3884,354,Sam Johnstone,Goalkeeper,1993-03-25,England
+5457,354,Dean Henderson,Goalkeeper,1997-03-12,England
+182192,61,Diego Moreira,Offence,2004-08-06,Portugal
+6413,354,Remi Matthews,Goalkeeper,1994-02-10,England
+187229,354,Joe Whitworth,Goalkeeper,2004-02-29,England
+2253,354,Joachim Andersen,Defence,1996-05-31,Denmark
+7784,354,Rob Holding,Defence,1995-09-20,England
+7863,354,Nathaniel Clyne,Defence,1991-04-05,England
+8029,354,Nathan Ferguson,Defence,2000-10-06,England
+8141,354,Joel Ward,Defence,1989-10-29,England
+8144,354,James Tomkins,Defence,1989-03-29,England
+8145,354,Jeffrey Schlupp,Defence,1992-12-23,Ghana
+8147,354,Jaïro Riedewald,Defence,1996-09-09,Netherlands
+22010,354,Daniel Muñoz,Defence,1996-05-26,Colombia
+99856,354,Chris Richards,Defence,2000-03-28,USA
+118489,354,Marc Guéhi,Defence,2000-07-13,England
+137068,354,Tyrick Mitchell,Defence,1999-09-01,England
+3737,354,Jefferson Lerma,Midfield,1994-10-25,Colombia
+4032,354,Eberechi Eze,Midfield,1998-06-29,England
+8124,354,Will Hughes,Midfield,1995-04-17,England
+74677,354,Cheick Doucouré,Midfield,2000-01-08,Mali
+113765,354,Michael Olise,Midfield,2001-12-12,France
+131752,354,Naouirou Ahamada,Midfield,2002-03-29,France
+179712,354,Jesurun Rak-Sakyi,Midfield,2002-10-05,England
+180389,354,Adam Wharton,Midfield,2004-02-06,England
+204522,354,David Ozoh,Midfield,2005-06-01,England
+221789,354,Jadan Raymond,Midfield,2003-10-15,England
+641,354,Jean-Philippe Mateta,Offence,1997-06-28,France
+7984,354,Jordan Ayew,Offence,1991-09-11,Ghana
+16077,354,Odsonne Edouard,Offence,1998-01-16,France
+176241,354,Matheus Franca,Offence,2004-04-01,Brazil
+247375,354,Franco Umeh,Offence,2005-01-26,Ireland
+250297,354,Roshaun Mathurin,Offence,2004-01-23,England
+4040,397,Jason Steele,Goalkeeper,1990-08-18,England
+126870,397,Bart Verbruggen,Goalkeeper,2002-08-18,Netherlands
+140203,397,Thomas McGill,Goalkeeper,2000-03-25,England
+4228,397,Adam Webster,Defence,1995-01-04,England
+7547,397,Joël Veltman,Defence,1992-01-15,Netherlands
+7861,397,James Milner,Defence,1986-01-04,England
+8259,397,Lewis Dunk,Defence,1991-11-21,England
+10777,397,Igor,Defence,1998-02-07,Brazil
+32642,397,Pervis Estupiñán,Defence,1998-01-21,Ecuador
+98566,397,Jan Paul van Hecke,Defence,2000-06-08,Netherlands
+133787,397,Tariq Lamptey,Defence,2000-09-30,Ghana
+170261,397,Valentin Barco,Defence,2004-07-23,Argentina
+175855,397,Odel Offiah,Defence,2002-10-26,England
+240199,397,Benjamin Jackson,Defence,2003-09-03,England
+244632,397,Leigh Kavanagh,Defence,2003-12-27,Ireland
+252810,397,Noël Atom,Defence,2005-01-05,Germany
+3318,397,Adam Lallana,Midfield,1988-05-10,England
+8273,397,Pascal Groß,Midfield,1991-06-15,Germany
+99952,397,Jakub Moder,Midfield,1999-04-07,Poland
+126289,397,Billy Gilmour,Midfield,2001-06-11,Scotland
+132707,397,Kaoru Mitoma,Midfield,1997-05-20,Japan
+161365,397,Solly March,Midfield,1994-07-20,England
+168949,397,Julio Enciso,Midfield,2004-01-23,Paraguay
+178604,397,Carlos Baleba,Midfield,2004-01-03,Cameroon
+184273,397,Facundo Buonanotte,Midfield,2004-12-23,Argentina
+190851,397,Jack Hinshelwood,Midfield,2005-04-11,England
+204449,397,Cameron Peupion,Midfield,2002-09-23,Australia
+213692,397,Caylan Vickers,Midfield,2004-12-22,England
+244662,397,Samy Chouchane,Midfield,2003-09-05,France
+3328,397,Danny Welbeck,Offence,1990-11-26,England
+103125,397,João Pedro,Offence,2001-09-26,Brazil
+128040,397,Ansu Fati,Offence,2002-10-31,Spain
+130809,397,Evan Ferguson,Offence,2004-10-19,Ireland
+166249,397,Simon Adingra,Offence,2002-01-01,Ivory Coast
+227761,397,Joshua Duffus,Offence,2004-12-15,England
+230534,397,Mark O'Mahony,Offence,2005-01-14,Ireland
+230535,397,Benicio Boaitey,Offence,2004-01-09,England
+244609,397,Luca Barrington,Offence,2004-12-12,England
+2788,1044,Ionuț Radu,Goalkeeper,1997-05-28,Romania
+3221,1044,Neto,Goalkeeper,1989-07-19,Brazil
+4203,1044,Darren Randolph,Goalkeeper,1987-05-12,Ireland
+82135,1044,Mark Travers,Goalkeeper,1999-05-18,Ireland
+189567,1044,Cameron Plain,Goalkeeper,2002-11-28,England
+246451,1044,Callan McKenna,Goalkeeper,2006-12-22,Scotland
+3966,1044,Ryan Fredericks,Defence,1992-10-10,England
+4393,1044,Lloyd Kelly,Defence,1998-10-06,England
+4427,1044,Chris Mepham,Defence,1997-11-05,Wales
+8231,1044,Adam Smith,Defence,1991-04-29,England
+46046,1044,Marcos Senesi,Defence,1997-05-10,Argentina
+77596,1044,Tyler Adams,Defence,1999-02-14,USA
+80765,1044,Max Aarons,Defence,2000-01-04,England
+82145,1044,James Hill,Defence,2002-01-10,England
+143573,1044,Illia Zabarnyi,Defence,2002-09-01,Ukraine
+171141,1044,Milos Kerkez,Defence,2003-11-07,Hungary
+191449,1044,Maxwell Kinsey-Wellings,Defence,2005-02-02,England
+3327,1044,Lewis Cook,Midfield,1997-02-03,England
+6396,1044,Marcus Tavernier,Midfield,1999-03-22,England
+8184,1044,Philip Billing,Midfield,1996-06-11,Denmark
+8762,1044,Romain Faivre,Midfield,1998-07-14,France
+34495,1044,Ryan Christie,Midfield,1995-02-22,Scotland
+177305,1044,Dango Ouattara,Midfield,2002-02-11,Burkina Faso
+209103,1044,Dominic Sadi,Midfield,2003-09-02,England
+209110,1044,Michael Dacosta Gonzalez,Midfield,2005-03-05,Spain
+4417,1044,Antoine Semenyo,Offence,2000-01-07,Ghana
+7561,1044,Justin Kluivert,Offence,1999-05-05,Netherlands
+7878,1044,Dominic Solanke,Offence,1997-09-14,England
+22040,1044,Luis Sinisterra,Offence,1999-06-17,Colombia
+33132,1044,Enes Ünal,Offence,1997-05-10,Turkey
+161088,1044,Alex Scott,Offence,2003-08-21,England
+3174,63,Bernd Leno,Goalkeeper,1992-03-04,Germany
+6445,63,Marek Rodák,Goalkeeper,1996-12-13,Slovakia
+81055,63,Steven Benda,Goalkeeper,1998-10-01,Germany
+1836,63,Timothy Castagne,Defence,1995-12-05,Belgium
+3927,63,Antonee Robinson,Defence,1997-08-08,USA
+3956,63,Tim Ream,Defence,1987-10-05,USA
+7880,63,Tosin Adarabioyo,Defence,1997-09-24,England
+8296,63,Issa Diop,Defence,1997-01-09,France
+8403,63,Fodé Ballo-Touré,Defence,1997-01-03,Senegal
+8460,63,Kenny Tete,Defence,1995-10-09,Netherlands
+146154,63,Calvin Bassey,Defence,1999-12-31,Nigeria
+217596,63,Luc De Fougerolles,Defence,2005-10-12,Canada
+227998,63,Devan Tanton,Defence,2004-01-03,Colombia
+3230,63,Willian,Midfield,1988-08-09,Brazil
+3965,63,Tom Cairney,Midfield,1991-01-20,England
+3995,63,Harrison Reed,Midfield,1995-01-27,England
+4398,63,Bobby Reid,Midfield,1993-02-02,Jamaica
+11777,63,Harry Wilson,Midfield,1997-03-22,Wales
+15884,63,João Palhinha,Midfield,1995-07-09,Portugal
+32938,63,Saša Lukić,Midfield,1996-08-13,Serbia
+33153,63,Andreas Pereira,Midfield,1996-01-01,Brazil
+189889,63,Kristian Sekularac,Midfield,2003-12-07,Switzerland
+209084,63,Matthew Dibley-Dias,Midfield,2003-10-29,England
+246418,63,Joshua King,Midfield,2007-01-03,England
+3305,63,Raúl Jiménez,Offence,1991-05-05,Mexico
+3392,63,Alex Iwobi,Offence,1996-05-03,Nigeria
+4221,63,Adama Traoré,Offence,1996-01-25,Spain
+138036,63,Rodrigo Muniz,Offence,2001-05-04,Brazil
+143054,63,Armando Broja,Offence,2001-09-10,Albania
+4418,76,Daniel Bentley,Goalkeeper,1993-07-13,England
+6180,76,Thomas King,Goalkeeper,1995-03-09,Wales
+15899,76,José Sá,Goalkeeper,1993-01-17,Portugal
+4081,76,Matt Doherty,Defence,1992-01-16,Ireland
+8012,76,Craig Dawson,Defence,1990-05-06,England
+8642,76,Rayan Aït Nouri,Defence,2001-06-06,Algeria
+15862,76,Nélson Semedo,Defence,1993-11-16,Portugal
+25376,76,Max Kilman,Defence,1997-05-23,England
+32767,76,Santiago Bueno,Defence,1998-11-09,Uruguay
+102223,76,Toti Gomes,Defence,1999-01-16,Portugal
+157709,76,Hugo Bueno,Defence,2002-09-18,Spain
+189479,76,Harvey Griffiths,Defence,2003-09-22,England
+244625,76,Matthew Whittingham,Defence,2004-10-24,England
+245356,76,Aaron Keto-Diyawa,Defence,2003-09-11,England
+249060,76,Wesley Okoduwa,Defence,2008-05-12,England
+788,76,Jean-Ricner Bellegarde,Midfield,1998-06-27,France
+8097,76,Mario Lemina,Midfield,1993-09-01,Gabon
+133553,76,Boubacar Traoré,Midfield,2001-08-20,Mali
+135345,76,Tawanda Chirewa,Midfield,2003-10-11,England
+138034,76,João Gomes,Midfield,2001-02-12,Brazil
+172581,76,Tommy Doyle,Midfield,2001-10-17,England
+193014,76,Enso Gonzalez,Midfield,2005-01-20,Paraguay
+245046,76,Ty Barnett,Midfield,2005-07-19,England
+250791,76,Temple Ojinnaka,Midfield,2005-03-30,England
+74,76,Pablo Sarabia,Offence,1992-05-11,Spain
+2074,76,Pedro Neto,Offence,2000-03-09,Portugal
+3354,76,Hwang Heechan,Offence,1996-01-26,South Korea
+30842,76,Matheus Cunha,Offence,1999-05-27,Brazil
+189575,76,Nathan Fraser,Offence,2005-02-22,England
+217617,76,Noha Lemina,Offence,2005-06-17,France
+249354,76,Leon Chiwome,Offence,2006-01-10,England
+249571,76,Fletcher Holman,Offence,2004-10-12,England
+3309,62,Jordan Pickford,Goalkeeper,1994-03-07,England
+4133,62,Andy Lonergan,Goalkeeper,1983-10-19,England
+5316,62,Billy Crellin,Goalkeeper,2000-06-30,England
+82207,62,João Virgínia,Goalkeeper,1999-10-10,Portugal
+3316,62,James Tarkowski,Defence,1992-11-19,England
+3317,62,Ashley Young,Defence,1985-07-09,England
+5487,62,Ben Godfrey,Defence,1998-01-15,England
+7829,62,Michael Keane,Defence,1993-01-11,England
+7836,62,Séamus Coleman,Defence,1988-10-11,Ireland
+16165,62,Vitalii Mykolenko,Defence,1999-05-29,Ukraine
+114120,62,Jarrad Branthwaite,Defence,2002-06-27,England
+138174,62,Nathan Patterson,Defence,2001-10-16,Scotland
+3251,62,André Gomes,Midfield,1993-07-30,Portugal
+3324,62,Dele Alli,Midfield,1996-04-11,England
+3627,62,Idrissa Gana Guèye,Midfield,1989-09-26,Senegal
+4220,62,Jack Harrison,Midfield,1996-11-20,England
+8119,62,Abdoulaye Doucouré,Midfield,1993-01-01,Mali
+11623,62,Dwight McNeil,Midfield,1999-11-22,England
+101076,62,James Garner,Midfield,2001-03-13,England
+114024,62,Amadou Onana,Midfield,2001-08-16,Belgium
+157660,62,Tyler Onyango,Midfield,2003-03-04,England
+172958,62,Lewis Dobbin,Midfield,2003-01-03,England
+177380,62,Lewis Warrington,Midfield,2002-10-10,England
+220673,62,Mackenzie Hunt,Midfield,2001-11-14,England
+244820,62,Jenson Metcalfe,Midfield,2004-09-06,England
+7839,62,Dominic Calvert-Lewin,Offence,1997-03-16,England
+9870,62,Arnaut Danjuma,Offence,1997-01-31,Netherlands
+125044,62,Beto,Offence,1998-01-31,Portugal
+188082,62,Youssef Chermiti,Offence,2004-05-24,Portugal
+2050,402,Thomas Strakosha,Goalkeeper,1995-03-19,Albania
+4419,402,Ellery Balcombe,Goalkeeper,1999-10-15,England
+9923,402,Mark Flekken,Goalkeeper,1993-06-13,Netherlands
+144530,402,Hákon Rafn Valdimarsson,Goalkeeper,2001-10-13,Iceland
+176806,402,Vincent Angelini,Goalkeeper,2003-09-12,Scotland
+4334,402,Ethan Pinnock,Defence,1993-05-29,Jamaica
+4426,402,Rico Henry,Defence,1997-07-08,England
+15535,402,Mads Roerslev,Defence,1999-06-24,Denmark
+16068,402,Kristoffer Ajer,Defence,1998-04-17,Norway
+51116,402,Reguilón,Defence,1996-12-16,Spain
+101111,402,Aaron Hickey,Defence,2002-01-01,Scotland
+115642,402,Nathan Collins,Defence,2001-04-30,Ireland
+167115,402,Ben Mee,Defence,1989-09-21,England
+179731,402,Zanka,Defence,1990-04-23,Denmark
+221783,402,Ji-soo Kim,Defence,2004-12-24,South Korea
+245364,402,Benjamin Fredrick,Defence,2005-05-28,Nigeria
+249409,402,Benjamin Arthur,Defence,2005-01-01,England
+8626,402,Bryan Mbeumo,Midfield,1999-08-07,Cameroon
+10000,402,Vitaly Janelt,Midfield,1998-05-10,Germany
+10194,402,Mathias Jensen,Midfield,1996-01-01,Denmark
+24102,402,Christian Nørgaard,Midfield,1994-03-10,Denmark
+24210,402,Frank Onyeka,Midfield,1998-01-01,Nigeria
+56666,402,Shandon Baptiste,Midfield,1998-04-08,Grenada
+131892,402,Ethan Brierley,Midfield,2003-11-23,England
+188818,402,Ryan Trevitt,Midfield,2003-03-12,England
+204421,402,Yegor Yarmolyuk,Midfield,2004-03-01,Ukraine
+214532,402,Yunus Konak,Midfield,2006-01-10,Turkey
+612,402,Yoane Wissa,Offence,1996-09-03,DR Congo
+4443,402,Neal Maupay,Offence,1996-08-14,France
+5453,402,Ivan Toney,Offence,1996-03-16,England
+7796,402,Josh Dasilva,Offence,1998-10-23,England
+24238,402,Mikkel Damsgaard,Offence,2000-07-03,Denmark
+101910,402,Keane Lewis-Potter,Offence,2001-02-22,England
+123286,402,Kevin Schade,Offence,2001-11-27,Germany
+179746,402,Saman Ghoddos,Offence,1993-09-06,Iran
+229276,402,Valentin Adedokun,Offence,2003-02-14,Ireland
+3643,351,Matz Sels,Goalkeeper,1992-02-26,Belgium
+8137,351,Wayne Hennessey,Goalkeeper,1987-01-24,Wales
+42871,351,Odisseas Vlachodimos,Goalkeeper,1994-04-26,Greece
+76936,351,Matt Turner,Goalkeeper,1994-06-24,USA
+3386,351,Ola Aina,Defence,1996-10-08,Nigeria
+4086,351,Willy Boly,Defence,1991-02-03,Ivory Coast
+4376,351,Harry Toffolo,Defence,1995-08-19,England
+5435,351,Ryan Yates,Defence,1997-11-21,England
+8723,351,Moussa Niakhaté,Defence,1996-03-08,France
+11667,351,Gonzalo Montiel,Defence,1997-01-01,Argentina
+80459,351,Nuno Tavares,Defence,2000-01-26,Portugal
+133765,351,Neco Williams,Defence,2001-04-13,Wales
+149920,351,Andrew Omobamidele,Defence,2002-06-23,Ireland
+192637,351,Murillo,Defence,2002-07-04,Brazil
+204483,351,Zach Abbott,Defence,2006-05-13,England
+3618,351,Cheikhou Kouyaté,Midfield,1989-12-21,Senegal
+4091,351,Morgan Gibbs-White,Midfield,2000-01-27,England
+8244,351,Harry Arter,Midfield,1989-12-28,Ireland
+8307,351,Ibrahim Sangaré,Midfield,1997-12-02,Ivory Coast
+46346,351,Nicolás Domínguez,Midfield,1998-06-28,Argentina
+149704,351,Danilo dos Santos de Oliveira,Midfield,2001-04-29,Brazil
+166376,351,Anthony Elanga,Midfield,2002-04-27,Sweden
+246096,351,Jamie McDonnell,Midfield,2004-02-16,Northern Ireland
+3663,351,Divock Origi,Offence,1995-04-18,Belgium
+7816,351,Callum Hudson-Odoi,Offence,2000-11-07,England
+8057,351,Chris Wood,Offence,1991-12-07,New Zealand
+9218,351,Taiwo Awoniyi,Offence,1997-08-12,Nigeria
+136733,351,Gio Reyna,Offence,2002-11-13,USA
+156959,351,Luis Felipe Monteiro,Offence,1989-05-16,Brazil
+178772,351,Rodrigo Ribeiro,Offence,2005-04-28,Portugal
+190928,351,Detlef Osong,Offence,2004-09-21,England
+245459,351,Joe Gardner,Offence,2005-06-06,England
+4328,389,Jack Walton,Goalkeeper,1998-04-23,England
+5597,389,James Shea,Goalkeeper,1991-06-16,England
+8258,389,Tim Krul,Goalkeeper,1988-04-03,Netherlands
+8991,389,Thomas Kamiński,Goalkeeper,1992-10-23,Belgium
+3928,389,Reece Burke,Defence,1996-09-02,England
+4842,389,Amari'i Bell,Defence,1994-05-05,Jamaica
+5123,389,Tom Lockyer,Defence,1994-12-03,Wales
+5600,389,Daniel Potts,Defence,1994-04-13,England
+24058,389,Mads Juel Andersen,Defence,1997-12-27,Denmark
+46751,389,Gabriel Osho,Defence,1998-08-14,England
+48834,389,Daiki Hashioka,Defence,1999-05-17,Japan
+80781,389,Alfie Doughty,Defence,1999-12-21,England
+123574,389,Issa Kaboré,Defence,2001-05-12,Burkina Faso
+136352,389,Teden Mengi,Defence,2002-04-30,England
+209101,389,Joseph Johnson,Defence,2001-04-14,England
+250390,389,Christian Chigozie,Defence,2007-03-01,England
+4378,389,Fred Onyedinma,Midfield,1996-11-24,Nigeria
+4440,389,Chiedozie Ogbene,Midfield,1997-05-01,Ireland
+5623,389,Luke Berry,Midfield,1992-07-12,England
+7817,389,Ross Barkley,Midfield,1993-12-05,England
+8157,389,Andros Townsend,Midfield,1991-07-16,England
+8862,389,Albert Sambi Lokonga,Midfield,1999-10-22,Belgium
+8885,389,Marvelous Nakamba,Midfield,1994-10-19,Zimbabwe
+98483,389,Tahith Chong,Midfield,1999-12-04,Netherlands
+170448,389,Pelly-Ruddock Mpanzu,Midfield,1994-03-22,DR Congo
+177300,389,Elliot Thorpe,Midfield,2000-11-09,Wales
+209111,389,Zack Nelson,Midfield,2005-04-21,England
+209134,389,Axel Piesold,Midfield,2005-03-31,England
+249541,389,Dominic Martins,Midfield,2005-10-13,Portugal
+4413,389,Cauley Woodrow,Offence,1994-12-02,England
+5483,389,Carlton Morris,Offence,1995-12-16,England
+5552,389,Jacob Brown,Offence,1998-04-10,Scotland
+6240,389,Jordan Clark,Offence,1993-09-22,England
+58085,389,Elijah Adebayo,Offence,1998-01-07,England
+220613,389,Taylan Harris,Offence,2005-10-30,England
+37144,328,Lawrence Vigouroux,Goalkeeper,1993-11-19,Chile
+81179,328,Arijanet Muric,Goalkeeper,1998-11-07,Kosovo
+153874,328,James Trafford,Goalkeeper,2002-10-10,England
+1239,328,Vitinho,Defence,1999-07-23,Brazil
+6678,328,Louis Beyer,Defence,2000-05-19,Germany
+8043,328,Charlie Taylor,Defence,1993-09-18,England
+8845,328,Hannes Delcroix,Defence,1999-02-28,Belgium
+25650,328,Dara O'Shea,Defence,1999-03-04,Ireland
+31560,328,Hjalmar Ekdal,Defence,1998-10-21,Sweden
+135485,328,Lorenz Assignon,Defence,2000-06-22,France
+170857,328,Ameen Al Dakhil,Defence,2002-03-06,Belgium
+175784,328,Maxime Estève,Defence,2002-05-26,France
+3839,328,Jóhann Berg Guðmundsson,Midfield,1990-10-27,Iceland
+4401,328,Josh Brownhill,Midfield,1995-12-19,England
+8051,328,Jack Cork,Midfield,1989-06-25,England
+8092,328,Nathan Redmond,Midfield,1994-03-06,England
+8217,328,Josh Cullen,Midfield,1996-04-07,Ireland
+8973,328,Sander Berge,Midfield,1998-02-14,Norway
+8976,328,Benson Manuel,Midfield,1997-03-28,Belgium
+9405,328,Jacob Bruun Larsen,Midfield,1998-09-19,Denmark
+98953,328,Han-Noah Massengo,Midfield,2001-07-07,France
+122313,328,Zeki Amdouni,Midfield,2000-12-04,Switzerland
+172555,328,Aaron Ramsey,Midfield,2003-01-21,England
+184999,328,Wilson Odobert,Midfield,2004-11-28,France
+192680,328,Enock Agyei,Midfield,2005-01-13,Belgium
+207566,328,Mike Trésor,Midfield,1999-05-28,Belgium
+8032,328,Jay Rodriguez,Offence,1989-07-29,England
+34760,328,Lyle Foster,Offence,2000-09-04,South Africa
+160849,328,David Fofana,Offence,2002-12-22,Ivory Coast
+4327,356,Adam Davies,Goalkeeper,1992-07-17,Wales
+23699,356,Ivo Grbić,Goalkeeper,1996-01-18,Croatia
+34907,356,Wesley Foderingham,Goalkeeper,1991-01-14,England
+186507,356,Jordan Amissah,Goalkeeper,2001-08-02,Germany
+4013,356,Jack Robinson,Defence,1993-09-01,England
+4184,356,Jayden Bogle,Defence,2000-07-27,England
+4295,356,Chris Basham,Defence,1988-07-20,England
+4305,356,Rhys Norrington-Davies,Defence,1999-04-22,Wales
+4313,356,George Baldock,Defence,1993-03-09,Greece
+4425,356,John Egan,Defence,1992-10-20,Ireland
+5469,356,Max Lowe,Defence,1997-05-11,England
+7826,356,Mason Holgate,Defence,1996-10-22,England
+25615,356,Anel Ahmedhodzic,Defence,1999-03-26,Bosnia-Herzegovina
+77185,356,Auston Trusty,Defence,1998-08-12,USA
+133766,356,Yasser Larouci,Defence,2001-01-01,France
+184462,356,Sam Curtis,Defence,2005-12-01,Ireland
+245341,356,Evan Easton,Defence,2005-01-14,Scotland
+248774,356,Dovydas Sasnauskas,Defence,2007-01-01,Lithuania
+3972,356,Oliver Norwood,Midfield,1991-04-12,Northern Ireland
+7837,356,Tom Davies,Midfield,1998-06-30,England
+9623,356,Gustavo Hamer,Midfield,1997-06-24,Netherlands
+11296,356,Ben Osborn,Midfield,1994-08-05,England
+115078,356,Vinícius Souza,Midfield,1999-06-17,Brazil
+141826,356,Anis Ben Slimane,Midfield,2001-03-16,Tunisia
+172956,356,James McAtee,Midfield,2002-10-18,England
+178019,356,Ollie Arblaster,Midfield,2004-05-05,England
+188408,356,Andre Brooks,Midfield,2003-08-20,England
+210648,356,Sydie Peck,Midfield,2004-09-13,England
+250929,356,Owen Hampson,Midfield,2004-11-17,England
+4359,356,Oliver McBurnie,Offence,1996-06-04,Scotland
+7877,356,Rhian Brewster,Offence,2000-04-01,England
+11300,356,Ben Brereton,Offence,1999-04-18,Chile
+128242,356,Cameron Archer,Offence,2001-07-21,England
+169191,356,Daniel Jebbison,Offence,2003-07-11,England
+169324,356,William Osula,Offence,2003-08-04,England
+190938,356,Louie Marsh,Offence,2003-10-16,England
+226992,356,Ryan Oné,Offence,2006-06-26,Scotland
+247247,356,Billy Blacker,Offence,2006-05-25,England
+7015,1,Matthias Köbbing,Goalkeeper,1997-05-28,Germany
+9957,1,Marvin Schwäbe,Goalkeeper,1995-04-25,Germany
+10016,1,Philipp Pentke,Goalkeeper,1985-05-01,Germany
+184977,1,Jonas Nickisch,Goalkeeper,2004-05-21,Germany
+186,1,Dominique Heintz,Defence,1993-08-15,Germany
+309,1,Timo Hübers,Defence,1996-07-20,Germany
+7748,1,Julian Chabot,Defence,1998-02-12,Germany
+9539,1,Benno Schmitz,Defence,1994-11-17,Germany
+10053,1,Leart Paqarada,Defence,1994-10-08,Kosovo
+75707,1,Luca Kilian,Defence,1999-09-01,Germany
+114759,1,Rasmus Carstensen,Defence,2000-10-11,Denmark
+187998,1,Rijad Smajic,Defence,2004-05-02,Bosnia-Herzegovina
+191221,1,Elias Bakatukanda,Defence,2004-04-13,Germany
+214538,1,Max Finkgräfe,Defence,2004-03-27,Germany
+327,1,Linton Maina,Midfield,1999-06-23,Germany
+9453,1,Florian Kainz,Midfield,1992-10-24,Austria
+10656,1,Dejan Ljubicic,Midfield,1997-10-08,Austria
+58306,1,Florian Dietz,Midfield,1998-08-03,Germany
+72537,1,Jacob Christensen,Midfield,2001-06-25,Denmark
+150087,1,Denis Huseinbasic,Midfield,2001-07-03,Germany
+152726,1,Eric Martel,Midfield,2002-04-29,Germany
+319,1,Mark Uth,Offence,1991-08-24,Germany
+6537,1,Gian-Luca Waldschmidt,Offence,1996-05-19,Germany
+6570,1,Davie Selke,Offence,1995-01-20,Germany
+10039,1,Sargis Adamyan,Offence,1993-05-23,Armenia
+10561,1,Steffen Tigges,Offence,1998-07-31,Germany
+128740,1,Faride Alidou,Offence,2001-07-18,Germany
+137031,1,Jan Thielmann,Offence,2002-05-26,Germany
+185185,1,Damion Downs,Offence,2004-07-06,Germany
+191186,1,Justin Diehl,Offence,2004-11-27,Germany
+316,2,Oliver Baumann,Goalkeeper,1990-06-02,Germany
+75703,2,Luca Philipp,Goalkeeper,2000-11-28,Germany
+169319,2,Nahuel Noll,Goalkeeper,2003-03-17,Germany
+315,2,Kevin Akpoguma,Defence,1995-04-19,Nigeria
+317,2,Pavel Kadeřábek,Defence,1992-04-25,Czech Republic
+9417,2,John Brooks,Defence,1993-01-28,USA
+30548,2,Ozan Kabak,Defence,2000-03-25,Turkey
+136731,2,Melayro Bogarde,Defence,2002-05-28,Netherlands
+146716,2,David Jurásek,Defence,2000-08-07,Czech Republic
+150667,2,Marco John,Defence,2002-04-02,Germany
+179901,2,Kasim Adams,Defence,1995-06-22,Ghana
+203039,2,Stanley N'Soki,Defence,1999-04-09,France
+213739,2,Tim Drexler,Defence,2005-03-06,Germany
+326,2,Ihlas Bebou,Midfield,1994-04-23,Togo
+399,2,Dennis Geiger,Midfield,1998-06-10,Germany
+6836,2,Grischa Prömel,Midfield,1995-01-09,Germany
+10195,2,Robert Skov,Midfield,1996-05-20,Denmark
+65843,2,Anton Stach,Midfield,1998-11-15,Germany
+116259,2,Finn Ole Becker,Midfield,2000-06-08,Germany
+172574,2,Tom Bischof,Midfield,2005-06-28,Germany
+177525,2,Bambase Conte,Midfield,2003-07-07,Germany
+318,2,Andrej Kramarić,Offence,1991-06-19,Croatia
+404,2,Florian Grillitsch,Offence,1995-08-07,Austria
+7697,2,Wout Weghorst,Offence,1992-08-07,Netherlands
+10724,2,Mërgim Berisha,Offence,1998-05-11,Germany
+65441,2,Marius Bülter,Offence,1993-03-29,Germany
+133903,2,Maximilian Beier,Offence,2002-10-17,Germany
+248657,2,Max Moerstedt,Offence,2006-01-15,Germany
+165,3,Niklas Lomb,Goalkeeper,1993-07-28,Germany
+6696,3,Lukáš Hrádecký,Goalkeeper,1989-11-24,Finland
+136350,3,Matej Kovar,Goalkeeper,2000-05-17,Czech Republic
+149,3,Jonathan Tah,Defence,1996-02-11,Germany
+8148,3,Timothy Fosu-Mensah,Defence,1998-01-02,Netherlands
+16739,3,Alejandro Grimaldo,Defence,1995-09-20,Spain
+64713,3,Edmond Tapsoba,Defence,1999-02-02,Burkina Faso
+122188,3,Josip Stanišić,Defence,2000-04-02,Croatia
+125674,3,Piero Hincapié,Defence,2002-01-09,Ecuador
+182267,328,Luca Koleosho,Midfield,2004-09-15,USA
+128954,3,Jeremie Frimpong,Defence,2000-12-10,Netherlands
+157596,3,Noah Mbamba,Defence,2005-01-05,Belgium
+167098,3,Odilon Kossounou,Defence,2001-01-04,Ivory Coast
+178860,3,Arthur Augusto,Defence,2003-03-17,Brazil
+215496,3,Reno Münz,Defence,2005-10-02,Germany
+3477,3,Granit Xhaka,Midfield,1992-09-27,Switzerland
+6681,3,Jonas Hofmann,Midfield,1992-07-14,Germany
+11720,3,Exequiel Palacios,Midfield,1998-10-05,Argentina
+19334,3,Florian Wirtz,Midfield,2003-05-03,Germany
+45611,3,Robert Andrich,Midfield,1994-09-22,Germany
+137047,3,Amine Adli,Midfield,2000-05-10,France
+185188,3,Ayman Aourir,Midfield,2004-10-06,Germany
+191421,3,Gustavo Puerta,Midfield,2003-07-23,Colombia
+1826,3,Patrik Schick,Offence,1996-01-24,Czech Republic
+32056,3,Borja Iglesias,Offence,1993-01-17,Spain
+99042,3,Adam Hložek,Offence,2002-07-25,Czech Republic
+130811,3,Victor Boniface,Offence,2000-12-23,Nigeria
+144715,3,Nathan Tella,Offence,1999-07-05,England
+244862,3,Ken Izekor,Offence,2007-05-24,Germany
+245832,3,Francis Onyeka,Offence,2007-04-29,Germany
+334,4,Gregor Kobel,Goalkeeper,1997-12-06,Switzerland
+9389,4,Alexander Meyer,Goalkeeper,1991-04-13,Germany
+151077,4,Marcel Lotka,Goalkeeper,2001-05-25,Poland
+176268,4,Silas Ostrzinski,Goalkeeper,2003-11-19,Germany
+350,4,Mats Hummels,Defence,1988-12-16,Germany
+351,4,Niklas Süle,Defence,1995-09-03,Germany
+6714,4,Marius Wolf,Defence,1995-05-27,Germany
+8805,4,Ramy Bensebaini,Defence,1995-04-16,Algeria
+44030,4,Julian Ryerson,Defence,1997-11-17,Norway
+58521,4,Antonios Papadopoulos,Defence,1999-09-10,Germany
+75539,4,Nico Schlotterbeck,Defence,1999-12-01,Germany
+120984,4,Mateu Morey,Defence,2000-03-02,Spain
+131120,4,Ian Maatsen,Defence,2002-03-10,Netherlands
+177664,4,Guille Bueno,Defence,2002-09-18,Spain
+138,4,Marco Reus,Midfield,1989-05-31,Germany
+146,4,Jadon Sancho,Midfield,2000-03-25,England
+201,4,Salih Özcan,Midfield,1998-01-11,Turkey
+3183,4,Emre Can,Midfield,1994-01-12,Germany
+101074,4,Felix Kalu Nmecha,Midfield,2000-10-10,Germany
+161415,4,Abdoulaye Kamara,Midfield,2004-11-06,Guinea
+179460,4,Jamie Bynoe-Gittens,Midfield,2004-08-08,England
+246628,4,Kjell Wätjen,Midfield,2006-02-16,Germany
+148,4,Julian Brandt,Offence,1996-05-02,Germany
+304,4,Niclas Füllkrug,Offence,1993-02-09,Germany
+6721,4,Sébastien Haller,Offence,1994-06-22,Ivory Coast
+7457,4,Donyell Malen,Offence,1999-01-19,Netherlands
+9551,4,Marcel Sabitzer,Offence,1994-03-17,Austria
+82515,4,Karim Adeyemi,Offence,2002-01-18,Germany
+142162,4,Ole Pohlmann,Offence,2001-04-05,Germany
+150817,4,Youssoufa Moukoko,Offence,2004-11-20,Germany
+192607,4,Samuel Bamba,Offence,2004-02-13,Germany
+244696,4,Paris Brunner,Offence,2006-02-15,Germany
+341,5,Manuel Neuer,Goalkeeper,1986-03-27,Germany
+342,5,Sven Ulreich,Goalkeeper,1988-08-03,Germany
+113105,5,Daniel Peretz,Goalkeeper,2000-07-10,Israel
+202603,5,Tom Hülsmann,Goalkeeper,2004-04-11,Germany
+212846,5,Max Schmitt,Goalkeeper,2006-01-18,Germany
+359,5,Joshua Kimmich,Defence,1995-02-08,Germany
+3246,5,Raphaël Guerreiro,Defence,1993-12-22,Portugal
+3314,5,Eric Dier,Defence,1994-01-15,England
+7549,5,Matthijs de Ligt,Defence,1999-08-12,Netherlands
+7553,5,Noussair Mazraoui,Defence,1997-11-14,Morocco
+8353,5,Bouna Sarr,Defence,1992-01-31,Senegal
+9541,5,Dayot Upamecano,Defence,1998-10-27,France
+21288,5,Alphonso Davies,Defence,2000-11-02,Canada
+114915,5,Sacha Boey,Defence,2000-09-13,France
+168299,5,Min-Jae Kim,Defence,1996-11-15,South Korea
+212013,5,Tarek Buchmann,Defence,2005-02-28,Germany
+212842,5,Matteo Vinlöf,Defence,2005-12-18,Sweden
+246476,5,Adam Aznou,Defence,2006-06-02,Morocco
+311,5,Serge Gnabry,Midfield,1995-07-14,Germany
+360,5,Kingsley Coman,Midfield,1996-06-13,France
+3181,5,Leon Goretzka,Midfield,1995-02-06,Germany
+9549,5,Konrad Laimer,Midfield,1997-05-27,Austria
+144393,5,Jamal Musiala,Midfield,2003-02-26,Germany
+183635,5,Lovro Zvonarek,Midfield,2005-05-08,Croatia
+183731,5,Luca Denk,Midfield,2003-03-02,Germany
+202588,5,Noel Aseko Nkili,Midfield,2005-11-22,Germany
+202665,5,Aleksandar Pavlović,Midfield,2004-05-03,Germany
+202693,5,Max Scholze,Midfield,2005-04-30,Germany
+246474,5,Jonathan Asp-Jensen,Midfield,2006-01-14,Denmark
+370,5,Thomas Müller,Offence,1989-09-13,Germany
+3184,5,Leroy Sané,Offence,1996-01-11,Germany
+7963,5,Maxim Choupo-Moting,Offence,1989-03-23,Cameroon
+8004,5,Harry Kane,Offence,1993-07-28,England
+171977,5,Mathys Tel,Offence,2005-04-27,France
+180104,5,Bryan Zaragoza,Offence,2001-04-25,Spain
+6491,10,Alexander Nübel,Goalkeeper,1996-09-30,Germany
+6603,10,Fabian Bredlow,Goalkeeper,1995-03-02,Germany
+150050,10,Florian Schock,Goalkeeper,2001-05-22,Germany
+206327,10,Dennis Seimen,Goalkeeper,2005-12-01,Germany
+379,10,Waldemar Anton,Defence,1996-07-20,Germany
+6483,10,Dan-Axel Zagadou,Defence,1999-06-03,France
+6523,10,Josha Vagnoman,Defence,2000-12-11,Germany
+6549,10,Maximilian Mittelstädt,Defence,1997-03-18,Germany
+9487,10,Pascal Stenzel,Defence,1996-03-20,Germany
+48657,10,Hiroki Ito,Defence,1999-05-12,Japan
+111071,10,Leonidas Stergiou,Defence,2002-03-03,Switzerland
+150751,10,Anthony Rouault,Defence,2001-05-29,France
+212232,10,Moussa Cissé,Defence,2003-04-29,France
+215574,10,Anrie Chase,Defence,2004-03-24,Japan
+158,10,Mahmoud Dahoud,Midfield,1996-01-01,Syria
+190,10,Nikolas Nartey,Midfield,2000-02-22,Denmark
+206,10,Chris Führich,Midfield,1998-01-09,Germany
+3280,10,Genki Haraguchi,Midfield,1991-05-09,Japan
+6982,10,Roberto Massimo,Midfield,2000-10-12,Germany
+7079,10,Atakan Karazor,Midfield,1996-10-13,Germany
+123333,10,Jamie Leweling,Midfield,2001-02-26,Germany
+128565,10,Angelo Stiller,Midfield,2001-04-04,Germany
+136132,10,Lilian Egloff,Midfield,2002-08-20,Germany
+147913,10,Enzo Millot,Midfield,2002-07-17,France
+186092,10,Laurin Ulrich,Midfield,2005-01-31,Germany
+193091,10,Raul Paula,Midfield,1976-06-26,Germany
+213730,10,Samuele di Benedetto,Midfield,2005-07-16,Germany
+218454,10,Luca Raimund,Midfield,2005-04-09,Germany
+211,10,Sehrou Guirassy,Offence,1996-03-12,Guinea
+6928,10,Deniz Undav,Offence,1996-07-19,Germany
+72432,10,Jeong Wooyeong,Offence,1999-09-20,South Korea
+178640,10,Silas Katompa Mvumpa,Offence,1998-10-06,DR Congo
+3642,11,Koen Casteels,Goalkeeper,1992-06-25,Belgium
+10700,11,Pavao Pervan,Goalkeeper,1987-11-13,Austria
+66421,11,Niklas Klinger,Goalkeeper,1995-10-13,Germany
+2188,11,Rogério,Defence,1998-01-13,Brazil
+6634,11,Ridle Baku,Defence,1998-04-08,Germany
+8847,11,Sebastiaan Bornauw,Defence,1999-03-22,Belgium
+8975,11,Joakim Mæhle,Defence,1997-05-20,Denmark
+30886,11,Cédric Zesiger,Defence,1998-06-24,Switzerland
+82351,11,Maxence Lacroix,Defence,2000-04-06,France
+121664,11,Kilian Fischer,Defence,2000-10-12,Germany
+153289,11,Moritz Jenz,Defence,1999-04-30,Germany
+180431,11,Anders Børset,Defence,2006-02-22,Norway
+244694,11,Kofi Amoako,Defence,2005-05-06,Germany
+9423,11,Maximilian Arnold,Midfield,1994-05-27,Germany
+9426,11,Yannick Gerhardt,Midfield,1994-03-13,Germany
+15354,11,Mattias Svanberg,Midfield,1999-01-05,Sweden
+23214,11,Lovro Majer,Midfield,1998-01-17,Croatia
+122340,11,Aster Vranckx,Midfield,2002-10-04,Belgium
+124324,11,Patrick Wimmer,Midfield,2001-05-30,Austria
+127401,11,Jakub Kamiński,Midfield,2002-06-05,Poland
+140414,11,Kevin Paredes,Midfield,2003-05-07,USA
+252858,11,Bennit Bröger,Midfield,2006-07-01,Germany
+7005,11,Kevin Behrens,Offence,1991-02-03,Germany
+7568,11,Václav Černý,Offence,1997-10-17,Czech Republic
+7892,11,Lukas Nmecha,Offence,1998-12-14,Germany
+16335,11,Jonas Wind,Offence,1999-02-07,Denmark
+124473,11,Amin Sarr,Offence,2001-03-11,Sweden
+145057,11,Tiago Tomás,Offence,2002-06-16,Portugal
+184970,11,Dzenan Pejcinovic,Offence,2005-02-15,Germany
+9438,12,Michael Zetterer,Goalkeeper,1995-07-12,Germany
+9441,12,Jiří Pavlenka,Goalkeeper,1992-04-14,Czech Republic
+202975,12,Dudu,Goalkeeper,1999-02-10,Germany
+226969,12,Spyros Angelidis,Goalkeeper,2005-01-28,Greece
+3437,12,Miloš Veljković,Defence,1995-09-26,Serbia
+6555,12,Mitchell Weiser,Defence,1994-04-21,Germany
+6557,12,Niklas Stark,Defence,1995-04-14,Germany
+9447,12,Marco Friedl,Defence,1998-03-16,Austria
+10559,12,Felix Agu,Defence,1999-09-27,Germany
+24097,12,Anthony Jung,Defence,1991-11-03,Germany
+58282,12,Cimo Röcker,Defence,1994-01-21,Germany
+66095,12,Amos Pieper,Defence,1998-01-17,Germany
+153870,12,Julián Malatini,Defence,2001-05-31,Argentina
+199,12,Leonardo Bittencourt,Midfield,1993-12-19,Germany
+2263,12,Dawid Kownacki,Midfield,1997-03-14,Poland
+9547,12,Naby Keïta,Midfield,1995-02-10,Guinea
+9765,12,Senne Lynen,Midfield,1999-02-19,Belgium
+10549,12,Christian Groß,Midfield,1989-02-08,Germany
+16346,12,Romano Schmid,Midfield,2000-01-27,Austria
+23925,12,Jens Stage,Midfield,1996-11-08,Denmark
+122949,12,Justin Njinmah,Midfield,2000-11-15,Germany
+192455,12,Leon Opitz,Midfield,2005-04-11,Germany
+209770,12,Jakob Löpping,Midfield,2003-06-20,Germany
+226,12,Marvin Ducksch,Offence,1994-03-07,Germany
+93320,12,Olivier Deman,Offence,2000-04-06,Belgium
+133547,12,Nick Woltemade,Offence,2002-02-14,Germany
+145276,12,Isak Hansen-Aarøen,Offence,2004-08-22,Norway
+178648,12,Skelly Alvero,Offence,2002-05-04,France
+244925,12,Kein Sato,Offence,2001-07-11,Japan
+250347,12,Joel Imasuen,Offence,2004-10-27,USA
+6616,15,Robin Zentner,Goalkeeper,1994-10-28,Germany
+6985,15,Daniel Batz,Goalkeeper,1991-01-12,Germany
+170064,15,Lasse Rieß,Goalkeeper,2001-07-27,Germany
+2114,15,Silvan Widmer,Defence,1993-03-05,Switzerland
+6576,15,Philipp Mwene,Defence,1994-01-29,Austria
+6620,15,Stefan Bell,Defence,1991-08-24,Germany
+6707,15,Danny da Costa,Defence,1993-07-13,Germany
+7720,15,Sepp van den Berg,Defence,2001-12-20,Netherlands
+8220,15,Edimilson Fernandes,Defence,1996-04-15,Switzerland
+8785,15,Anthony Caci,Defence,1997-07-01,France
+9994,15,Maxim Leitsch,Defence,1998-05-18,Germany
+38394,15,Andreas Hanche-Olsen,Defence,1997-01-17,Norway
+190422,15,Lasse Wilhelm,Defence,2003-03-20,Germany
+248678,15,Maxim Dal,Defence,2006-01-26,Germany
+152,15,Dominik Kohr,Midfield,1994-01-31,Germany
+320,15,Nadiem Amiri,Midfield,1996-10-27,Germany
+9424,15,Josuha Guilavogui,Midfield,1990-09-19,France
+82403,15,Leandro Barreiro Martins,Midfield,2000-01-03,Luxembourg
+99812,15,Tom Krauß,Midfield,2001-06-22,Germany
+122717,15,David Mamutovic,Midfield,2000-12-05,Germany
+150688,15,Matondo-Merveille Papela,Midfield,2001-01-18,Germany
+177499,15,Eniss Shabani,Midfield,2003-05-29,Germany
+179889,15,Jae-sung Lee,Midfield,1992-08-10,South Korea
+213879,15,Tim Müller,Midfield,2004-09-23,Germany
+723,15,Ludovic Ajorque,Offence,1994-02-25,France
+6636,15,Karim Onisiwo,Offence,1992-03-17,Austria
+6664,15,Marco Richter,Offence,1997-11-24,Germany
+82404,15,Jonathan Burkardt,Offence,2000-07-11,Germany
+123049,15,Jessic Ngankam,Offence,2000-07-20,Germany
+172187,15,Marcus Muller,Offence,2002-08-20,Germany
+184973,15,Nelson Weiper,Offence,2005-03-17,Germany
+191102,15,Brajan Gruda,Offence,2004-05-31,Germany
+6617,16,Finn Dahmen,Goalkeeper,1998-03-27,Germany
+8799,16,Tomáš Koubek,Goalkeeper,1992-08-26,Czech Republic
+202638,16,Marcel Lubik,Goalkeeper,2004-05-19,Germany
+1566,16,Iago Borduchi,Defence,1997-03-23,Brazil
+6643,16,Raphael Framberger,Defence,1995-09-06,Germany
+6645,16,Jeffrey Gouweleeuw,Defence,1991-07-10,Netherlands
+6677,16,Reece Oxford,Defence,1998-12-16,England
+9430,16,Ohis Uduokhai,Defence,1997-09-09,Germany
+16268,16,Kevin Mbabu,Defence,1995-04-19,Switzerland
+24221,16,Mads Pedersen,Defence,1996-09-01,Denmark
+64249,16,Robert Gumny,Defence,1998-06-04,Poland
+67398,16,Patric Pfeiffer,Defence,1999-08-20,Germany
+72477,16,Maximilian Bauer,Defence,2000-02-09,Germany
+362,16,Niklas Dorsch,Midfield,1998-01-15,Germany
+6562,16,Arne Maier,Midfield,1999-01-08,Germany
+7264,16,Fredrik Jensen,Midfield,1997-09-09,Finland
+9432,16,Elvis Rexhbecaj,Midfield,1997-11-01,Germany
+23222,16,Kristijan Jakić,Midfield,1997-05-14,Croatia
+121525,16,David Deger,Midfield,2000-02-13,Germany
+147766,16,Arne Engels,Midfield,2003-09-08,Belgium
+153915,16,Tim Breithaupt,Midfield,2002-02-07,Germany
+157808,16,Daniel Hausmann,Midfield,2003-02-12,Germany
+183682,16,Mahmut Kücüksahin,Midfield,2004-04-07,Germany
+192654,16,Mert Kömür,Midfield,2005-07-17,Germany
+209567,16,Pep Biel,Midfield,1996-09-05,Spain
+31913,16,Ruben Vargas,Offence,1998-08-05,Switzerland
+33242,16,Ermedin Demirovic,Offence,1998-03-25,Bosnia-Herzegovina
+45590,16,Sven Michel,Offence,1990-07-15,Germany
+45593,16,Phillip Tietz,Offence,1997-07-09,Germany
+141308,16,Dion Drena Beljo,Offence,2002-03-01,Croatia
+6614,17,Florian Müller,Goalkeeper,1997-11-13,Germany
+6872,17,Benjamin Uphoff,Goalkeeper,1993-08-08,Germany
+123287,17,Noah Atubolu,Goalkeeper,2002-05-25,Germany
+171175,17,Niklas Sauter,Goalkeeper,2003-04-06,Germany
+181745,17,Jaaso Jantunen,Goalkeeper,2005-01-31,Finland
+3176,17,Matthias Ginter,Defence,1994-01-19,Germany
+9472,17,Christian Günter,Defence,1993-02-28,Germany
+9473,17,Lukas Kübler,Defence,1992-08-30,Germany
+9474,17,Manuel Gulde,Defence,1991-02-12,Germany
+9477,17,Philipp Lienhart,Defence,1996-07-11,Austria
+63207,17,Attila Szalai,Defence,1998-01-20,Hungary
+142790,17,Kiliann Sildillia,Defence,2002-05-16,France
+171180,17,Kenneth Schmidt,Defence,2002-06-03,Germany
+171186,17,Jordy Makengo,Defence,2001-08-03,France
+171203,17,Max Rosenfelder,Defence,2003-02-10,Germany
+6686,17,Vincenzo Grifo,Midfield,1993-04-07,Italy
+6884,17,Florent Muslija,Midfield,1998-07-06,Kosovo
+7531,17,Ritsu Doan,Midfield,1998-06-16,Japan
+9452,17,Maximilian Eggestein,Midfield,1996-12-08,Germany
+9485,17,Nicolas Höfler,Midfield,1990-03-09,Germany
+16119,17,Roland Sallai,Midfield,1997-05-22,Hungary
+60395,17,Chikwubuike Adamu,Midfield,2001-06-06,Austria
+65681,17,Fabian Rüdlin,Midfield,1997-01-13,Germany
+66114,17,Daniel-Kofi Kyereh,Midfield,1996-03-08,Ghana
+97120,17,Yannik Keitel,Midfield,2000-02-15,Germany
+98784,17,Ryan Johansson,Midfield,2001-02-15,Ireland
+156552,17,Merlin Röhl,Midfield,2002-07-05,Germany
+142,17,Maximilian Philipp,Offence,1994-03-01,Germany
+6661,17,Michael Gregoritsch,Offence,1994-04-18,Austria
+9501,17,Lucas Höler,Offence,1994-07-10,Germany
+10254,17,Maximilian Breunig,Offence,2000-08-14,Germany
+150689,17,Noah Weißhaupt,Offence,2001-09-20,Germany
+177018,17,Mika Baur,Offence,2004-07-09,Germany
+6667,18,Tobias Sippel,Goalkeeper,1988-03-22,Germany
+6668,18,Moritz Nicolas,Goalkeeper,1997-10-21,Germany
+30774,18,Jonas Omlin,Goalkeeper,1994-01-10,Switzerland
+97458,18,Jan Jakob Olschowsky,Goalkeeper,2001-11-18,Germany
+812,18,Jordan Siebatcheu,Defence,1996-04-26,USA
+3475,18,Nico Elvedi,Defence,1996-09-30,Switzerland
+6670,18,Tony Jantschke,Defence,1990-04-07,Germany
+6672,18,Mamadou Doucouré,Defence,1998-05-21,France
+6825,18,Marvin Friedrich,Defence,1995-12-13,Germany
+7562,18,Maximilian Wöber,Defence,1998-02-04,Austria
+16338,18,Stefan Lainer,Defence,1992-08-27,Austria
+48902,18,Ko Itakura,Defence,1997-01-27,Japan
+82442,18,Joseph Scally,Defence,2002-12-31,USA
+144361,18,Luca Netz,Defence,2003-05-15,Germany
+176307,18,Fabio Chiarodia,Defence,2005-06-05,Italy
+187273,18,Lukas Ullrich,Defence,2004-03-16,Germany
+191106,18,Simon Walde,Defence,2026-06-30,Germany
+212854,18,Ibrahim Digberekou,Defence,2005-02-22,Belgium
+144,18,Julian Weigl,Midfield,1995-09-08,Germany
+400,18,Robin Hack,Midfield,1998-08-27,Germany
+6680,18,Patrick Herrmann,Midfield,1991-02-12,Germany
+6682,18,Christoph Kramer,Midfield,1991-02-19,Germany
+9522,18,Florian Neuhaus,Midfield,1997-03-16,Germany
+102395,18,Kouadio Koné,Midfield,2001-05-17,France
+150517,18,Rocco Reitz,Midfield,2002-05-29,Germany
+183637,18,Grant-Leon Ranos,Midfield,2003-07-20,Armenia
+727,18,Franck Honorat,Offence,1996-08-11,France
+4795,18,Jacob Italiano,Offence,2001-07-30,Australia
+8443,18,Alassane Pléa,Offence,1993-03-10,France
+62913,18,Tomáš Čvančara,Offence,2000-08-13,Czech Republic
+98746,18,Nathan N'Goumou,Offence,2000-03-14,France
+206426,18,Shio Fukuda,Offence,2004-04-08,Japan
+3175,19,Kevin Trapp,Goalkeeper,1990-07-08,Germany
+9387,19,Jens Grahl,Goalkeeper,1988-09-22,Germany
+189482,19,Kaua,Goalkeeper,2003-04-11,Brazil
+191130,19,Simon Simoni,Goalkeeper,2027-06-30,Albania
+217389,19,Luke Gauer,Goalkeeper,2005-05-28,Germany
+230048,19,Nils Ramming,Goalkeeper,2007-03-28,Sweden
+3271,19,Makoto Hasebe,Defence,1984-01-18,Japan
+6644,19,Philipp Max,Defence,1993-09-30,Germany
+6701,19,Timmy Chandler,Defence,1990-03-29,USA
+9181,19,Buta,Defence,1997-02-10,Portugal
+9479,19,Robin Koch,Defence,1996-07-17,Germany
+99357,19,Tuta,Defence,1999-07-04,Brazil
+102967,19,Hrvoje Smolčić,Defence,2000-08-17,Croatia
+114102,19,William Pacho,Defence,2001-10-16,Ecuador
+116407,19,Eric Junior Dina Ebimbe,Defence,2000-11-21,France
+133292,19,Niels Nkounkou,Defence,2000-11-01,France
+171714,19,Nnamdi Collins,Defence,2004-01-10,Germany
+203036,19,Dario Gebuhr,Defence,2003-05-06,Germany
+205610,19,Davis Bautista,Defence,2005-02-16,Ecuador
+213880,19,Elias Baum,Defence,2005-10-26,Germany
+140,19,Mario Götze,Midfield,1992-06-03,Germany
+3608,19,Ellyes Skhiri,Midfield,1995-05-10,Tunisia
+6485,19,Sebastian Rode,Midfield,1990-10-11,Germany
+7556,19,Donny van de Beek,Midfield,1997-04-18,Netherlands
+140191,19,Noel Futkeu,Midfield,2002-12-06,Germany
+169198,19,Sidney Raebiger,Midfield,2005-04-17,Germany
+180563,19,Hugo Larsson,Midfield,2004-06-27,Sweden
+182589,19,Mehdi Loune,Midfield,2004-05-14,Germany
+185882,19,Jean Bahoya,Midfield,2005-05-07,France
+212850,19,Harpreet Ghotra,Midfield,2003-01-17,Germany
+250652,19,Marko Mladenovic,Midfield,2005-01-30,Serbia
+10761,19,Saša Kalajdžić,Offence,1997-07-07,Austria
+66896,19,Omar Marmoush,Offence,1999-02-07,Egypt
+150860,19,Ansgar Knauff,Offence,2002-01-10,Germany
+152454,19,Hugo Ekitike,Offence,2002-06-20,France
+178658,19,Fares Chaïbi,Offence,2002-11-28,Algeria
+189601,19,Nacho Ferri,Offence,2004-10-05,Spain
+3450,28,Frederik Rønnow,Goalkeeper,1992-08-04,Denmark
+6815,28,Jakob Busk,Goalkeeper,1993-09-12,Denmark
+9469,28,Alexander Schwolow,Goalkeeper,1992-06-02,Germany
+314,28,Kevin Vogt,Defence,1991-09-23,Germany
+6828,28,Christopher Trimmel,Defence,1987-02-24,Austria
+8369,28,Jérôme Roussillon,Defence,1993-01-06,France
+9412,28,Robin Knoche,Defence,1992-05-22,Germany
+9421,28,Paul Jaeckel,Defence,1998-07-22,Germany
+23202,28,Josip Juranović,Defence,1995-08-16,Croatia
+37796,28,Diogo Leite,Defence,1999-01-23,Portugal
+67886,28,Danilho Doekhi,Defence,1998-06-30,Netherlands
+240197,28,Oluwaseun Ogbemudia,Defence,2006-07-18,Germany
+1847,28,Robin Gosens,Midfield,1994-07-05,Germany
+6657,28,Rani Khedira,Midfield,1994-01-27,Germany
+8465,28,Lucas Tousart,Midfield,1997-04-29,France
+9489,28,Janik Haberer,Midfield,1994-04-02,Germany
+62623,28,Alex Král,Midfield,1998-05-19,Czech Republic
+72117,28,András Schafer,Midfield,1999-04-13,Hungary
+72604,28,Aïssa Laïdouni,Midfield,1996-12-13,Tunisia
+113262,28,Brenden Aaronson,Midfield,2000-10-22,USA
+246150,28,Noah Engelbreth,Midfield,2005-06-12,Germany
+247081,28,Tim Schleinitz,Midfield,2005-06-10,Germany
+150,28,Kevin Volland,Offence,1992-07-30,Germany
+9275,28,Chris Bédia,Offence,1996-03-05,Ivory Coast
+77867,28,Mikkel Kaufmann,Offence,2001-01-03,Denmark
+130880,28,Yorbe Vertessen,Offence,2001-01-08,Belgium
+150647,28,Benedict Hollerbach,Offence,2001-05-17,Germany
+324,36,Michael Esser,Goalkeeper,1987-11-22,Germany
+6640,36,Andreas Luthe,Goalkeeper,1987-03-10,Germany
+9984,36,Manuel Riemann,Goalkeeper,1988-09-09,Germany
+249040,36,Hugo Rölleke,Goalkeeper,2005-05-06,Germany
+401,36,Felix Passlack,Defence,1998-05-29,Germany
+3513,36,Cristian Gamboa,Defence,1989-10-24,Costa Rica
+8874,36,Erhan Mašović,Defence,1998-11-22,Serbia
+9540,36,Bernardo,Defence,1995-05-14,Brazil
+9897,36,Maximilian Wittek,Defence,1995-08-21,Germany
+9990,36,Anthony Losilla,Defence,1986-03-10,France
+9996,36,Danilo Soares,Defence,1991-10-29,Brazil
+16468,36,Ivan Ordets,Defence,1992-07-08,Ukraine
+50135,36,Noah Loosli,Defence,1997-01-23,Switzerland
+56858,36,Keven Schlotterbeck,Defence,1997-04-28,Germany
+80595,36,Niclas Thiede,Defence,1999-04-14,Germany
+99287,36,Moritz Römling,Defence,2001-04-30,Germany
+184968,36,Mohammed Tolba,Defence,2004-07-19,Germany
+184979,36,Tim Oermann,Defence,2003-10-06,Germany
+6807,36,Moritz Broschinski,Midfield,2000-09-23,Germany
+9942,36,Lukas Daschner,Midfield,1998-10-01,Germany
+9999,36,Kevin Stöger,Midfield,1993-08-27,Austria
+10069,36,Philipp Förster,Midfield,1995-02-04,Germany
+30302,36,Matúš Bero,Midfield,1995-09-06,Slovakia
+45586,36,Christopher Antwi-Adjei,Midfield,1994-02-07,Ghana
+120962,36,Patrick Osterhage,Midfield,2000-02-01,Germany
+151089,36,Agon Elezi,Midfield,2001-03-01,North Macedonia
+6927,36,Philipp Hofmann,Offence,1993-03-30,Germany
+9408,36,Takuma Asano,Offence,1994-11-10,Japan
+15919,36,Gonçalo Paciência,Offence,1994-08-01,Portugal
+66107,36,Moritz-Broni Kwarteng,Offence,1998-04-28,Ghana
+7013,44,Kevin Müller,Goalkeeper,1991-03-15,Germany
+7014,44,Vitus Eicher,Goalkeeper,1990-11-05,Germany
+143050,44,Paul Tschernuth,Goalkeeper,2002-01-20,Austria
+179959,44,Frank Feller,Goalkeeper,2004-01-07,Germany
+6484,44,Jan-Niklas Beste,Defence,1999-01-04,Germany
+6826,44,Lennart Maloney,Defence,1999-10-08,USA
+6879,44,Jonas Föhrenbach,Defence,1996-01-26,Germany
+7022,44,Marnon-Thomas Busch,Defence,1994-12-08,Germany
+7028,44,Norman Theuerkauf,Defence,1987-01-24,Germany
+10028,44,Benedikt Gimber,Defence,1997-02-19,Germany
+66088,44,Patrick Mainka,Defence,1994-11-06,Germany
+67347,44,Haktab Traoré,Defence,1998-02-04,Germany
+72462,44,Thomas Keller,Defence,1999-08-05,Germany
+114649,44,Tim Siersleben,Defence,2000-03-09,Germany
+212813,44,Seedy Jarju,Defence,2004-10-28,Gambia
+7036,44,Kevin Sessa,Midfield,2000-07-06,Germany
+67489,44,Jan Schöppner,Midfield,1999-06-12,Germany
+75675,44,Adrian Beck,Midfield,1997-06-09,Germany
+212841,44,Luka Janeš,Midfield,2004-01-19,Germany
+7032,44,Nikola Dovedan,Offence,1994-07-06,Austria
+7038,44,Denis Thomalla,Offence,1992-08-16,Germany
+7106,44,Florian Pick,Offence,1995-09-08,Germany
+9499,44,Tim Kleindienst,Offence,1995-08-31,Germany
+10369,44,Stefan Schimmer,Offence,1994-04-28,Germany
+75545,44,Marvin Pieringer,Offence,1999-10-04,Germany
+82499,44,Christian Kühlwetter,Offence,1996-04-21,Germany
+150733,44,Eren Dinkci,Offence,2001-12-13,Germany
+184540,44,Elidon Qenaj,Offence,2003-05-22,Germany
+203165,44,Christopher Negele,Offence,2005-04-11,Germany
+7083,55,Alexander Brunst,Goalkeeper,1995-07-07,Germany
+10050,55,Marcel Schuhen,Goalkeeper,1993-01-13,Germany
+66101,55,Morten Behrens,Goalkeeper,1997-04-01,Germany
+3985,55,Christoph Zimmermann,Defence,1993-01-12,Germany
+6876,55,Matthias Bader,Defence,1997-06-17,Germany
+9958,55,Jannik Müller,Defence,1994-01-18,Germany
+10091,55,Fabian Holland,Defence,1990-07-11,Germany
+56662,55,Thomas Isherwood,Defence,1998-01-28,Sweden
+60239,55,Emir Karic,Defence,1997-06-09,Austria
+137712,55,Christoph Klarer,Defence,2000-06-14,Austria
+150810,55,Matej Maglica,Defence,1998-09-25,Croatia
+170833,55,Clemens Riedel,Defence,2003-07-19,Germany
+6630,55,Gerrit Holtmann,Midfield,1995-03-25,Philippines
+7846,55,Fraser Hornby,Midfield,1999-09-13,Scotland
+9934,55,Fabian Schnellhardt,Midfield,1994-01-12,Germany
+10095,55,Tobias Kempe,Midfield,1989-06-27,Germany
+10098,55,Marvin Mehlem,Midfield,1997-09-11,Germany
+10825,55,Mathias Honsak,Midfield,1996-12-20,Austria
+58511,55,Klaus Gjasula,Midfield,1989-12-14,Germany
+66288,55,Julian Justvan,Midfield,1998-04-02,Germany
+72504,55,Fabian Nürnberger,Midfield,1999-07-28,Germany
+122265,55,Bartol Franjić,Midfield,2000-01-14,Croatia
+123279,55,Andreas Müller,Midfield,2000-07-20,Germany
+127873,55,Oscar Vilhelmsson,Midfield,2003-10-02,Sweden
+250932,55,Asaf Arania,Midfield,2005-10-19,Israel
+249,55,Aaron Seydel,Offence,1996-02-07,Germany
+6842,55,Sebastian Polter,Offence,1991-04-01,Germany
+7029,55,Tim Skarke,Offence,1996-09-07,Germany
+58329,55,Braydon Manu,Offence,1997-03-28,Ghana
+65567,55,Luca Pfeiffer,Offence,1996-08-20,Germany
+184554,55,Fabio Torsiello,Offence,2005-02-02,Italy
+6931,721,Janis Blaswich,Goalkeeper,1991-05-02,Germany
+9533,721,Péter Gulácsi,Goalkeeper,1990-05-06,Hungary
+45569,721,Leopold Zingerle,Goalkeeper,1994-04-10,Germany
+186082,721,Timo Schlieck,Goalkeeper,2006-03-02,Germany
+156,721,Benjamin Henrichs,Defence,1997-02-23,Germany
+234,721,Christopher Lenz,Defence,1994-09-22,Germany
+9536,721,Lukas Klostermann,Defence,1996-06-03,Germany
+9537,721,Willi Orban,Defence,1992-11-03,Hungary
+9905,721,David Raum,Defence,1998-04-22,Germany
+116196,721,Mohamed Simakan,Defence,2000-05-03,France
+170415,721,El Chadaille Bitshiabu,Defence,2005-05-16,France
+171405,721,Castello Lukeba,Defence,2002-12-17,France
+218429,721,Tim Köhler,Defence,2005-05-02,Germany
+252832,721,Jonathan Norbye,Defence,2007-03-26,Norway
+9550,721,Kevin Kampl,Midfield,1990-10-09,Slovenia
+15704,721,Amadou Haïdara,Midfield,1998-01-31,Mali
+16344,721,Xaver Schlager,Midfield,1997-09-28,Austria
+23132,721,Dani Olmo,Midfield,1998-05-07,Spain
+30629,721,Eljif Elmas,Midfield,1999-09-24,North Macedonia
+56829,721,Christoph Baumgartner,Midfield,1999-08-01,Austria
+113038,721,Nicolas  Seiwald,Midfield,2001-05-04,Austria
+148289,721,Xavi Simons,Midfield,2003-04-21,Netherlands
+246426,721,Nuha Jatta,Midfield,2006-03-15,Germany
+3466,721,Yussuf Poulsen,Offence,1994-06-16,Denmark
+73215,721,Loïs Openda,Offence,2000-02-16,Belgium
+124244,721,Benjamin Šeško,Offence,2003-05-31,Slovenia
+245825,721,Yannick Eduardo,Offence,2006-01-23,Netherlands
+1767,98,Marco Sportiello,Goalkeeper,1992-05-10,Italy
+1861,98,Antonio Mirante,Goalkeeper,1983-07-08,Italy
+8390,98,Mike Maignan,Goalkeeper,1995-07-03,France
+176943,98,Lapo Nava,Goalkeeper,2004-01-22,Italy
+185551,98,Noah Raveyre,Goalkeeper,2005-06-22,France
+227051,98,Andrea Bartoccioni,Goalkeeper,2004-03-14,Italy
+251128,98,Lorenzo Torriani,Goalkeeper,2005-01-31,Italy
+56,98,Simon Kjær,Defence,1989-03-26,Denmark
+71,98,Theo Hernández,Defence,1997-10-06,France
+1738,98,Davide Calabria,Defence,1996-12-06,Italy
+1753,98,Matteo Gabbia,Defence,1999-10-21,Italy
+1811,98,Alessandro Florenzi,Defence,1991-03-11,Italy
+1833,98,Mattia Caldara,Defence,1994-05-05,Italy
+11528,98,Fikayo Tomori,Defence,1997-12-19,England
+141295,98,Pierre Kalulu,Defence,2000-06-05,France
+142732,98,Malick Thiaw,Defence,2001-08-08,Germany
+144950,98,Filippo Terracciano,Defence,2003-02-08,Italy
+188876,98,Andrei Coubis,Defence,2003-09-29,Romania
+215616,98,Davide Bartesaghi,Defence,2005-12-29,Italy
+227048,98,Álex Jiménez,Defence,2005-05-08,Spain
+229281,98,Jan-Carlo Simić,Defence,2005-05-02,Serbia
+244943,98,Clinton Nsiala-Makengo,Defence,2004-01-17,France
+145,98,Christian Pulisic,Midfield,1998-09-18,USA
+7696,98,Tijjani Reijnders,Midfield,1998-07-29,Netherlands
+8159,98,Ruben Loftus-Cheek,Midfield,1996-01-23,England
+8489,98,Yacine Adli,Midfield,2000-07-29,France
+16058,98,Noah Okafor,Midfield,2000-05-24,Switzerland
+33124,98,Samuel Chukwueze,Midfield,1999-05-22,Nigeria
+99013,98,Tommaso Pobega,Midfield,1999-07-15,Italy
+150669,98,Yunus Musah,Midfield,2002-11-29,USA
+215621,98,Kevin Zeroli,Midfield,2005-01-11,Italy
+247120,98,Victor Eletu,Midfield,2005-04-01,Nigeria
+2505,98,Ismael Bennacer,Offence,1997-12-01,Algeria
+3371,98,Olivier Giroud,Offence,1986-09-30,France
+6723,98,Luka Jović,Offence,1997-12-23,Serbia
+15892,98,Rafael Leão,Offence,1999-06-10,Portugal
+242550,98,Francesco Camarda,Offence,2008-03-10,Italy
+251141,98,Diego Sia,Offence,2006-03-10,Italy
+2476,99,Pietro Terracciano,Goalkeeper,1990-03-08,Italy
+24293,99,Oliver Christensen,Goalkeeper,1999-03-22,Denmark
+189622,99,Tommaso Martinelli,Goalkeeper,2006-01-06,Italy
+192343,99,Tommaso Vannucchi,Goalkeeper,2007-03-05,Italy
+1775,99,Nikola Milenković,Defence,1997-10-12,Serbia
+1776,99,Cristiano Biraghi,Defence,1992-09-01,Italy
+1778,99,Luca Ranieri,Defence,1999-04-23,Italy
+2227,99,Davide Faraoni,Defence,1991-10-25,Italy
+16474,99,Dodô,Defence,1998-11-17,Brazil
+129801,99,Fabiano Parisi,Defence,2000-11-09,Italy
+169309,99,Lucas Martínez Quarta,Defence,1996-05-10,Argentina
+204348,99,Michael Kayode,Defence,2004-07-10,Italy
+217391,99,Pietro Comuzzo,Defence,2005-02-20,Italy
+250867,99,Christian Biagetti,Defence,2004-03-10,Italy
+1148,99,Arthur,Midfield,1996-08-12,Brazil
+1750,99,Giacomo Bonaventura,Midfield,1989-08-22,Italy
+2129,99,Antonín Barák,Midfield,1994-12-03,Czech Republic
+2194,99,Alfred Duncan,Midfield,1993-03-10,Ghana
+2230,99,Rolando Mandragora,Midfield,1997-06-29,Italy
+2676,99,Gaetano Castrovilli,Midfield,1997-02-17,Italy
+8352,99,Maxime López,Midfield,1997-12-04,France
+153979,99,Gino Infantino,Midfield,2003-05-19,Argentina
+250893,99,Maat Daniel Caprini,Midfield,2006-02-11,France
+251135,99,Niccolò Fortini,Midfield,2006-02-13,Italy
+1792,99,Riccardo Sottil,Offence,1999-06-03,Italy
+2298,99,Andrea Belotti,Offence,1993-12-20,Italy
+2707,99,Christian Kouamé,Offence,1997-12-06,Ivory Coast
+8381,99,Jonathan Ikoné,Offence,1998-05-02,France
+45680,99,Nicolás González,Offence,1998-04-06,Argentina
+98572,99,Lucas Beltrán,Offence,2001-06-23,Argentina
+161370,99,M'Bala Nzola,Offence,1996-08-18,Angola
+250887,99,Fallou Sene,Offence,2004-08-21,Senegal
+3239,100,Rui Patrício,Goalkeeper,1988-02-15,Portugal
+16735,100,Mile Svilar,Goalkeeper,1999-08-27,Serbia
+150942,100,Pietro Boer,Goalkeeper,2002-05-12,Italy
+245387,100,Renato Marin,Goalkeeper,2006-07-10,Brazil
+9,100,Diego Llorente,Defence,1993-08-16,Spain
+526,100,Evan N'Dicka,Defence,1999-08-20,Ivory Coast
+1817,100,Rick Karsdorp,Defence,1995-02-11,Netherlands
+1837,100,Gianluca Mancini,Defence,1996-04-17,Italy
+1842,100,Leonardo Spinazzola,Defence,1993-03-25,Italy
+7554,100,Rasmus Kristensen,Defence,1997-07-11,Denmark
+7646,100,Angeliño,Defence,1997-01-04,Spain
+7896,100,Chris Smalling,Defence,1989-11-22,England
+29622,100,Zeki Çelik,Defence,1997-02-17,Turkey
+120076,100,Martin Vetkal,Defence,2004-02-21,Estonia
+177081,100,Jan Oliveras,Defence,2004-07-07,Spain
+191727,100,Dean Huijsen,Defence,2005-04-14,Spain
+244998,100,Matteo Plaia,Defence,2006-03-29,Italy
+245043,100,Lovro Golič,Defence,2006-03-05,Slovenia
+1819,100,Lorenzo Pellegrini,Midfield,1996-06-19,Italy
+1844,100,Bryan Cristante,Midfield,1995-03-03,Italy
+3214,100,Leandro Paredes,Midfield,1994-06-29,Argentina
+8466,100,Houssem Aouar,Midfield,1998-06-30,Algeria
+154031,100,Tommaso Baldanzi,Midfield,2003-03-23,Italy
+156762,100,Edoardo Bove,Midfield,2002-05-16,Italy
+192382,100,Niccolo Pisilli,Midfield,2004-09-23,Italy
+206795,100,Riccardo Pagano,Midfield,2004-11-28,Italy
+220608,100,Mattia Mannini,Midfield,2006-07-08,Italy
+220609,100,Francesco D'Alessio,Midfield,2004-02-21,Italy
+1823,100,Stephan El Shaarawy,Offence,1992-10-27,Italy
+2046,100,Paulo Dybala,Offence,1993-11-15,Argentina
+3662,100,Romelu Lukaku,Offence,1993-05-13,Belgium
+3817,100,Sardar Azmoun,Offence,1995-01-01,Iran
+7985,100,Tammy Abraham,Offence,1997-10-02,England
+7988,100,Renato Sanches,Offence,1997-08-18,Portugal
+152528,100,Nicola Zalewski,Offence,2002-01-23,Poland
+177234,100,Filippo Alessio,Offence,2004-12-24,Italy
+189399,100,Luigi Cherubini,Offence,2004-01-15,Italy
+221388,100,João Costa,Offence,2005-03-28,Portugal
+1830,102,Francesco Rossi,Goalkeeper,1991-04-27,Italy
+46554,102,Juan Musso,Goalkeeper,1994-05-06,Argentina
+102220,102,Marco Carnesecchi,Goalkeeper,2000-07-01,Italy
+213170,102,Paolo Vismara,Goalkeeper,2003-03-28,Italy
+1832,102,Rafael Tolói,Defence,1990-10-10,Italy
+1835,102,Hans Hateboer,Defence,1994-01-09,Netherlands
+7555,102,Mitchel Bakker,Defence,2000-06-20,Netherlands
+7786,102,Sead Kolašinac,Defence,1993-06-20,Bosnia-Herzegovina
+7807,102,Davide Zappacosta,Defence,1992-06-11,Italy
+111777,102,Emil Holm,Defence,2000-05-13,Sweden
+151241,102,Matteo Ruggeri,Defence,2002-07-11,Italy
+153990,102,Giorgio Scalvini,Defence,2003-12-11,Italy
+167031,102,Isak Hien,Defence,1999-01-13,Sweden
+170381,102,Berat Djimsiti,Defence,2023-06-30,Albania
+177598,102,Giovanni Bonfanti,Defence,2003-01-17,Italy
+191664,102,Andrea Ceresoli,Defence,2003-03-25,Italy
+206136,102,Marco Palestra,Defence,2005-03-03,Italy
+207051,102,Tommaso Del Lungo,Defence,2004-04-20,Italy
+213178,102,José Palomino,Defence,1990-01-05,Argentina
+245244,102,Pietro Comi,Defence,2005-06-11,Italy
+1848,102,Marten de Roon,Midfield,1991-03-29,Netherlands
+3553,102,Mario Pašalić,Midfield,1995-02-09,Croatia
+3681,102,Aleksei Miranchuk,Midfield,1995-10-17,Russia
+7693,102,Teun Koopmeiners,Midfield,1998-02-28,Netherlands
+81440,102,Éderson,Midfield,1999-07-07,Brazil
+129947,102,Charles De Ketelaere,Midfield,2001-03-10,Belgium
+157495,102,Alessandro Cortinovis,Midfield,2001-01-25,Italy
+185019,102,Michel Adopo,Midfield,2000-07-19,France
+202308,102,Leonardo Mendicino,Midfield,2006-06-25,Italy
+204339,102,Matteo Colombo,Midfield,2004-03-09,Italy
+244756,102,Alberto Manzoni,Midfield,2005-06-25,Italy
+244973,102,Andrea Bonanomi,Midfield,2006-01-31,Italy
+2681,102,Gianluca Scamacca,Offence,1999-01-01,Italy
+9554,102,Ademola Lookman,Offence,1997-10-20,Nigeria
+140773,102,El Bilal Touré,Offence,2001-10-03,Mali
+177454,102,Tommaso De Nipoti,Offence,2003-07-23,Italy
+178139,102,Moustapha Cisse,Offence,2003-09-14,Guinea
+218571,102,Siren Diao,Offence,2005-01-21,Spain
+1797,103,Łukasz Skorupski,Goalkeeper,1991-05-05,Poland
+1862,103,Federico Ravaglia,Goalkeeper,1999-11-11,Italy
+175889,103,Nicola Bagnolini,Goalkeeper,2004-03-14,Italy
+217546,103,Tito Gasperini,Goalkeeper,2006-03-09,Italy
+395,103,Stefan Posch,Defence,1997-05-14,Austria
+1905,103,Babis Lykogiannis,Defence,1993-10-22,Greece
+2292,103,Lorenzo De Silvestri,Defence,1988-05-23,Italy
+8393,103,Adama Soumaoro,Defence,1992-06-18,France
+16265,103,Michel Aebischer,Defence,1997-01-06,Switzerland
+22113,103,Jhon Lucumí,Defence,1998-06-26,Colombia
+53281,103,Sam Beukema,Defence,1998-11-17,Netherlands
+133512,103,Riccardo Calafiori,Defence,2002-05-19,Italy
+167140,103,Victor Kristiansen,Defence,2002-12-16,Denmark
+167734,103,Wisdom Amey,Defence,2005-08-11,Italy
+178152,103,Mihajlo Ilic,Defence,2003-06-04,Serbia
+214554,103,Tommaso Corazza,Defence,2004-06-29,Italy
+1841,103,Remo Freuler,Midfield,1992-04-15,Switzerland
+8858,103,Alexis Saelemaekers,Midfield,1999-06-27,Belgium
+23135,103,Nikola Moro,Midfield,1998-03-12,Croatia
+34638,103,Lewis Ferguson,Midfield,1999-08-24,Scotland
+137362,103,Kacper Urbanski,Midfield,2004-09-07,Poland
+171123,103,Giovanni Fabbian,Midfield,2003-01-14,Italy
+171286,103,Oussama El Azzouzi,Midfield,2001-05-29,Morocco
+1886,103,Riccardo Orsolini,Offence,1997-01-24,Italy
+2017,103,Jens Odgaard,Offence,1999-03-31,Denmark
+31243,103,Jesper Karlsson,Offence,1998-07-25,Sweden
+77641,103,Dan Ndoye,Offence,2000-10-25,Switzerland
+99731,103,Joshua Zirkzee,Offence,2001-05-22,Netherlands
+170891,103,Santiago Castro,Offence,2004-09-18,Argentina
+217544,103,Tommaso Ravaglioli,Offence,2006-02-20,Italy
+2108,104,Simone Scuffet,Goalkeeper,1996-05-31,Italy
+2611,104,Boris Radunović,Goalkeeper,1996-05-26,Serbia
+80481,104,Simone Aresti,Goalkeeper,1986-03-15,Italy
+202717,104,Velizar Iliev,Goalkeeper,2005-07-20,Bulgaria
+2831,104,Tommaso Augello,Defence,1994-08-30,Italy
+3728,104,Yerry Mina,Defence,1994-09-23,Colombia
+7676,104,Pantelís Chatzidiákos,Defence,1997-01-18,Greece
+40265,104,Alberto Dossena,Defence,1998-10-13,Italy
+59072,104,Mateusz Wieteska,Defence,1997-02-11,Poland
+86122,104,Paulo Dentello,Defence,1994-07-15,Brazil
+97787,104,Alessandro Di Pardo,Defence,1999-07-18,Italy
+114052,104,Gabriele Zappa,Defence,1999-12-22,Italy
+170374,104,Adam Obert,Defence,2002-08-23,Slovakia
+1914,104,Alessandro Deiola,Midfield,1995-08-01,Italy
+2128,104,Jakub Jankto,Midfield,1996-01-19,Czech Republic
+2327,104,Nicolas Viola,Midfield,1989-10-12,Italy
+3168,104,Nahitan Nández,Midfield,1995-12-28,Uruguay
+42618,104,Marco Mancosu,Midfield,1988-08-22,Italy
+76896,104,Antoine Makoumbou,Midfield,1998-07-18,Congo
+102211,104,Gianluca Gaetano,Midfield,2000-05-05,Italy
+166329,104,Matteo Prati,Midfield,2003-12-28,Italy
+171586,104,Gaetano Oristanio,Midfield,2002-09-28,Italy
+188791,104,Ibrahim Sulemana,Midfield,2003-05-22,Ghana
+1854,104,Andrea Petagna,Offence,1995-06-30,Italy
+1925,104,Leonardo Pavoletti,Offence,1988-11-26,Italy
+1987,104,Gianluca Lapadula,Offence,1990-02-07,Peru
+49307,104,Eldor Shomurodov,Offence,1995-06-29,Uzbekistan
+171122,104,Zito Luvumbo,Offence,2002-03-09,Angola
+246153,104,Kingstone Mutandwa,Offence,2003-01-05,Zambia
+246156,104,Alessandro Vinciguerra,Offence,2005-08-18,Italy
+2580,107,Nicola Leali,Goalkeeper,1993-02-17,Italy
+75224,107,Daniele Sommariva,Goalkeeper,1997-07-18,Italy
+76696,107,Franz Stolz,Goalkeeper,2001-02-14,Austria
+101415,107,Josep Martinez,Goalkeeper,1998-05-27,Spain
+227020,107,Simone Calvani,Goalkeeper,2005-10-01,Italy
+1939,107,Mattia Bani,Defence,1993-12-10,Italy
+2443,107,Stefano Sabelli,Defence,1993-01-13,Italy
+7466,107,Ridgeciano Haps,Defence,1993-06-12,Suriname
+32701,107,Aaron Martín,Defence,1997-04-22,Spain
+39330,107,Johan Vásquez,Defence,1998-10-22,Mexico
+80775,107,Djed Spence,Defence,2000-08-09,England
+81998,107,Alessandro Vogliacco,Defence,1998-09-14,Italy
+153556,107,Koni De Winter,Defence,2002-06-12,Belgium
+176891,107,Giorgio Cittadini,Defence,2002-04-18,Italy
+191042,107,Alan Matturro,Defence,2004-10-11,Uruguay
+244673,107,Tommaso Pittino,Defence,2005-01-01,Italy
+1779,107,Milan Badelj,Midfield,1989-02-25,Croatia
+1812,107,Kevin Strootman,Midfield,1990-02-13,Netherlands
+7421,107,Morten Thorsby,Midfield,1996-05-05,Norway
+24119,107,Morten Frendrup,Midfield,2001-04-07,Denmark
+38409,107,Emil Bohinen,Midfield,1999-03-12,Norway
+179561,107,Ruslan Malinovskiy,Midfield,1993-05-04,Ukraine
+242561,107,Christos Papadopoulos,Midfield,2004-11-01,Greece
+244738,107,Riccardo Arboscello,Midfield,2005-12-10,Italy
+3851,107,Albert Guðmundsson,Offence,1997-06-15,Iceland
+4165,107,Caleb Ekuban,Offence,1994-03-23,Ghana
+11710,107,Mateo Retegui,Offence,1999-04-29,Italy
+97869,107,Junior Messias,Offence,1991-05-13,Brazil
+178736,107,Vitinha,Offence,2000-03-15,Portugal
+212573,107,David Ankeye,Offence,2002-05-22,Nigeria
+228745,107,Yoan Bornosuzov,Offence,2004-01-09,Bulgaria
+2819,108,Raffaele Di Gennaro,Goalkeeper,1993-10-03,Italy
+3087,108,Emil Audero,Goalkeeper,1997-01-18,Italy
+3470,108,Yann Sommer,Goalkeeper,1988-12-17,Switzerland
+217713,108,Alessandro Calligaris,Goalkeeper,2005-03-07,Italy
+193,108,Yann Aurel Bisseck,Defence,2000-11-29,Germany
+1834,108,Alessandro Bastoni,Defence,1999-04-13,Italy
+2037,108,Juan Cuadrado,Defence,1988-05-26,Colombia
+2053,108,Stefan de Vrij,Defence,1992-02-05,Netherlands
+2180,108,Francesco Acerbi,Defence,1988-02-10,Italy
+3364,108,Benjamin Pavard,Defence,1996-03-28,France
+7417,108,Denzel Dumfries,Defence,1996-04-18,Netherlands
+7900,108,Matteo Darmian,Defence,1989-12-02,Italy
+30821,108,Federico Dimarco,Defence,1997-11-10,Italy
+167689,108,Carlos Augusto Lobaton,Defence,1999-01-07,Brazil
+217910,108,Giacomo Stabile,Defence,2005-04-12,Italy
+245198,108,Matteo Motta,Defence,2005-02-10,Italy
+1754,108,Hakan Çalhanoğlu,Midfield,1994-02-08,Turkey
+1911,108,Nicolò Barella,Midfield,1997-02-07,Italy
+2197,108,Stefano Sensi,Midfield,1995-08-05,Italy
+2200,108,Davide Frattesi,Midfield,1999-09-22,Italy
+7795,108,Henrikh Mkhitaryan,Midfield,1989-01-21,Armenia
+7841,108,Davy Klaassen,Midfield,1993-02-21,Netherlands
+188920,108,Aleksandar Stankovic,Midfield,2005-08-03,Serbia
+190998,108,Issiaka Kamate,Midfield,2004-08-02,France
+206715,108,Ebenezer Akinsanmiro,Midfield,2004-11-25,Nigeria
+3220,108,Lautaro Martínez,Offence,1997-08-22,Argentina
+7911,108,Alexis Sánchez,Offence,1988-12-19,Chile
+8223,108,Marko Arnautovic,Offence,1989-04-19,Austria
+8685,108,Marcus Thuram-Ulien,Offence,1997-08-06,France
+113175,108,Tajon Buchanan,Offence,1999-02-08,Canada
+154733,108,Kristjan Asllani,Offence,2002-03-09,Albania
+217581,108,Amadou Sarr,Offence,2004-06-28,Italy
+1959,109,Mattia Perin,Goalkeeper,1992-11-10,Italy
+2022,109,Wojciech Szczęsny,Goalkeeper,1990-04-18,Poland
+2023,109,Carlo Pinsoglio,Goalkeeper,1990-03-16,Italy
+156656,109,Giovanni Garofani,Goalkeeper,2002-10-20,Italy
+189897,109,Simone Scaglia,Goalkeeper,2004-07-12,Italy
+191638,109,Giovanni Daffara,Goalkeeper,2004-12-05,Italy
+1106,109,Bremer,Defence,1997-03-18,Brazil
+2027,109,Daniele Rugani,Defence,1994-07-29,Italy
+2028,109,Alex Sandro,Defence,1991-01-26,Brazil
+2030,109,Mattia De Sciglio,Defence,1992-10-20,Italy
+7881,109,Danilo,Defence,1991-07-15,Brazil
+37134,109,Tiago Djaló,Defence,2000-04-09,Portugal
+124865,109,Andrea Cambiaso,Defence,2000-02-20,Italy
+140269,109,Carlos Alcaraz,Defence,2002-11-30,Argentina
+153130,109,Federico Gatti,Defence,1998-06-24,Italy
+189153,109,Tarik Muharemović,Defence,2003-02-28,Bosnia-Herzegovina
+246656,109,Pedro Felipe,Defence,2004-05-23,Brazil
+1751,109,Manuel Locatelli,Midfield,1998-01-08,Italy
+1780,109,Federico Chiesa,Midfield,1997-10-25,Italy
+3366,109,Paul Pogba,Midfield,1993-03-15,France
+3368,109,Adrien Rabiot,Midfield,1995-04-03,France
+3446,109,Filip Kostić,Midfield,1992-11-01,Serbia
+6507,109,Weston McKennie,Midfield,1998-08-28,USA
+97879,109,Nicolò Fagioli,Midfield,2001-02-12,Italy
+158893,109,Nikola Sekulov,Midfield,2002-02-18,Italy
+161142,109,Fabio Miretti,Midfield,2003-08-03,Italy
+191712,109,Kenan Yıldız,Midfield,2005-05-04,Turkey
+202420,109,Joseph Boende,Midfield,2005-05-15,Belgium
+217676,109,Luis Hasa,Midfield,2004-01-06,Italy
+2105,109,Arkadiusz Milik,Offence,1994-02-28,Poland
+2171,109,Moise Kean,Offence,2000-02-28,Italy
+8492,109,Tim Weah,Offence,2000-02-22,USA
+82002,109,Dušan Vlahović,Offence,2000-01-28,Serbia
+97894,109,Hans Nicolussi Caviglia,Offence,2000-06-18,Italy
+151247,109,Tommaso Mancini,Offence,2004-07-23,Italy
+158895,109,Leonardo Cerri,Offence,2003-03-04,Italy
+2083,110,Luigi Sepe,Goalkeeper,1991-05-08,Italy
+2475,110,Ivan Provedel,Goalkeeper,1994-03-17,Italy
+43190,110,Christos Mandas,Goalkeeper,2001-09-17,Greece
+187110,110,Federico Magro,Goalkeeper,2005-01-10,Italy
+192109,110,Davide Renzetti,Goalkeeper,2006-06-09,Italy
+1740,110,Alessio Romagnoli,Defence,1995-01-12,Italy
+1803,110,Luca Pellegrini,Defence,1999-03-07,Italy
+2065,110,Patric,Defence,1993-04-17,Spain
+2069,110,Adam Marušić,Defence,1992-10-17,Montenegro
+2088,110,Elseid Hysaj,Defence,1994-02-02,Albania
+2358,110,Manuel Lazzari,Defence,1993-11-29,Italy
+56645,110,Nicolò Casale,Defence,1998-02-14,Italy
+180139,110,Gila,Defence,2000-08-29,Spain
+192110,110,Fabio Ruggeri,Defence,2004-12-13,Italy
+600,110,Mattéo Guendouzi,Midfield,1999-04-14,France
+2009,110,Matías Vecino,Midfield,1991-08-24,Uruguay
+2060,110,Felipe Anderson,Midfield,1993-04-15,Brazil
+2158,110,Mattia Zaccagni,Midfield,1995-06-16,Italy
+2329,110,Danilo Cataldi,Midfield,1994-08-06,Italy
+2331,110,Cristiano Lombardi,Midfield,1995-08-19,Italy
+6716,110,Daichi Kamada,Midfield,1996-08-05,Japan
+81941,110,Anderson Lima,Midfield,1999-09-23,Italy
+111220,110,Nicolò Rovella,Midfield,2001-12-04,Italy
+191417,110,Diego González,Midfield,2003-01-07,Paraguay
+244837,110,Matteo Duțu,Midfield,2005-11-23,Romania
+247079,110,Luca Napolitano,Midfield,2004-01-10,Italy
+248090,110,Larsson Coulibaly,Midfield,2003-04-17,Ivory Coast
+2076,110,Ciro Immobile,Offence,1990-02-20,Italy
+2077,110,Luis Alberto,Offence,1992-11-28,Spain
+7818,110,Pedro,Offence,1987-07-28,Spain
+28416,110,Valentín Castellanos,Offence,1998-10-03,Argentina
+128007,110,Gustav Isaksen,Offence,2001-04-19,Denmark
+217916,110,Saná Fernandes,Offence,2006-03-10,Portugal
+1829,113,Pierluigi Gollini,Goalkeeper,1995-03-18,Italy
+2344,113,Alex Meret,Goalkeeper,1997-03-22,Italy
+74378,113,Nikita Contini Baranovsky,Goalkeeper,1996-05-21,Italy
+137818,113,Hubert Idasiak,Goalkeeper,2002-02-03,Poland
+2090,113,Mário Rui,Defence,1991-05-27,Portugal
+2386,113,Pasquale Mazzocchi,Defence,1995-07-27,Italy
+2487,113,Giovanni Di Lorenzo,Defence,1993-08-04,Italy
+23127,113,Amir Rrahmani,Defence,1994-02-24,Kosovo
+32754,113,Mathías Olivera,Defence,1997-10-31,Uruguay
+44032,113,Leo Østigård,Defence,1999-11-28,Norway
+138031,113,Natan,Defence,2001-02-06,Brazil
+161310,113,Juan Jesus,Defence,1991-06-10,Brazil
+221253,113,Luigi D'Avino,Defence,2005-12-08,Italy
+2097,113,Piotr Zieliński,Midfield,1994-05-20,Poland
+2193,113,Matteo Politano,Midfield,1993-08-03,Italy
+2499,113,Hamed Traoré,Midfield,2000-02-16,Ivory Coast
+3659,113,Leander Dendoncker,Midfield,1995-04-15,Belgium
+8354,113,André Zambo Anguissa,Midfield,1995-11-16,Cameroon
+9544,113,Diego Demme,Midfield,1991-11-21,Germany
+31676,113,Jens Cajuste,Midfield,1999-08-10,Sweden
+33628,113,Stanislav Lobotka,Midfield,1994-11-25,Slovakia
+81973,113,Jesper Lindstrøm,Midfield,2000-02-29,Denmark
+217548,113,Lorenzo Russo,Midfield,2005-04-19,Italy
+246104,113,Francesco Gioielli,Midfield,2004-02-26,Italy
+1789,113,Giovanni Simeone,Offence,1995-07-05,Argentina
+9434,113,Victor Osimhen,Offence,1998-12-29,Nigeria
+99859,113,Cyril Ngonge,Offence,2000-05-26,Belgium
+113285,113,Khvicha Kvaratskhelia,Offence,2001-02-12,Georgia
+114117,113,Giacomo Raspadori,Offence,2000-02-18,Italy
+1993,115,Daniele Padelli,Goalkeeper,1985-10-25,Italy
+2143,115,Marco Silvestri,Goalkeeper,1991-03-02,Italy
+65480,115,Maduka Okoye,Goalkeeper,1999-08-28,Nigeria
+215584,115,Joel Malusà,Goalkeeper,2007-03-28,Italy
+221765,115,Federico Mosca,Goalkeeper,2005-08-08,Italy
+777,115,Enzo Ebosse,Defence,1999-03-11,Cameroon
+822,115,Hassane Kamara,Defence,1994-03-05,Ivory Coast
+7710,115,Kingsley Ehizibue,Defence,1995-05-25,Netherlands
+8111,115,Christian Kabasele,Defence,1991-02-24,Belgium
+45671,115,Nehuén Pérez,Defence,2000-06-24,Argentina
+74688,115,Jaka Bijol,Defence,1999-02-05,Slovenia
+99311,115,Jordan Zemura,Defence,1999-11-14,Zimbabwe
+125700,115,João Ferreira,Defence,2001-03-22,Portugal
+151299,115,Thomas Kristensen,Defence,2002-01-17,Denmark
+157330,115,Festy Ebosele,Defence,2002-08-02,Ireland
+169269,115,Lautaro Giannetti,Defence,1993-11-13,Argentina
+175822,115,Antonio Tikvic,Defence,2004-04-21,Croatia
+187208,115,James Abankwah,Defence,2004-01-16,Ireland
+215582,115,Samuel John Nwachukwu,Defence,2005-11-04,Italy
+252872,115,Matteo Palma,Defence,2008-03-13,Germany
+6532,115,Walace,Midfield,1995-04-04,Brazil
+8120,115,Roberto Pereyra,Midfield,1991-01-07,Argentina
+10887,115,Sandi Lovric,Midfield,1998-03-28,Slovenia
+45711,115,Martín Payero,Midfield,1998-09-11,Argentina
+130420,115,Lazar Samardzic,Midfield,2002-02-24,Serbia
+150522,115,Oier Zarraga,Midfield,1999-01-04,Spain
+215588,115,David Pejičić,Midfield,2007-06-14,Slovenia
+217576,115,Bor Žunec,Midfield,2005-06-30,Slovenia
+1360,115,Brenner,Offence,2000-01-16,Brazil
+3370,115,Florian Thauvin,Offence,1993-01-26,France
+3896,115,Keinan Davis,Offence,1998-02-13,England
+8135,115,Gerard Deulofeu,Offence,1994-03-13,Spain
+11633,115,Isaac Success,Offence,1996-01-07,Nigeria
+40305,115,Lorenzo Lucca,Offence,2000-09-10,Italy
+1828,445,Etrit Berisha,Goalkeeper,1989-03-10,Albania
+40648,445,Samuele Perisan,Goalkeeper,1997-08-21,Italy
+82004,445,Elia Caprile,Goalkeeper,2001-08-25,Italy
+204342,445,Jacopo Seghetti,Goalkeeper,2005-02-17,Italy
+247357,445,Filippo Vertua,Goalkeeper,2006-01-01,Italy
+2120,445,Giuseppe Pezzella,Defence,1997-11-29,Italy
+2249,445,Bartosz Bereszyński,Defence,1992-07-12,Poland
+2483,445,Sebastiano Luperto,Defence,1996-09-06,Italy
+3385,445,Tyronne Ebuehi,Defence,1995-12-16,Nigeria
+4690,445,Liberato Cacace,Defence,2000-09-27,New Zealand
+23287,445,Ardian Ismajli,Defence,1996-09-30,Albania
+41093,445,Simone Bastoni,Defence,1996-11-05,Italy
+105441,445,Sebastian Walukiewicz,Defence,2000-04-05,Poland
+186532,445,Gabriele Indragoli,Defence,2004-02-20,Italy
+215525,445,Saba Goglichidze,Defence,2004-06-25,Georgia
+2362,445,Alberto Grassi,Midfield,1995-03-07,Italy
+9237,445,Răzvan Marin,Midfield,1996-05-23,Romania
+10202,445,Szymon Zurkowski,Midfield,1997-09-25,Poland
+16480,445,Viktor Kovalenko,Midfield,1996-02-14,Ukraine
+57805,445,Youssef Maleh,Midfield,1998-08-22,Morocco
+102363,445,Luca Belardinelli,Midfield,2001-03-14,Italy
+177054,445,Jacopo Fazzini,Midfield,2003-03-16,Italy
+245852,445,Andrea Sodero,Midfield,2004-08-07,Italy
+1888,445,Mattia Destro,Offence,1991-03-20,Italy
+2506,445,Francesco Caputo,Offence,1987-08-06,Italy
+2606,445,Alberto Cerri,Offence,1996-04-16,Italy
+117606,445,Nicolò Cambiaghi,Offence,2000-12-28,Italy
+152787,445,Matteo Cancellieri,Offence,2002-02-12,Italy
+171360,445,Herculano Nabian,Offence,2004-01-25,Portugal
+179540,445,Emmanuel Gyasi,Offence,1994-01-11,Ghana
+179624,445,M’Baye Niang,Offence,1994-12-19,Senegal
+188633,445,Stiven Shpendi,Offence,2003-05-19,Albania
+211542,445,Giacomo Corona,Offence,2004-02-24,Italy
+2439,450,Alessandro Berardi,Goalkeeper,1991-01-16,Italy
+2891,450,Lorenzo Montipò,Goalkeeper,1996-02-20,Italy
+42319,450,Simone Perilli,Goalkeeper,1995-01-07,Italy
+92090,450,Mattia Chiesa,Goalkeeper,2000-07-16,Italy
+176869,450,Giacomo Toniolo,Goalkeeper,2004-04-01,Italy
+724,450,Fabien Centonze,Defence,1996-01-16,France
+2592,450,Giangiacomo Magnani,Defence,1995-10-04,Italy
+4089,450,Ruben Vinagre,Defence,1999-04-09,Portugal
+121860,450,Juan Cabal,Defence,2001-01-08,Colombia
+176720,450,Diego Coppola,Defence,2003-12-28,Italy
+189152,450,Christian Corradi,Defence,2005-02-21,Italy
+213188,450,Paweł Dawidowicz,Defence,1995-05-20,Poland
+1974,450,Darko Lazović,Midfield,1990-09-15,Serbia
+6560,450,Ondrej Duda,Midfield,1994-12-15,Slovakia
+6629,450,Suat Serdar,Midfield,1997-04-11,Germany
+42760,450,Michael Folorunsho,Midfield,1998-02-07,Italy
+137978,450,Tomáš Suslov,Midfield,2002-06-07,Slovakia
+171370,450,Daniel Silva,Midfield,2000-04-11,Portugal
+171448,450,Tijjani Noslin,Midfield,1999-07-07,Netherlands
+187476,450,Reda Belahyane,Midfield,2004-06-01,France
+204335,450,Joselito,Midfield,2004-02-09,Spain
+215513,450,Nicola Patanè,Midfield,2004-03-23,Italy
+221866,450,Nicolò Calabrese,Midfield,2004-11-16,Italy
+2373,450,Federico Bonazzoli,Offence,1997-05-21,Italy
+64267,450,Karol Świderski,Offence,1997-01-23,Poland
+77237,450,Thomas Henry,Offence,1994-09-20,France
+99512,450,Elayis Tavsan,Offence,2001-04-30,Netherlands
+136910,450,Stefan Mitrović,Offence,2002-08-15,Serbia
+140261,450,Juan Cruz,Offence,1999-07-19,Argentina
+171027,450,Jackson Tchatchoua,Offence,2002-06-22,Cameroon
+192142,450,Alphadjo Cisse,Offence,2006-10-22,Italy
+203887,450,Charlys,Offence,2004-02-19,Brazil
+252918,450,Junior Ajayi,Offence,2004-10-11,Ivory Coast
+2856,455,Vincenzo Fiorillo,Goalkeeper,1990-01-13,Italy
+8494,455,Benoît Costil,Goalkeeper,1987-07-03,France
+181386,455,Francisco Ochoa,Goalkeeper,1985-07-14,Mexico
+217716,455,Pasquale Allocca,Goalkeeper,2005-05-09,Italy
+240201,455,Gregorio Salvati,Goalkeeper,2005-02-07,Italy
+347,455,Jérôme Boateng,Defence,1988-09-03,Germany
+1798,455,Kostas Manolas,Defence,1991-06-14,Greece
+1800,455,Federico Fazio,Defence,1987-03-17,Argentina
+2449,455,Norbert Gyömbér,Defence,1992-07-03,Slovakia
+2996,455,Alessandro Zanoli,Defence,2000-10-03,Italy
+8382,455,Junior Sambia,Defence,1996-09-07,France
+25504,455,Domagoj Bradarić,Defence,1999-12-10,Croatia
+43259,455,Triantafyllos Pasalidis,Defence,1996-07-19,Greece
+137678,455,Lorenzo Pirola,Defence,2002-02-20,Italy
+196495,455,Marco Pellegrino,Defence,2002-07-18,Argentina
+215581,455,Emanuele Elia,Defence,2004-12-19,Italy
+249028,455,Tommaso Ferrari,Defence,2005-04-30,Italy
+251306,455,Niccolò Guccione,Defence,2006-03-04,Italy
+2005,455,Antonio Candreva,Midfield,1987-02-28,Italy
+2834,455,Giulio Maggiore,Midfield,1998-03-12,Italy
+8658,455,Lassana Coulibaly,Midfield,1996-04-10,Mali
+23703,455,Toma Bašić,Midfield,1996-11-25,Croatia
+98299,455,Boulaye Dia,Midfield,1996-11-16,Senegal
+114136,455,Iron Gomis,Midfield,1999-11-08,France
+169011,455,Agustin Martegani,Midfield,2000-03-20,Argentina
+170394,455,Loum Tchaouna,Midfield,2003-09-08,France
+206172,455,Andres Sfait,Midfield,2004-12-09,Romania
+209139,455,Mateusz Łęgowski,Midfield,2003-01-29,Poland
+213184,455,Niccolò Pierozzi,Midfield,2001-09-12,Italy
+245692,455,Ciro Borrelli,Midfield,2006-01-09,Italy
+251261,455,Rocco Di Vico,Midfield,2007-01-01,Italy
+1955,455,Emanuel Vignato,Offence,2000-04-28,Italy
+2236,455,Simeon Nwankwo,Offence,1992-05-07,Nigeria
+9306,455,Grigoris Kastanos,Offence,1998-01-30,Cyprus
+41152,455,Shon Weissman,Offence,1996-02-14,Israel
+128579,455,Mikael,Offence,1999-05-28,Brazil
+212433,455,Chukwubuikem Ikwuemesi,Offence,2001-08-05,Nigeria
+251310,455,Gerardo Fusco,Offence,2005-05-18,Italy
+252916,455,Luca Boncori,Offence,2006-02-21,Italy
+1768,470,Michele Cerofolini,Goalkeeper,1999-01-04,Italy
+2374,470,Pierluigi Frattali,Goalkeeper,1985-12-01,Italy
+41384,470,Stefano Turati,Goalkeeper,2001-09-05,Italy
+172293,470,Lorenzo Palmisani,Goalkeeper,2004-01-01,Italy
+1877,470,Simone Romagnoli,Defence,1990-02-09,Italy
+2185,470,Pol Mikel Lirola,Defence,1997-08-13,Spain
+2282,470,Kevin Bonifazi,Defence,1996-05-19,Italy
+2795,470,Riccardo Marchizza,Defence,1998-03-26,Italy
+42613,470,Emanuele Valeri,Defence,1998-12-07,Italy
+101439,470,Caleb Okoli,Defence,2001-07-13,Italy
+102973,470,Sergio Kalaj,Defence,2000-01-28,Albania
+127143,470,Nadir Zortea,Defence,1999-06-19,Italy
+136640,470,Ilario Monterisi,Defence,2001-12-19,Italy
+148672,470,Anthony Oyono,Defence,2001-04-12,Gabon
+203839,470,Mateus Lusuardi,Defence,2004-01-08,Brazil
+214551,470,Daniel Macej,Defence,2004-04-29,Czech Republic
+215511,470,Matjaž Kamenšek Pahič,Defence,2004-07-04,Slovenia
+2196,470,Luca Mazzitelli,Midfield,1995-11-15,Italy
+2803,470,Soufiane Bidaoui,Midfield,1990-04-20,Morocco
+7763,470,Abdou Harroui,Midfield,1998-01-13,Morocco
+40471,470,Francesco Gelli,Midfield,1996-10-15,Italy
+99858,470,Marco Brescianini,Midfield,2000-01-20,Italy
+123350,470,Reinier,Midfield,2002-01-19,Brazil
+158894,470,Enzo Barrenechea,Midfield,2001-05-22,Argentina
+176899,470,Arijon Ibrahimovic,Midfield,2005-12-11,Germany
+188117,470,Isak Vural,Midfield,2006-05-28,Turkey
+2883,470,Jaime Báez,Offence,1995-04-25,Uruguay
+3014,470,Luca Garritano,Offence,1994-02-11,Italy
+91310,470,Kaio Jorge,Offence,2002-01-24,Brazil
+97309,470,Giuseppe Caso,Offence,1998-12-09,Italy
+129808,470,Walid Cheddira,Offence,1998-01-22,Morocco
+146269,470,Marvin Cuni,Offence,2001-07-10,Albania
+151961,470,Demba Seck,Offence,2001-02-10,Senegal
+171121,470,Matias Soule,Offence,2003-04-15,Argentina
+211564,470,Giorgi Kvernadze,Offence,2003-02-07,Georgia
+245324,470,Farés Ghedjemis,Offence,2002-09-06,France
+1895,471,Alessio Cragno,Goalkeeper,1994-06-28,Italy
+2175,471,Gianluca Pegolo,Goalkeeper,1981-03-25,Italy
+2176,471,Andrea Consigli,Goalkeeper,1987-01-27,Italy
+185073,471,Daniel Theiner,Goalkeeper,2004-02-25,Italy
+218415,471,Alessandro Scacchetti,Goalkeeper,2005-02-22,Italy
+162,471,Jeremy Toljan,Defence,1994-08-08,Germany
+2151,471,Marash Kumbulla,Defence,2000-02-08,Albania
+38548,471,Marcus Pedersen,Defence,2000-07-16,Norway
+74268,471,Martin Erlic,Defence,1998-01-24,Croatia
+122407,471,Josh Doig,Defence,2002-01-01,Scotland
+131258,471,Ruan,Defence,1999-06-07,Brazil
+136628,471,Mattia Viti,Defence,2002-01-24,Italy
+175837,471,Filippo Missori,Defence,2004-03-24,Italy
+179539,471,Gianmarco Ferrari,Defence,1992-02-15,Italy
+206128,471,Matteo Falasca,Defence,2004-04-27,Italy
+244896,471,Seb Loeffen,Defence,2004-01-18,Netherlands
+1153,471,Matheus Henrique,Midfield,1997-12-19,Brazil
+2847,471,Samuele Mulattieri,Midfield,2000-10-07,Italy
+8210,471,Pedro Obiang,Midfield,1992-03-27,Equatorial Guinea
+30889,471,Nedim Bajrami,Midfield,1999-02-28,Albania
+44033,471,Kristian Thorstvedt,Midfield,1999-03-13,Norway
+147020,471,Daniel Boloca,Midfield,1998-12-22,Italy
+175891,471,Cristian Volpato,Midfield,2003-11-15,Italy
+176880,471,Salim Abubakar,Midfield,2003-04-06,Ghana
+176917,471,Justin Kumi,Midfield,2004-07-16,Italy
+189844,471,Luca Lipani,Midfield,2005-05-18,Italy
+1824,471,Gregoire Defrel,Offence,1991-06-17,Martinique
+2016,471,Andrea Pinamonti,Offence,1999-05-19,Italy
+2202,471,Domenico Berardi,Offence,1994-08-01,Italy
+8822,471,Armand Lauriente,Offence,1998-12-04,France
+16208,471,Emil Ceide,Offence,2001-09-03,Norway
+33126,471,Samu Castillejo,Offence,1995-01-18,Spain
+67704,471,Uroš Račić,Offence,1998-03-17,Serbia
+2275,586,Vanja Milinković-Savić,Goalkeeper,1997-02-20,Serbia
+101392,586,Luca Gemello,Goalkeeper,2000-07-03,Italy
+140195,586,Pietro Passador,Goalkeeper,2003-02-26,Italy
+169137,586,Mihai Popa,Goalkeeper,2000-10-12,Romania
+220114,586,Matteo Brezzo,Goalkeeper,2005-06-13,Italy
+207094,81,Pau Prim,Midfield,2006-02-22,Spain
+1745,586,Ricardo Rodriguez,Defence,1992-08-25,Switzerland
+1748,586,Raoul Bellanova,Defence,2000-05-17,Italy
+1865,586,Adam Masina,Defence,1994-01-02,Morocco
+2280,586,Alessandro Buongiorno,Defence,1999-06-06,Italy
+6563,586,Valentino Lazaro,Defence,1996-03-24,Austria
+8689,586,Koffi Djidji,Defence,1992-11-30,Ivory Coast
+9204,586,Mërgim Vojvoda,Defence,1995-02-01,Kosovo
+53469,586,Perr Schuurs,Defence,1999-11-26,Netherlands
+118152,586,Matteo Lovato,Defence,2000-02-14,Italy
+161083,586,Saba Sazonov,Defence,2002-02-01,Georgia
+218559,586,Alessandro Dellavalle,Defence,2004-05-11,Italy
+246081,586,Vimoj Muntu Wa Mungu,Defence,2004-10-15,France
+2258,586,Karol Linetty,Midfield,1995-02-02,Poland
+7843,586,Nikola Vlašić,Midfield,1997-10-04,Croatia
+8438,586,Adrien Tameze,Midfield,1994-02-04,Cameroon
+67697,586,Ivan Ilić,Midfield,2001-03-17,Serbia
+115245,586,Samuele Ricci,Midfield,2001-08-21,Italy
+190831,586,Gvidas Gineitis,Midfield,2004-04-15,Lithuania
+191428,586,Aaron Ciammaglichella,Midfield,2005-01-26,Italy
+220113,586,Jacopo Antolini,Midfield,2004-01-10,Italy
+244639,586,Jonathan Silva,Midfield,2004-04-24,Brazil
+246638,586,Comè Bianay Balcot,Midfield,2005-05-13,France
+14,586,Antonio Sanabria,Offence,1996-03-04,Paraguay
+2271,586,Duván Zapata,Offence,1991-04-01,Colombia
+8768,586,Pietro Pellegri,Offence,2001-03-17,Italy
+42179,586,David Okereke,Offence,1997-08-29,Nigeria
+217926,586,Uroš Kabić,Offence,2004-01-01,Serbia
+226987,586,Zannetos Savva,Offence,2005-11-26,Cyprus
+246508,586,Alieu Njie,Offence,2005-05-14,Sweden
+1769,5890,Federico Brancolini,Goalkeeper,2001-07-14,Italy
+56649,5890,Wladimiro Falcone,Goalkeeper,1995-04-12,Italy
+133202,5890,Jasper Samooja,Goalkeeper,2003-07-21,Finland
+157189,5890,Alexandru Borbei,Goalkeeper,2003-06-27,Romania
+2310,5890,Lorenzo Venuti,Defence,1995-04-12,Italy
+8872,5890,Ahmed Touba,Defence,1999-03-13,Algeria
+15110,5890,Marin Pongračić,Defence,1997-09-11,Croatia
+42152,5890,Kastriot Dermaku,Defence,1992-01-15,Albania
+77469,5890,Antonino Gallo,Defence,2000-01-05,Italy
+86045,5890,Federico Baschirotto,Defence,1996-09-20,Italy
+121279,5890,Valentin Gendrey,Defence,2000-06-21,France
+171573,5890,Daniel Samek,Defence,2004-02-19,Czech Republic
+192420,5890,Sebastian Esposito,Defence,2003-07-21,Australia
+211559,5890,Patrick Dorgu,Defence,2004-10-26,Denmark
+818,5890,Rémi Oudin,Midfield,1996-11-18,France
+8302,5890,Alexis Blin,Midfield,1996-09-16,France
+70286,5890,Ylber Ramadani,Midfield,1996-04-12,Albania
+116223,5890,Santiago Pierotti,Midfield,2001-04-03,Argentina
+129319,5890,Hamza Rafia,Midfield,1999-04-02,Tunisia
+170915,5890,Mohamed Kaba,Midfield,2001-10-27,France
+175932,5890,Joan Gonzalez,Midfield,2002-02-01,Spain
+184743,5890,Jeppe Corfitzen,Midfield,2004-12-29,Denmark
+188103,5890,Medon Berisha,Midfield,2003-10-21,Albania
+31881,5890,Pontus Almqvist,Offence,1999-07-10,Sweden
+33129,5890,Nicola Sansone,Offence,1991-09-10,Italy
+102591,5890,Roberto Piccoli,Offence,2001-01-27,Italy
+120679,5890,Nikola Krstović,Offence,2000-04-05,Montenegro
+121808,5890,Lameck Banda,Offence,2001-01-29,Zambia
+172414,5890,Rares Burnete,Offence,2004-01-31,Romania
+41381,5911,Michele Di Gregorio,Goalkeeper,1997-07-27,Italy
+41729,5911,Stefano Gori,Goalkeeper,1996-03-09,Italy
+127147,5911,Alessandro Sorrentino,Goalkeeper,2002-04-03,Italy
+165301,5911,Andrea Mazza,Goalkeeper,2004-01-01,Italy
+1962,5911,Armando Izzo,Defence,1992-03-02,Italy
+1971,5911,Pedro Pereira,Defence,1998-01-22,Portugal
+1995,5911,Danilo D'Ambrosio,Defence,1988-09-09,Italy
+6622,5911,Giulio Donati,Defence,1990-02-05,Italy
+7647,5911,Pablo Marí,Defence,1993-08-31,Spain
+9443,5911,Luca Caldirola,Defence,1991-02-01,Italy
+40611,5911,Samuele Birindelli,Defence,1999-07-19,Italy
+81468,5911,Davide Bettella,Defence,2000-04-07,Italy
+137506,5911,Andrea Carboni,Defence,2001-02-04,Italy
+179577,5911,Giorgos Kyriakopoulos,Defence,1996-02-05,Greece
+1852,5911,Andrea Colpani,Midfield,1999-05-11,Italy
+2006,5911,Roberto Gagliardini,Midfield,1994-04-07,Italy
+2836,5911,Matteo Pessina,Midfield,1997-04-21,Italy
+29230,5911,Pepinho,Midfield,1996-08-14,Equatorial Guinea
+136113,5911,Daniel Maldini,Midfield,2001-10-11,Italy
+156527,5911,Warren Bondo,Midfield,2003-09-15,France
+180333,5911,Samuele Vignato,Midfield,2004-02-24,Italy
+187371,5911,Valentín Carboni,Midfield,2005-03-05,Italy
+189196,5911,Leonardo Colombo,Midfield,2005-06-04,Italy
+189203,5911,Andrea Ferraris,Midfield,2003-02-22,Italy
+213187,5911,Jean-Daniel Akpa-Akpro,Midfield,1992-10-11,Ivory Coast
+213276,5911,Papu Gómez,Midfield,1988-02-15,Argentina
+246552,5911,Matija Popović,Midfield,2006-01-08,Serbia
+250187,5911,Alessandro Berretta,Midfield,2006-01-01,Italy
+2107,5911,Alessio Zerbin,Offence,1999-03-03,Italy
+2270,5911,Gianluca Caprari,Offence,1993-07-30,Italy
+3040,5911,Dany Mota Carvalho,Offence,1998-05-02,Portugal
+4409,5911,Milan Đurić,Offence,1990-05-22,Bosnia-Herzegovina
+42347,5911,Patrick Ciurria,Offence,1995-02-09,Italy
+144566,5911,Lorenzo Colombo,Offence,2002-03-08,Italy
+32570,77,Unai Simón,Goalkeeper,1997-06-11,Spain
+172017,77,Julen Agirrezabala,Goalkeeper,2000-12-26,Spain
+203459,77,Álex Padilla,Goalkeeper,2003-09-01,Spain
+8479,77,Yuri Berchiche,Defence,1990-02-10,Spain
+32579,77,Yeray Álvarez,Defence,1995-01-24,Spain
+32581,77,Iñigo Lekue,Defence,1993-05-04,Spain
+32599,77,De Marcos,Defence,1989-04-14,Spain
+32618,77,Daniel Vivian,Defence,1999-07-05,Spain
+151439,77,Aitor Paredes Casamichana,Defence,2000-04-29,Spain
+172029,77,Imanol Garcia de Albeniz,Defence,2000-06-08,Spain
+217432,77,Unai Eguíluz,Defence,2002-03-19,Spain
+229042,77,Hugo Rincón,Defence,2003-01-27,Spain
+2294,77,Álex Berenguer,Midfield,1995-07-04,Spain
+7904,77,Ander Herrera,Midfield,1989-08-14,Spain
+32481,77,Ruiz de Galarreta,Midfield,1993-08-06,Spain
+32604,77,Raúl García,Midfield,1986-07-11,Spain
+33343,77,Dani García,Midfield,1990-05-24,Spain
+96868,77,Mikel Vesga,Midfield,1993-04-08,Spain
+126878,77,Oihan Sancet,Midfield,2000-04-25,Spain
+168663,77,Benat Prados,Midfield,2001-02-08,Spain
+202335,77,Unai Gomez,Midfield,2003-05-25,Spain
+244599,77,Mikel Jauregizar,Midfield,2003-11-13,Spain
+32623,77,Muniain,Offence,1992-12-19,Spain
+32629,77,Iñaki Williams,Offence,1994-06-15,Ghana
+33777,77,Asier Villalibre,Offence,1997-09-30,Spain
+81565,77,Gorka Guruzeta,Offence,1996-09-12,Spain
+157135,77,Nico Williams,Offence,2002-07-12,Spain
+186718,77,Malcom Ares,Offence,2001-10-12,Spain
+244642,77,Aingeru Olabarrieta,Offence,2005-11-14,Spain
+246633,77,Adama Boiro,Offence,2002-06-22,Spain
+120,78,Jan Oblak,Goalkeeper,1993-01-07,Slovenia
+122005,78,Horaţiu Moldovan,Goalkeeper,1998-01-20,Romania
+180049,78,Gomis,Goalkeeper,2003-05-20,Spain
+188407,78,Sergio Mestre,Goalkeeper,2005-02-13,Spain
+3191,78,Azpilicueta,Defence,1989-08-28,Spain
+3656,78,Axel Witsel,Defence,1989-01-12,Belgium
+15845,78,Stefan Savić,Defence,1991-01-08,Montenegro
+32703,78,Mario Hermoso,Defence,1995-06-18,Spain
+33145,78,Gabriel Paulista,Defence,1990-11-26,Brazil
+37094,78,Reinildo,Defence,1994-01-21,Mozambique
+46452,78,Nahuel Molina,Defence,1998-04-06,Argentina
+128731,78,Rodrigo Riquelme,Defence,2000-04-02,Spain
+159408,78,Adrián Corral,Defence,2003-01-05,Spain
+180077,78,Marco Moreno,Defence,2001-02-20,Spain
+206337,78,Ilias Kostis,Defence,2003-02-27,Cyprus
+213277,78,José Giménez,Defence,1995-01-20,Uruguay
+221562,78,Javier Boñar,Defence,2005-06-03,Spain
+70,78,Marcos Llorente,Midfield,1995-01-30,Spain
+112,78,Koke,Midfield,1992-01-08,Spain
+118,78,Saúl,Midfield,1994-11-21,Spain
+126,78,Vitolo,Midfield,1989-11-02,Spain
+2127,78,Rodrigo de Paul,Midfield,1994-05-24,Argentina
+166652,78,Mini,Midfield,1999-04-10,Spain
+177509,78,Pablo Barrios,Midfield,2003-06-15,Spain
+190835,78,Aitor Gismera,Midfield,2004-02-21,Spain
+220538,78,Álex Calatrava,Midfield,2000-06-22,Spain
+244719,78,Rayane Belaid,Midfield,2005-11-02,Algeria
+114,78,Antoine Griezmann,Offence,1991-03-21,France
+125,78,Ángel Correa,Offence,1995-03-09,Argentina
+3369,78,Thomas Lemar,Offence,1995-11-12,France
+7819,78,Álvaro Morata,Offence,1992-10-23,Spain
+8472,78,Memphis Depay,Offence,1994-02-13,Netherlands
+98578,78,Marcos Paulo,Offence,2001-02-01,Brazil
+178710,78,Samuel Lino,Offence,1999-12-23,Brazil
+207012,78,Abdellah Raihani,Offence,2004-02-03,Spain
+207104,78,El Jebari,Offence,2004-02-05,Spain
+221308,78,Adrián,Offence,2004-06-19,Spain
+31968,79,Sergio Herrera,Goalkeeper,1993-06-05,Spain
+32391,79,Aitor Fernández,Goalkeeper,1991-05-03,Spain
+191209,79,Pablo Valencia,Goalkeeper,2001-03-16,Spain
+217550,79,Dimitrios Stamatakis,Goalkeeper,2003-04-23,Greece
+3724,79,Johan Mojica,Defence,1992-08-21,Colombia
+31979,79,Unai García,Defence,1992-09-03,Spain
+32146,79,David García,Defence,1994-02-14,Spain
+33346,79,Rubén Peña,Defence,1991-07-18,Spain
+50890,79,Catena,Defence,1994-10-28,Spain
+81183,79,Juan Cruz,Defence,1992-07-28,Spain
+136000,79,Jesús Areso,Defence,1999-07-02,Spain
+159409,79,Jorge Herrando,Defence,2001-02-28,Spain
+171996,79,Jorge Moreno,Defence,2001-07-25,Spain
+15869,79,José Arnáiz,Midfield,1995-04-15,Spain
+32002,79,Lucas Torró,Midfield,1994-07-19,Spain
+32212,79,Rubén García,Midfield,1993-07-14,Spain
+32217,79,Moi Gómez,Midfield,1994-06-23,Spain
+111674,79,Jon Moncayola,Midfield,1998-05-13,Spain
+119093,79,Aimar Oroz,Midfield,2001-11-27,Spain
+191925,79,Iker Munoz,Midfield,2002-11-05,Spain
+249577,79,Asier Osambela,Midfield,2004-02-08,Spain
+251133,79,Xabi Huarte,Midfield,2001-02-25,Spain
+2237,79,Ante Budimir,Offence,1991-07-22,Croatia
+32004,79,Kike Barja,Offence,1997-04-04,Spain
+130324,79,Raúl,Offence,2000-11-03,Spain
+154532,79,Max Svensson,Offence,2001-11-08,Spain
+227689,79,Sola,Offence,1999-06-09,Spain
+248752,79,Iñigo Arguibide,Offence,2005-04-19,Spain
+3173,81,Marc-André ter Stegen,Goalkeeper,1992-04-30,Germany
+180898,81,Iñaki Peña,Goalkeeper,1999-03-02,Spain
+185095,81,Marc Vidal,Goalkeeper,2000-02-14,Spain
+191325,81,Ander Astralaga,Goalkeeper,2004-03-03,Spain
+217424,81,Diego Kochen,Goalkeeper,2006-03-19,USA
+242551,81,Áron Yaakobishvili,Goalkeeper,2006-03-06,Hungary
+2000,81,João Cancelo,Defence,1994-05-27,Portugal
+3195,81,Marcos Alonso,Defence,1990-12-28,Spain
+3455,81,Andreas Christensen,Defence,1996-04-10,Denmark
+8499,81,Jules Koundé,Defence,1998-11-12,France
+15865,81,Sergi Roberto,Defence,1992-02-07,Spain
+28292,81,Ronald Araújo,Defence,1999-03-07,Uruguay
+32588,81,Íñigo Martínez,Defence,1991-05-17,Spain
+37428,81,Raphinha,Defence,1996-12-14,Brazil
+172761,81,Álex Balde,Defence,2003-10-18,Spain
+217540,81,Pau Cubarsí,Defence,2007-01-22,Spain
+227023,81,Héctor Fort,Defence,2006-08-02,Spain
+249351,81,Mikayil Faye,Defence,2004-07-14,Senegal
+3182,81,Ilkay Gündogan,Midfield,1990-10-24,Germany
+7559,81,Frenkie de Jong,Midfield,1997-05-12,Netherlands
+8091,81,Oriol Romeu,Midfield,1991-09-24,Spain
+171992,81,Pablo Gavira,Midfield,2004-08-05,Spain
+176866,81,Unai Hernandez,Midfield,2004-12-14,Spain
+188817,81,Marc Casado,Midfield,2003-09-14,Spain
+192888,81,Aleix Garrido,Midfield,2004-02-22,Spain
+184146,78,Arthur Vermeeren,Midfield,2005-02-07,Belgium
+371,81,Robert Lewandowski,Offence,1988-08-21,Poland
+33154,81,Ferrán Torres,Offence,2000-02-29,Spain
+39265,81,João Félix,Offence,1999-11-10,Portugal
+133860,81,Pedri,Offence,2002-11-25,Spain
+144579,81,Pau Victor Delgado,Offence,2001-11-26,Spain
+181439,81,Vítor Roque,Offence,2005-02-28,Brazil
+191058,81,Angel Alarcon,Offence,2004-05-15,Spain
+202283,81,Lamine Yamal,Offence,2007-07-13,Spain
+207109,81,Marc Guiu,Offence,2006-01-04,Spain
+214533,81,Fermín López,Offence,2003-05-11,Spain
+78,82,David Soria,Goalkeeper,1993-04-04,Spain
+1169,82,Daniel Fuzato,Goalkeeper,1997-07-04,Brazil
+214562,82,Jorge Benito,Goalkeeper,2006-01-01,Spain
+246276,82,Djordjije Medenica,Goalkeeper,2006-11-17,Czech Republic
+277,82,Diego Rico,Defence,1993-02-23,Spain
+3125,82,Dakonam Djené,Defence,1991-12-31,Togo
+45472,82,Domingos Duarte,Defence,1995-03-10,Portugal
+46376,82,Fabrizio Angileri,Defence,1994-03-15,Argentina
+46491,82,Omar Alderete,Defence,1996-12-26,Paraguay
+83351,82,Juan Iglesias,Defence,1998-07-03,Spain
+115668,82,Gastón Álvarez,Defence,2000-03-24,Uruguay
+171984,82,Jose Angel Carmona,Defence,2002-01-29,Spain
+186707,82,Gorka Rivera,Defence,2004-08-01,Spain
+226985,82,Nabil Aberdín,Defence,2002-08-23,France
+247170,82,Alejandro Herranz,Defence,2004-11-26,Spain
+249064,82,Sergio Gimeno,Defence,2001-05-25,Spain
+3441,82,Nemanja Maksimović,Midfield,1995-01-26,Serbia
+3877,82,Óscar,Midfield,1998-06-28,Spain
+32449,82,Luis Milla,Midfield,1994-10-07,Spain
+32758,82,Mauro Arambarri,Midfield,1995-09-30,Uruguay
+156702,82,John Patrick,Midfield,2003-09-24,Ireland
+157368,82,Ilaix Moriba,Midfield,2003-01-19,Guinea
+172841,82,Diego Lopez,Midfield,2001-10-21,Spain
+180125,82,Santi García,Midfield,2001-08-29,Spain
+203446,82,Yellu,Midfield,2004-05-25,Spain
+213262,82,Carles Aleñá,Midfield,1998-01-05,Spain
+226204,82,Jeremy Jiménez,Midfield,2003-02-09,Spain
+226986,82,Facu Esnáider,Midfield,2001-11-09,Spain
+227974,82,Jordi,Midfield,2001-01-05,Spain
+250399,82,Alberto Risco,Midfield,2005-08-30,Spain
+69,82,Borja Mayoral,Offence,1997-04-05,Spain
+32381,82,Mata,Offence,1988-10-24,Spain
+101075,82,Mason Greenwood,Offence,2001-10-01,England
+180071,82,Latasa,Offence,2001-03-23,Spain
+250899,82,Yassin Tallal,Offence,2005-03-03,Morocco
+32911,83,Raúl Fernández,Goalkeeper,1988-03-13,Spain
+33578,83,Marc Martínez,Goalkeeper,1990-04-04,Spain
+46245,83,Augusto Batalla,Goalkeeper,1996-04-30,Argentina
+191423,83,Adri López,Goalkeeper,1999-01-09,Spain
+244761,83,Pol Tristán,Goalkeeper,2002-03-18,Spain
+244895,83,Fran Árbol,Goalkeeper,2006-06-30,Spain
+46,83,Jesús Vallejo,Defence,1997-01-05,Spain
+8807,83,Faitout Maouassa,Defence,1998-07-06,France
+28755,83,Bruno Méndez,Defence,1999-09-10,Uruguay
+32034,83,Víctor Díaz,Defence,1988-06-12,Spain
+32769,83,Martin Hongla,Defence,1998-03-16,Cameroon
+100094,83,Carlos Neva,Defence,1996-06-12,Spain
+127425,83,Kamil Piątkowski,Defence,2000-06-21,Poland
+141472,83,Ricard Sánchez,Defence,2000-02-22,Spain
+154076,83,Raúl Torrente,Defence,2001-09-11,Spain
+180164,83,Miguel Rubio,Defence,1998-03-11,Spain
+188785,83,Miki Bosch,Defence,2001-06-09,Spain
+213258,83,Ignasi Miquel,Defence,1992-09-28,Spain
+32714,83,Óscar Melendo,Midfield,1997-08-23,Spain
+33150,83,Gonzalo Villar,Midfield,1998-03-23,Spain
+33711,83,Gerard Gumbau,Midfield,1994-12-18,Spain
+51004,83,Sergio Ruiz,Midfield,1994-12-16,Spain
+157116,83,Theo Corbeanu,Midfield,2002-05-17,Canada
+160893,83,Adam Griger,Midfield,2004-03-16,Slovakia
+176751,83,Lassina Sangare,Midfield,2001-11-20,Ivory Coast
+203567,83,Mario González,Midfield,2004-02-05,Spain
+252819,83,Sergio Rodelas,Midfield,2004-12-01,Spain
+2104,83,José Callejón,Offence,1987-02-11,Spain
+11113,83,Lucas Boyé,Offence,1996-02-28,Argentina
+32049,83,Antonio Puertas,Offence,1992-02-21,Spain
+64233,83,Kamil Jóźwiak,Offence,1998-04-22,Poland
+83795,83,Myrto Uzuni,Offence,1995-05-31,Albania
+122506,83,Facundo Pellistri,Offence,2001-12-20,Uruguay
+177308,83,Matías Arezo,Offence,2002-11-21,Uruguay
+246328,83,Pablo Sáenz,Offence,2001-05-22,Spain
+246361,83,Eghosa,Offence,2004-03-17,Benin
+3189,86,Kepa Arrizabalaga,Goalkeeper,1994-10-03,Spain
+3641,86,Thibaut Courtois,Goalkeeper,1992-05-11,Belgium
+28995,86,Andriy Lunin,Goalkeeper,1999-02-11,Ukraine
+152461,86,Lucas Cañizars,Goalkeeper,2002-05-10,Spain
+176768,86,Diego Pineiro,Goalkeeper,2004-02-13,Spain
+203506,86,Mario de Luis,Goalkeeper,2002-05-06,Spain
+206826,86,Fran Gonzalez,Goalkeeper,2005-06-24,Spain
+45,86,Lucas Vázquez,Defence,1991-07-01,Spain
+50,86,Nacho,Defence,1990-01-18,Spain
+349,86,David Alaba,Defence,1992-06-24,Austria
+1337,86,Éder Militão,Defence,1998-01-18,Brazil
+3177,86,Antonio Rüdiger,Defence,1993-03-03,Germany
+3194,86,Dani Carvajal,Defence,1992-01-11,Spain
+8458,86,Ferland Mendy,Defence,1995-06-08,France
+178049,86,Vinicius Tobias,Defence,2004-02-23,Brazil
+213266,86,Fran García,Defence,1999-08-14,Spain
+221329,86,Álvaro Carrillo,Defence,2002-04-06,Spain
+230367,86,Edgar Pujol,Defence,2004-08-07,Spain
+247056,86,Jacobo Ramón,Defence,2005-06-06,Spain
+43,86,Luka Modrić,Midfield,1985-09-09,Croatia
+47,86,Toni Kroos,Midfield,1990-01-04,Germany
+68,86,Dani Ceballos,Midfield,1996-08-07,Spain
+96,86,Federico Valverde,Midfield,1998-07-22,Uruguay
+7887,86,Brahim Diaz,Midfield,1999-08-03,Morocco
+8514,86,Aurélien Tchouameni,Midfield,2000-01-27,France
+102343,86,Eduardo Camavinga,Midfield,2002-11-10,France
+125010,86,Jude Bellingham,Midfield,2003-06-29,England
+169162,86,Arda Guler,Midfield,2005-02-25,Turkey
+191064,86,Mario Martin,Midfield,2004-03-05,Spain
+203511,86,Nico Paz,Midfield,2004-09-08,Spain
+217658,86,Gonzalo García,Midfield,2004-03-24,Spain
+243978,86,Theo Zidane,Midfield,2002-05-18,France
+1324,86,Rodrygo,Offence,2001-01-09,Brazil
+1556,86,Vinicius Junior,Offence,2000-07-12,Brazil
+7938,86,Joselu,Offence,1990-03-27,Spain
+189369,86,Alvaro Rodriguez,Offence,2004-07-14,Spain
+33781,87,Stole Dimitrievski,Goalkeeper,1993-12-25,North Macedonia
+133288,87,Dani Cárdenas,Goalkeeper,1997-03-28,Spain
+7925,87,Florian Lejeune,Defence,1991-05-20,France
+8716,87,Iván Balliu,Defence,1992-01-01,Albania
+25641,87,Abdul Mumin,Defence,1998-06-06,Ghana
+28384,87,Alfonso Espino,Defence,1992-01-05,Uruguay
+31988,87,Aridane Hernández,Defence,1989-03-23,Spain
+99923,87,Martín Pascual,Defence,1999-08-04,Spain
+114955,87,Andrei Rațiu,Defence,1998-06-20,Romania
+151251,87,Pep Chavarría,Defence,1998-04-10,Spain
+187031,87,Diego Mendez,Defence,2003-08-29,Spain
+32109,87,Óscar Valentín,Midfield,1994-08-20,Spain
+32115,87,Kike Pérez,Midfield,1997-02-14,Spain
+32116,87,Óscar Trejo,Midfield,1988-04-26,Argentina
+32312,87,Álvaro García,Midfield,1992-10-27,Spain
+33496,87,Isi Palazón,Midfield,1994-12-27,Spain
+37649,87,Pathé Ciss,Midfield,1994-03-16,Senegal
+98032,87,Randy Ntekja,Midfield,1997-12-06,France
+171313,87,Miguel Crespo,Midfield,1996-09-11,Portugal
+3739,87,Radamel Falcao,Offence,1986-02-10,Colombia
+32124,87,Unai López,Offence,1995-10-30,Spain
+32127,87,Raúl de Tomás,Offence,1994-10-17,Spain
+32128,87,Bebé,Offence,1990-07-12,Cape Verde Islands
+32650,87,José Pozo,Offence,1996-03-15,Spain
+115175,87,Sergio Camello,Offence,2001-02-10,Spain
+133276,87,Jorge de Frutos,Offence,1997-02-20,Spain
+274,89,Cuéllar,Goalkeeper,1984-05-25,Spain
+3429,89,Predrag Rajković,Goalkeeper,1995-10-31,Serbia
+79776,89,Dominik Greif,Goalkeeper,1997-04-06,Slovakia
+245756,89,Alex Quevedo,Goalkeeper,2004-04-28,Spain
+2777,89,Martin Valjent,Defence,1995-12-11,Slovakia
+3433,89,Matija Nastasić,Defence,1993-03-28,Serbia
+9097,89,Siebe Van der Heyden,Defence,1998-05-30,Belgium
+28585,89,Giovanni González,Defence,1994-09-20,Uruguay
+32984,89,Antonio Raíllo,Defence,1991-10-08,Spain
+33104,89,Jaume Costa,Defence,1988-03-18,Spain
+33138,89,Toni Lato,Defence,1997-11-21,Spain
+33142,89,Nacho Vidal,Defence,1995-01-24,Spain
+33513,89,Pablo Maffeo,Defence,1997-07-12,Spain
+172108,89,Copete,Defence,1999-10-10,Spain
+203438,89,Marcos Fernández,Defence,2003-07-17,Spain
+227058,89,Yuzún Ley,Defence,2004-01-01,Spain
+244594,89,Carles Sogorb,Defence,2005-02-23,Spain
+6713,89,Omar Mascarell,Midfield,1993-02-02,Spain
+32282,89,Dani Rodríguez,Midfield,1988-06-06,Spain
+32717,89,Sergi Darder,Midfield,1993-12-22,Spain
+33120,89,Manu Morlanes,Midfield,1999-01-12,Spain
+33681,89,Abdón Prats,Midfield,1992-12-07,Spain
+140814,89,Samuel Almeida Costa,Midfield,2000-11-27,Portugal
+176236,89,Javier Llabres,Midfield,2002-09-11,Spain
+177172,89,Miguelito,Midfield,2001-01-01,Spain
+180040,89,Antonio Sánchez,Midfield,1997-04-22,Spain
+207144,89,Quintanilla,Midfield,2002-04-03,Spain
+10190,89,Nemanja Radonjić,Offence,1996-02-15,Serbia
+15958,89,Cyle Larin,Offence,1995-04-17,Canada
+30059,89,Vedat Muriqi,Offence,1994-04-24,Kosovo
+229044,89,Pau Mascaró,Offence,2004-10-20,Spain
+7879,90,Claudio Bravo,Goalkeeper,1983-04-13,Chile
+32014,90,Rui Silva,Goalkeeper,1994-02-07,Portugal
+180215,90,Fran Vieites,Goalkeeper,1999-05-07,Spain
+203476,90,Germán García,Goalkeeper,2004-02-01,Spain
+217557,90,Guilherme Fernandes,Goalkeeper,2001-03-28,Portugal
+137,90,Sokratis Papastathopoulos,Defence,1988-06-09,Greece
+1772,90,Germán Pezzella,Defence,1991-06-27,Argentina
+3624,90,Youssouf Sabaly,Defence,1993-03-05,Senegal
+7783,90,Héctor Bellerín,Defence,1995-03-19,Spain
+32491,90,Juan Miranda,Defence,2000-01-19,Spain
+33038,90,Bartra,Defence,1991-01-15,Spain
+33045,90,Aitor Ruibal,Defence,1996-03-22,Spain
+146101,90,Ricardo Visus,Defence,2001-04-24,Spain
+150948,90,Chadi Riad,Defence,2003-06-17,Spain
+178964,90,Abner Vinicius,Defence,2000-05-27,Brazil
+190558,90,Nobel Mendy,Defence,2004-08-16,France
+218485,90,Pablo Busto,Defence,2005-09-15,Spain
+245708,90,Xavi Pleguezuelo,Defence,2003-01-14,Spain
+66,90,Isco,Midfield,1992-04-21,Spain
+3250,90,William Carvalho,Midfield,1992-04-07,Portugal
+8464,90,Nabil Fekir,Midfield,1993-07-18,France
+32710,90,Marc Roca,Midfield,1996-11-26,Spain
+33117,90,Pablo Fornals,Midfield,1996-02-22,Spain
+39104,90,Guido Rodríguez,Midfield,1994-04-12,Argentina
+189393,90,Quique Fernandez,Midfield,2003-09-16,Spain
+189529,90,Dani Perez,Midfield,2005-07-26,Spain
+212861,90,Sergi Altimira,Midfield,2001-08-25,Spain
+218474,90,Assane Diao,Midfield,2005-09-07,Spain
+8,90,Willian José,Offence,1991-11-23,Brazil
+7936,90,Ayoze Pérez,Offence,1993-07-29,Spain
+21583,90,Cédric Bakambu,Offence,1991-04-11,DR Congo
+123265,90,Johnny,Offence,2001-09-20,USA
+142393,90,Rodri Sanchez,Offence,2000-02-16,Spain
+175941,90,Abdessamad Ezzalzouli,Offence,2001-12-17,Morocco
+213268,90,Ezequiel Ávila,Offence,1994-02-06,Argentina
+227955,90,Ginés Sorroche,Offence,2004-03-24,Spain
+32413,92,Álex Remiro,Goalkeeper,1995-03-24,Spain
+152786,92,Gaizka Ayesa,Goalkeeper,2001-04-02,Spain
+157040,92,Unai Marrero,Goalkeeper,2001-10-09,Spain
+215503,92,Aitor Fraga,Goalkeeper,2003-03-09,Spain
+11,92,Álvaro Odriozola,Defence,1995-12-14,Spain
+27,92,Aritz Elustondo,Defence,1994-03-28,Spain
+29,92,Igor Zubeldía,Defence,1997-03-30,Spain
+8808,92,Hamari Traoré,Defence,1992-01-27,Mali
+15615,92,Kieran Tierney,Defence,1997-06-05,Scotland
+99791,92,Robin Le Normand,Defence,1996-11-11,Spain
+100129,92,Aihen Muñoz,Defence,1997-08-16,Spain
+141571,92,Jon Aramburu,Defence,2002-07-23,Venezuela
+144615,92,Jon Pacheco,Defence,2001-01-08,Spain
+151031,92,Urko González,Defence,2001-03-20,Spain
+213260,92,Javi Galán,Defence,1994-11-19,Spain
+245442,92,Jon Martín,Defence,2006-04-23,Spain
+246275,92,Iñaki Rupérez,Defence,2003-01-07,Spain
+7935,92,Mikel Merino,Midfield,1996-06-22,Spain
+115035,92,Martín Zubimendi,Midfield,1999-02-02,Spain
+156615,92,Beñat Turrientes,Midfield,2002-01-31,Spain
+161293,92,Jon Olasagasti,Midfield,2000-08-16,Spain
+170540,92,Arsen Zakharyan,Midfield,2003-05-26,Russia
+171887,92,Jon Magunazelaia,Midfield,2001-07-13,Spain
+172786,92,Pablo Marin,Midfield,2003-07-03,Spain
+176828,92,Alberto Dadie,Midfield,2002-07-20,Spain
+1760,92,André Silva,Offence,1995-11-06,Portugal
+7633,92,Sheraldo Becker,Offence,1995-02-09,Suriname
+7672,92,Umar Sadiq,Offence,1997-02-02,Nigeria
+15931,92,Carlos Fernández,Offence,1996-05-22,Spain
+33615,92,Brais Méndez,Offence,1997-01-07,Spain
+48555,92,Takefusa Kubo,Offence,2001-06-04,Japan
+82364,92,Martín Merquelanz,Offence,1995-06-12,Spain
+101182,92,Ander Barrenetxea,Offence,2001-12-27,Spain
+112066,92,Bryan Fiabema,Offence,2003-02-16,Norway
+180137,92,Mikel Oyarzabal,Offence,1997-04-21,Spain
+2082,94,Pepe Reina,Goalkeeper,1982-08-31,Spain
+149840,94,Iker Álvarez,Goalkeeper,2001-07-25,Andorra
+153828,94,Filip Jörgensen,Goalkeeper,2002-04-16,Denmark
+19,94,Aïssa Mandi,Defence,1991-10-22,Algeria
+267,94,Alfonso Pedraza,Defence,1996-04-09,Spain
+7860,94,Alberto Moreno,Defence,1992-07-05,Spain
+7901,94,Eric Bailly,Defence,1994-04-12,Ivory Coast
+7996,94,Juan Foyth,Defence,1998-01-12,Argentina
+98750,94,Jorge Cuenca,Defence,1999-11-17,Spain
+153570,94,Yerson Mosquera,Defence,2001-05-02,Colombia
+185093,94,Adrià Altimira,Defence,2001-03-28,Spain
+186561,94,Abraham Rando,Defence,2001-07-05,Spain
+186564,94,Carlos Romero,Defence,2001-10-29,Spain
+187322,94,Stefan Lekovic,Defence,2004-01-09,Serbia
+211848,94,Antonio Espigares,Defence,2004-09-05,Spain
+213265,94,Raúl Albiol,Defence,1985-09-04,Spain
+213274,94,Kiko Femenía,Defence,1991-02-02,Spain
+249095,94,Dani Budesca,Defence,2006-10-11,Spain
+3198,94,Dani Parejo,Midfield,1989-04-16,Spain
+8118,94,Étienne Capoue,Midfield,1988-07-11,France
+11572,94,Francis Coquelin,Midfield,1991-05-13,France
+15868,94,Denís Suárez,Midfield,1994-01-06,Spain
+33115,94,Trigueros,Midfield,1991-10-17,Spain
+154000,94,RamónTerrats Espacio,Midfield,2000-10-18,Spain
+185087,94,Diego Collado,Midfield,2001-01-09,Spain
+206721,94,Dani Requena,Midfield,2004-02-12,Spain
+213263,94,Santi Comesaña,Midfield,1996-10-05,Spain
+3259,94,Gonçalo Guedes,Offence,1996-11-29,Portugal
+8167,94,Alexander Sørloth,Offence,1995-12-05,Norway
+8467,94,Bertrand Traoré,Offence,1995-09-06,Burkina Faso
+32719,94,Gerard Moreno,Offence,1992-04-07,Spain
+176202,94,Ilias Akhomach,Offence,2004-04-16,Spain
+180081,94,Yeremy,Offence,2002-10-20,Spain
+185104,94,Alex Forés,Offence,2001-04-12,Spain
+192121,94,Jorge Pascual,Offence,2003-04-09,Spain
+213275,94,José Morales,Offence,1987-07-23,Spain
+213278,94,Álex Baena,Offence,2001-07-20,Spain
+33136,95,Jaume Doménech,Goalkeeper,1990-11-05,Spain
+33137,95,Cristian,Goalkeeper,1998-03-21,Spain
+84506,95,Giorgi Mamardashvili,Goalkeeper,2000-09-29,Georgia
+251106,95,Vicent Abril,Goalkeeper,2005-02-15,Spain
+8456,95,Mouctar Diakhaby,Defence,1996-12-19,France
+8780,95,Dimitri Foulquier,Defence,1993-03-23,Guadeloupe
+33146,95,Gaya,Defence,1995-05-25,Spain
+98674,95,Hugo Guillamón,Defence,2000-01-31,Spain
+99811,95,Thierry Correia,Defence,1999-03-09,Portugal
+127140,95,Cenk Özkacar,Defence,2000-10-06,Turkey
+157190,95,Jesus Vazquez Alcalde,Defence,2003-01-02,Spain
+172839,95,Cristhian Mosquera,Defence,2004-06-27,Spain
+176602,95,Ruben Iranzo,Defence,2003-03-14,Spain
+221412,95,Yarek Gasiorowski,Defence,2005-01-12,Spain
+9208,95,Selim Amallah,Midfield,1996-11-15,Morocco
+33270,95,Pepelu,Midfield,1998-08-11,Spain
+37539,95,André Almeida,Midfield,2000-05-30,Portugal
+144919,95,Marco Camús,Midfield,2001-11-16,Spain
+176733,95,Peter Gonzalez,Midfield,2002-07-25,Spain
+177180,95,Javier Guerra,Midfield,2003-05-13,Spain
+187117,95,Fran Perez,Midfield,2002-09-09,Spain
+192159,95,Alberto Mari,Midfield,2001-07-11,Spain
+214182,95,Martin Tejón,Midfield,2004-04-12,Spain
+229065,95,Javier Navarro,Midfield,2004-02-24,Spain
+244650,95,Ali Fadal,Midfield,2004-01-14,Ghana
+4442,95,Sergi Canós,Offence,1997-02-02,Spain
+8922,95,Roman Yaremchuk,Offence,1995-11-27,Ukraine
+32762,95,Hugo Duro,Offence,1999-11-10,Spain
+136929,95,Pablo Gozalbez,Offence,2001-04-30,Spain
+175892,95,Hugo Gonzalez,Offence,2003-02-07,Spain
+180061,95,Diego López,Offence,2002-05-13,Spain
+181914,95,Mario Dominguez,Offence,2004-02-10,Spain
+229070,95,Joselu Pérez,Offence,2004-03-12,Spain
+244743,95,David Otorbi,Offence,2007-10-16,Spain
+283,263,Sivera,Goalkeeper,1996-08-11,Spain
+123682,263,Jesús Owono,Goalkeeper,2001-03-01,Equatorial Guinea
+142453,263,Adrian Rodriguez,Goalkeeper,2000-12-12,Argentina
+217578,263,Gaizka García,Goalkeeper,2005-02-17,Spain
+33091,263,Andoni Gorosabel,Defence,1996-08-04,Spain
+33237,263,Rubén Duarte,Defence,1995-10-18,Spain
+46123,263,Nahuel Tenaglia,Defence,1996-02-21,Argentina
+64424,263,Aleksandar Sedlar,Defence,1991-12-13,Serbia
+81187,263,Abdelkabir Abqar,Defence,1999-03-10,Morocco
+111570,263,Alex Sola,Defence,1999-06-09,Spain
+119282,263,Victor Parada,Defence,2002-04-04,Spain
+168657,263,Eneko Ortiz,Defence,2003-05-26,Spain
+176758,263,Rafa Marin,Defence,2002-05-19,Spain
+177503,263,Joseda Alvarez,Defence,2001-01-22,Spain
+180060,263,Javi López,Defence,2002-03-25,Spain
+244942,263,Egoitz Muñoz,Defence,2005-01-01,Spain
+10995,263,Ianis Hagi,Midfield,1998-10-22,Romania
+28663,263,Carlos Benavidez,Midfield,1998-03-30,Uruguay
+33092,263,Jon Guridi,Midfield,1995-02-28,Spain
+33093,263,Ander Guevara,Midfield,1997-07-07,Spain
+157626,263,Antonio Blanco,Midfield,2000-07-23,Spain
+171862,263,Xeber Alkain,Midfield,1997-06-26,Spain
+171964,263,Giuliano Simeone,Midfield,2002-12-18,Italy
+176854,263,Tomas Mendes,Midfield,2004-11-21,Spain
+184988,263,Abde Rebbach,Midfield,1998-08-11,Algeria
+203546,263,José de León,Midfield,2004-03-02,Dominican Republic
+213404,263,Carlos Vicente,Midfield,1999-04-23,Spain
+215414,263,Selu Diallo,Midfield,2003-10-01,Spain
+215614,263,Ander Sánchez,Midfield,2004-01-24,Spain
+250990,263,Álvaro García,Midfield,2005-09-15,Spain
+33358,263,Kike García,Offence,1989-11-25,Spain
+50907,263,Luis Rioja,Offence,1993-10-16,Spain
+203561,263,Joaquín Panichelli,Offence,2002-10-07,Argentina
+215434,263,Samu Omorodion,Offence,2004-05-05,Nigeria
+32345,264,David Gil,Goalkeeper,1994-01-11,Spain
+45996,264,Jeremías Ledesma,Goalkeeper,1993-02-13,Argentina
+177418,264,Victor Aznar,Goalkeeper,2002-10-17,Brazil
+206275,264,Nando Almodovar,Goalkeeper,2003-11-03,Spain
+189,264,Jorge Meré,Defence,1997-04-17,Spain
+270,264,Joseba Zaldúa,Defence,1992-06-24,Spain
+32485,264,Fali Jiménez,Defence,1993-08-12,Spain
+32808,264,Luis Hernández,Defence,1989-04-14,Spain
+115278,264,Aiham Ousou,Defence,2000-01-09,Syria
+151557,264,Víctor Chust,Defence,2000-03-05,Spain
+177627,264,Lucas Pires,Defence,2001-03-24,Brazil
+180054,264,Iza,Defence,1993-04-23,Spain
+180173,264,Javi Hernández,Defence,1998-05-02,Spain
+186081,264,Momo Mbaye,Defence,1998-06-28,Senegal
+186567,264,Kikin,Defence,2003-01-20,Spain
+227059,264,Álex García,Defence,2006-07-06,Spain
+228741,264,Adri Salguero,Defence,2003-05-20,Spain
+228743,264,Miranda,Defence,2003-04-26,Spain
+228744,264,Julio Cabrera,Defence,2003-08-14,Spain
+10964,264,Youba Diarra,Midfield,1998-03-24,Mali
+15103,264,Diadié Samassékou,Midfield,1996-01-11,Mali
+32130,264,Fede San Emeterio,Midfield,1997-03-16,Spain
+32316,264,José Mari,Midfield,1987-12-06,Spain
+32338,264,Álex,Midfield,1992-10-15,Spain
+32643,264,Rubén Alcaraz,Midfield,1991-05-01,Spain
+33344,264,Gonzalo Escalante,Midfield,1993-03-27,Argentina
+33351,264,Iván Alejo Peralta,Midfield,1995-02-10,Spain
+72752,264,Brian Ocampo,Midfield,1999-06-25,Uruguay
+101870,264,Roberto Navarro,Midfield,2002-04-12,Spain
+203439,264,Karl Etta Eyong,Midfield,2003-10-14,Cameroon
+203453,264,Moussa Diakité,Midfield,2003-11-04,Mali
+2,264,Juanmi,Offence,1993-05-20,Spain
+258,264,Rubén Sobrino,Offence,1992-06-01,Spain
+8415,264,Rominigue Kouamé,Offence,1996-12-17,Mali
+32063,264,Darwin Machís,Offence,1993-02-07,Venezuela
+32310,264,Sergi Guardiola,Offence,1991-05-29,Spain
+32947,264,Roger Martí,Offence,1991-01-03,Spain
+172113,264,Chris Ramos,Offence,1997-01-18,Spain
+180079,264,Maximiliano Gómez,Offence,1996-08-14,Uruguay
+227976,264,Njalla,Offence,2003-04-13,Cameroon
+253004,264,Borja Vázquez,Offence,2005-01-18,Spain
+32187,267,Diego Mariño,Goalkeeper,1990-05-09,Spain
+32586,267,Fernando Martínez,Goalkeeper,1990-06-10,Spain
+39348,267,Luís Maximiano,Goalkeeper,1999-01-05,Portugal
+217422,267,Bruno Iribarne,Goalkeeper,2004-08-18,Spain
+15928,267,Alejandro Pozo,Defence,1999-02-22,Spain
+39246,267,César Montes,Defence,1997-02-24,Mexico
+58580,267,Édgar González,Defence,1997-04-01,Spain
+74676,267,Aleksandar Radovanović,Defence,1993-11-11,Serbia
+81437,267,Álex Centelles,Defence,1999-08-30,Spain
+125171,267,Bruno Langa,Defence,1997-10-31,Mozambique
+172111,267,Chumi,Defence,1999-03-02,Spain
+176745,267,Marc Pubill,Defence,2003-06-20,Spain
+206289,267,Marcos Pena,Defence,2005-01-22,Spain
+221356,267,Paco Sanz,Defence,2004-11-15,Spain
+228406,267,Carlos Ballestero,Defence,2004-04-24,Spain
+32108,267,Adri Embarba,Midfield,1992-05-07,Spain
+46344,267,Lucas Robertone,Midfield,1997-03-18,Argentina
+81393,267,Iddrisu Baba,Midfield,1996-01-22,Ghana
+126427,267,Dion Lopy,Midfield,2002-02-02,Senegal
+144668,267,Luka Romero,Midfield,2004-11-18,Argentina
+151029,267,Sergio Arribas,Midfield,2001-09-30,Spain
+168431,267,Jonathan Viera,Midfield,1989-10-21,Spain
+170057,267,Gonzalo Melero,Midfield,1994-01-02,Spain
+207131,267,Marcos Peña,Midfield,2005-01-22,Spain
+32386,267,Luis Suárez,Offence,1997-12-02,Colombia
+32483,267,Anthony Lozano,Offence,1993-04-25,Honduras
+32721,267,Léo Baptistão,Offence,1992-08-26,Brazil
+37968,267,Ibrahima Koné,Offence,1999-06-16,Mali
+136349,267,Largie Ramazani,Offence,2001-02-27,Belgium
+172231,267,Marko Milovanovic,Offence,2003-08-04,Serbia
+230356,267,Rachad Fettal,Offence,2005-01-16,Spain
+32016,275,Aarón,Goalkeeper,1995-09-27,Spain
+100130,275,Álvaro Vallés Rosa,Goalkeeper,1997-07-25,Spain
+203599,275,Álex González,Goalkeeper,2002-08-08,Spain
+247055,275,Álvaro Killane,Goalkeeper,2004-12-14,Argentina
+7558,275,Daley Sinkgraven,Defence,1995-07-04,Netherlands
+32883,275,Álvaro Lemos,Defence,1993-03-30,Spain
+74575,275,Omenuke Mfulu,Defence,1994-03-20,DR Congo
+182277,263,Giorgi Gagua,Offence,2001-10-10,Georgia
+102043,275,Eric Curbelo,Defence,1994-01-14,Spain
+113335,275,Julian Araujo,Defence,2001-08-13,Mexico
+123689,275,Saúl Coco,Defence,1999-02-09,Equatorial Guinea
+130273,275,Álex Suárez,Defence,1993-03-18,Spain
+176832,275,Mika Marmol,Defence,2001-07-01,Spain
+180289,275,Sergi Cardona,Defence,1999-07-08,Spain
+214421,275,Juanma,Defence,2004-05-13,Spain
+8571,275,Enzo Loiodice,Midfield,2000-11-27,France
+31969,275,Javi Muñoz,Midfield,1995-02-28,Spain
+33080,275,Pejiño,Midfield,1996-07-29,Spain
+33323,275,Benito Ramírez,Midfield,1995-07-11,Spain
+33324,275,Fabio González,Midfield,1997-02-12,Spain
+119386,275,Kirian Rodríguez,Midfield,1996-03-05,Spain
+151030,275,Marvin Olawale Akinlabi Park,Midfield,2000-07-03,Spain
+170055,275,José Campaña,Midfield,1993-05-31,Spain
+179159,275,Maximo Perrone,Midfield,2003-01-07,Argentina
+217447,275,Iñaki González,Midfield,2004-07-27,Spain
+228739,275,Gabriel Felipe,Midfield,2002-01-15,Spain
+228742,275,Yadam Santana,Midfield,2002-03-14,Spain
+245397,275,Aboubacar Bassinga,Midfield,2005-07-13,Ivory Coast
+11589,275,Sandro,Offence,1995-07-09,Spain
+15872,275,Marc Cardona,Offence,1995-07-08,Spain
+32889,275,Cristian Herrera,Offence,1991-03-13,Spain
+33243,275,Munir El Haddadi,Offence,1995-09-01,Morocco
+33465,275,Sory Kaba,Offence,1995-07-28,Guinea
+150533,275,Alberto Moleiro,Offence,2003-09-30,Spain
+228740,275,Pau Ferrer,Offence,2003-10-17,Spain
+244666,275,Déogracias Bassinga,Offence,2005-08-11,Congo
+7993,298,Paulo Gazzaniga,Goalkeeper,1992-01-02,Argentina
+32854,298,Juan Carlos,Goalkeeper,1988-01-20,Spain
+171863,298,Toni Fuidias,Goalkeeper,2001-04-15,Spain
+7899,298,Daley Blind,Defence,1990-03-09,Netherlands
+32712,298,David López,Defence,1989-10-09,Spain
+33511,298,Juanpe,Defence,1991-04-30,Spain
+101345,298,Eric García,Defence,2001-01-09,Spain
+102497,298,Iván Martín,Defence,1999-02-14,Spain
+144283,298,Yan Couto,Defence,2002-06-03,Brazil
+144953,298,Miguel Gutiérrez,Defence,2001-07-27,Spain
+151744,298,Arnau Martinez,Defence,2003-04-25,Spain
+228420,298,Antal Yaakobishvili,Defence,2004-07-12,Hungary
+16173,298,Viktor Tsyhankov,Midfield,1997-11-15,Ukraine
+33522,298,Borja García,Midfield,1990-11-02,Spain
+33524,298,Aleix García,Midfield,1997-06-28,Spain
+77734,298,Yangel Herrera,Midfield,1998-01-07,Venezuela
+98753,298,Valery,Midfield,1999-11-23,Spain
+159520,298,Pablo Torre,Midfield,2003-04-03,Spain
+178361,298,Jhon Solis,Midfield,2004-03-10,Colombia
+180175,298,Ricard Artero,Midfield,2003-02-05,Spain
+214404,298,Iker Almena,Midfield,2004-05-04,Spain
+214406,298,Silvi,Midfield,2005-01-29,Spain
+3171,298,Cristhian Stuani,Offence,1986-10-12,Uruguay
+24217,298,Artem Dovbyk,Offence,1997-06-21,Ukraine
+32375,298,Toni Villa,Offence,1995-01-07,Spain
+33523,298,Portu,Offence,1992-05-21,Spain
+146352,298,Sávio,Offence,2004-04-10,Brazil
+220122,298,Jastin García,Offence,2004-01-15,Spain
+244589,298,Juan Arango,Offence,2006-06-27,Venezuela
+244681,298,Álex Almansa,Offence,2003-11-08,Spain
+250803,298,Carles Garrido,Offence,2004-10-04,Spain
+3121,558,Vicente Guaita,Goalkeeper,1987-01-10,Spain
+32918,558,Iván Villar,Goalkeeper,1997-07-09,Spain
+175870,558,Coke Carrillo,Goalkeeper,2002-01-07,Spain
+178053,558,Cesar Fernandez,Goalkeeper,2004-01-28,Spain
+192818,558,Raul Garcia,Goalkeeper,2000-01-27,Spain
+7928,558,Javier Manquillo,Defence,1994-05-05,Spain
+8968,558,Joseph Aidoo,Defence,1995-09-29,Ghana
+31019,558,Carl Starfelt,Defence,1995-06-01,Sweden
+32584,558,Unai Núñez,Defence,1997-01-30,Spain
+57610,558,Mihajlo Ristić,Defence,1995-10-31,Serbia
+97146,558,Kevin Vázquez,Defence,1993-03-23,Spain
+118715,558,Manuel Sánchez,Defence,2000-08-24,Spain
+146986,558,Óscar Mingueza,Defence,1999-05-13,Spain
+159446,558,Carlos Dominguez,Defence,2001-01-01,Spain
+166375,558,Joel López,Defence,2002-03-31,Spain
+189528,558,Martin Conde,Defence,2003-03-25,Spain
+192197,558,Javi Dominguez,Defence,2001-03-26,Spain
+229003,558,Javi Rodríguez,Defence,2003-06-26,Spain
+253001,558,Javi Rueda,Defence,2002-05-08,Spain
+1137,558,Jailson,Midfield,1995-09-07,Brazil
+3782,558,Renato Tapia,Midfield,1995-07-28,Peru
+3968,558,Luca de la Torre,Midfield,1998-05-23,USA
+16747,558,Franco Cervi,Midfield,1994-05-26,Argentina
+32111,558,Fran Beltrán,Midfield,1999-02-03,Spain
+168650,558,Hugo Sotelo,Midfield,2003-12-19,Spain
+170438,558,Williot Swedberg,Midfield,2004-02-01,Sweden
+175869,558,Hugo Alvarez,Midfield,2003-07-02,Spain
+189380,558,Carlos Dotor,Midfield,2001-03-15,Spain
+252993,558,Yoel Lago,Midfield,2004-03-25,Spain
+3201,558,Iago Aspas,Offence,1987-08-01,Spain
+8547,558,Jonathan Bamba,Offence,1996-03-26,Ivory Coast
+32324,558,Alfonso González,Offence,1999-05-04,Spain
+32510,558,Carles Pérez,Offence,1998-02-16,Spain
+43285,558,Anastasios Douvikas,Offence,1999-08-02,Greece
+150525,558,Miguel Rodríguez,Offence,2003-04-29,Spain
+166029,558,Tadeo Allende,Offence,1999-02-20,Argentina
+213269,558,Jørgen Strand Larsen,Offence,2000-02-06,Norway
+3430,559,Marko Dmitrović,Goalkeeper,1992-01-24,Serbia
+6843,559,Ørjan Nyland,Goalkeeper,1990-09-10,Norway
+161304,559,Rafa Romero,Goalkeeper,2003-08-07,Spain
+177573,559,Alberto Flores,Goalkeeper,2003-11-10,Spain
+191198,559,Matias Arbol,Goalkeeper,2002-09-12,Spain
+54,559,Jesús Navas,Defence,1985-11-21,Spain
+3192,559,Sergio Ramos,Defence,1986-03-30,Spain
+3212,559,Marcos Acuña,Defence,1991-10-28,Argentina
+21410,559,Nemanja Gudelj,Defence,1991-11-16,Serbia
+45449,559,Marcão,Defence,1996-06-05,Brazil
+127127,559,Nianzou Kouassi,Defence,2002-06-07,France
+136039,559,Loïc Bade,Defence,2000-04-11,France
+178107,559,Kike Salas,Defence,2002-04-23,Spain
+180038,559,Juanlu,Defence,2003-08-15,Spain
+190843,559,Diego Hormigo,Defence,2003-04-16,Spain
+213280,559,Adrià Pedrosa,Defence,1998-05-13,Spain
+228998,559,Darío Benavides,Defence,2003-01-12,Spain
+1752,559,Suso,Midfield,1993-11-19,Spain
+8005,559,Erik Lamela,Midfield,1992-03-04,Argentina
+8128,559,Dodi Lukebakio,Midfield,1997-09-24,Belgium
+8406,559,Boubakary Soumaré,Midfield,1999-02-27,France
+10210,559,Adnan Januzaj,Midfield,1995-02-05,Belgium
+15911,559,Óliver Torres,Midfield,1994-11-10,Spain
+16275,559,Djibril Sow,Midfield,1997-02-06,Switzerland
+98223,559,Lucien Agoume,Midfield,2002-02-09,France
+169325,559,Hannibal Mejbri,Midfield,2003-01-21,Tunisia
+192043,559,Lulo Dasilva,Midfield,2002-10-04,Spain
+213257,559,Joan Jordán,Midfield,1994-07-06,Spain
+213279,559,Manuel Bueno,Midfield,2004-07-27,Spain
+229008,559,Isra Domínguez,Midfield,2003-05-07,Spain
+244911,559,Alberto Collado,Midfield,2005-04-16,Spain
+244952,559,Miguel Capitas,Midfield,2001-03-06,Spain
+4098,559,Rafael Mir,Offence,1997-06-18,Spain
+8358,559,Lucas Ocampos,Offence,1994-07-11,Argentina
+8474,559,Mariano Díaz,Offence,1993-08-01,Dominican Republic
+32836,559,Youssef En-Nesyri,Offence,1997-06-01,Morocco
+170962,559,Alejo Veliz,Offence,2003-09-19,Argentina
+213043,559,Isaac,Offence,2000-05-18,Spain
+221295,559,Stanis Idumbo-Muzambo,Offence,2005-06-29,Belgium
+244598,559,Ibrahima Sow,Offence,2007-01-26,Senegal
+244751,559,Oso,Offence,2003-07-09,Spain
+173617,79,Pablo Ibáñez Tébar,Midfield,1998-09-20,Spain
+182245,2,Umut Tohumcu,Midfield,2004-08-11,Germany
+182270,263,Unai Ropero,Midfield,2001-11-20,Spain
+204759,559,Xavi Sintes,Midfield,2001-08-05,Spain
+181901,66,Alejandro Garnacho,Offence,2004-07-01,Argentina
+182274,109,Samuel Iling-Junior,Offence,2003-10-04,England
+182280,4,Julien Duranville,Offence,2006-05-05,Belgium
+181936,83,Miguel Angel Brau,Defence,2001-12-27,Spain
+182269,558,Damian Rodriguez,Defence,2003-03-17,Spain
+187401,354,Kaden Rodney,Defence,2004-10-07,England
+98754,511,Álex Domínguez,Goalkeeper,1998-07-30,Spain
+161354,511,Thomas Himeur,Goalkeeper,2001-01-17,France
+178669,511,Guillaume Restes,Goalkeeper,2005-03-11,France
+212867,511,Justin Lacombe,Goalkeeper,2003-04-09,France
+814,511,Logan Costa,Defence,2001-04-01,Cape Verde Islands
+21385,511,Gabriel Suazo,Defence,1997-08-09,Chile
+24190,511,Rasmus Nicolaisen,Defence,1997-03-16,Denmark
+24302,511,Mikkel Desler,Defence,1995-02-19,Denmark
+119064,511,Moussa Diarra,Defence,2000-11-10,Mali
+160414,511,Kévin Keben Biakolo,Defence,2004-01-26,Cameroon
+180519,511,Warren Kamanzi,Defence,2000-11-11,Norway
+188481,511,Christian Mawissa,Defence,2005-04-18,France
+204253,511,Ilyes Aradj,Defence,2005-06-05,France
+246113,511,Nicolas Wasbauer,Defence,2004-07-04,France
+4621,511,Denis Genreau,Midfield,1999-05-21,Australia
+7758,511,Stijn Spierings,Midfield,1996-03-12,Netherlands
+9455,511,Niklas Schmidt,Midfield,1998-03-01,Germany
+9490,511,Vincent Sierro,Midfield,1995-10-08,Switzerland
+59126,511,Naatan Skyttä,Midfield,2002-05-07,Finland
+171438,511,Ibrahim Cissoko,Midfield,2003-03-26,Netherlands
+172082,511,Cesar Gelabert Pina,Midfield,2000-10-31,Spain
+190875,511,Edhy Zuliani,Midfield,2004-08-11,Algeria
+192688,511,Aron Dönnum,Midfield,1998-04-20,Norway
+212934,511,Noah Lahmadi,Midfield,2005-01-05,France
+250994,511,Rafik Messali,Midfield,2003-04-28,Algeria
+9848,511,Thijs Dallinga,Offence,2000-08-03,Netherlands
+80175,511,Yann Gboho,Offence,2001-01-14,France
+81085,511,Zakaria Aboukhlal,Offence,2000-02-18,Morocco
+81229,511,Cristian Cásseres Jr.,Offence,2000-01-20,Venezuela
+176747,511,Frank Magri,Offence,1999-09-04,France
+206334,511,Bonota Traore,Offence,2003-06-30,France
+212589,511,Shavy Warren Babicka,Offence,2000-06-01,Gabon
+212975,511,Noah Edjouma,Offence,2005-10-04,France
+731,512,Grégoire Coudert,Goalkeeper,1999-04-03,France
+7675,512,Marco Bizot,Goalkeeper,1991-03-10,Netherlands
+221769,512,Yann Marillat,Goalkeeper,1994-08-12,France
+441,512,Brendan Chardonnet,Defence,1994-12-22,France
+8350,512,Jordan Amavi,Defence,1994-03-09,France
+8778,512,Kenny Lala,Defence,1991-10-03,France
+119418,512,Julien Le Cardinal,Defence,1997-08-03,France
+123200,512,Lilian Brassier,Defence,1999-11-02,France
+171659,512,Bradley Locko,Defence,2002-05-06,France
+221341,512,Antonin Cartillier,Defence,2004-06-23,France
+227982,512,Luc Zogbe,Defence,2005-03-24,Ivory Coast
+248746,512,Tommy Le Verge,Defence,2005-10-28,France
+722,512,Mathias Pereira Lage,Midfield,1996-11-30,Portugal
+856,512,Romain Del Castillo,Midfield,1996-03-29,France
+8439,512,Pierre Lees Melou,Midfield,1993-05-25,France
+8542,512,Mahdi Camara,Midfield,1998-06-30,France
+8788,512,Jonas Martin,Midfield,1990-04-09,France
+76145,512,Hugo Magnetti,Midfield,1998-05-30,France
+122510,512,Adrien Lebeau,Midfield,1998-01-26,France
+172283,512,Axel Camblan,Midfield,2003-06-18,France
+175942,512,Kamory Doumbia,Midfield,2003-02-18,Mali
+8193,512,Steve Mounié,Offence,1994-09-29,Benin
+134582,512,Jérémy Le Douaron,Offence,1998-04-21,France
+152458,512,Martin Satriano,Offence,2001-02-20,Uruguay
+217659,512,Djibril Konté,Offence,2002-11-04,France
+32695,516,Pau López,Goalkeeper,1994-12-13,Spain
+33614,516,Rubén Blanco,Goalkeeper,1995-07-25,Spain
+137322,516,Simon Ngapandouetnbu,Goalkeeper,2003-12-04,Cameroon
+178114,516,Jelle Van Neck,Goalkeeper,2004-03-07,Belgium
+238,516,Ulisses Garcia,Defence,1996-01-11,Switzerland
+1023,516,Jonathan Clauss,Defence,1992-09-25,France
+7918,516,Chancel Mbemba,Defence,1994-08-08,DR Congo
+181927,512,Bilal Brahimi,Offence,2000-03-14,Algeria
+8912,516,Samuel Gigot,Defence,1993-10-12,France
+45512,516,Stéphane Sparagna,Defence,1995-02-17,France
+82020,516,Leonardo Balerdi,Defence,1999-01-26,Argentina
+160410,516,Quentin Merlin,Defence,2002-05-16,France
+171044,516,Roggerio Nyakossi,Defence,2004-01-13,Switzerland
+179436,516,Yakine Said M'Madi,Defence,2004-03-11,Comoros
+179596,516,Bamo Meité,Defence,2001-06-20,Ivory Coast
+188908,516,Michael Murillo,Defence,1996-02-11,Panama
+221805,516,Léo Jousselin,Defence,2002-01-02,France
+249616,516,Brice Negouai,Defence,2002-02-17,France
+633,516,Pape Gueye,Midfield,1999-01-24,Senegal
+1783,516,Jordan Veretout,Midfield,1993-03-01,France
+3714,516,Amine Harit,Midfield,1997-06-18,Morocco
+8695,516,Valentin Rongier,Midfield,1994-12-07,France
+33149,516,Geoffrey Kondogbia,Midfield,1993-02-15,Central African Republic
+82081,516,Sofiane Sidi Ali,Midfield,1995-07-14,France
+94091,516,Iliman Ndiaye,Midfield,1999-07-22,Senegal
+113434,516,Jean Onana,Midfield,2000-01-08,Cameroon
+122511,516,Azzedine Ounahi,Midfield,2000-04-19,Morocco
+169192,516,Paolo Sciortino,Midfield,2003-11-05,France
+170409,516,Bilal Nadir,Midfield,2003-11-28,France
+204245,516,Emran Soglo,Midfield,2005-07-11,England
+204251,516,Raimane Daou,Midfield,2004-11-20,Comoros
+221340,516,Noam Mayoka-Tika,Midfield,2003-11-02,Belgium
+221826,516,Alexandre Tunkadi,Midfield,2005-10-20,France
+250853,516,Gaël Lafont,Midfield,2006-06-07,France
+77,516,Joaquín Correa,Offence,1994-08-13,Argentina
+3638,516,Ismaïla Sarr,Offence,1998-02-25,Senegal
+7801,516,Pierre-Emerick Aubameyang,Offence,1989-06-18,Gabon
+115074,516,Luis Henrique,Offence,2001-12-14,Brazil
+144651,516,Faris Moumbagna,Offence,2000-07-01,Cameroon
+246025,516,Iuri Moreira,Offence,2004-03-24,Portugal
+250795,516,Keyliane Abdallah,Offence,2006-04-05,France
+250948,516,Darryl Bakola,Offence,2007-11-30,France
+8365,518,Dimitry Bertaud,Goalkeeper,1998-06-06,France
+8366,518,Benjamin Lecomte,Goalkeeper,1991-04-26,France
+212855,518,Belmin Dizdarevic,Goalkeeper,2001-08-09,Bosnia-Herzegovina
+800,518,Modibo Sagnan,Defence,1999-04-14,France
+847,518,Théo Sainte-Luce,Defence,1998-10-20,France
+8297,518,Christopher Jullien,Defence,1993-03-22,France
+8298,518,Issiaga Sylla,Defence,1994-01-01,Guinea
+31252,518,Silvan Hefti,Defence,1997-10-25,Switzerland
+37107,518,Boubacar Kouyaté,Defence,1997-04-15,Mali
+37446,518,Falaye Sacko,Defence,1995-05-01,Mali
+96992,518,Becir Omeragic,Defence,2002-01-20,Switzerland
+177393,518,Enzo Tchato,Defence,2002-11-23,Cameroon
+187450,518,Teo Allix,Defence,2004-07-05,France
+214511,518,Lucas Mincarelli,Defence,2004-06-24,France
+575,518,Arnaud Nordin,Midfield,1998-06-17,France
+852,518,Téji Savanier,Midfield,1991-12-22,France
+8463,518,Jordan Ferri,Midfield,1992-03-12,France
+98763,518,Musa Al Taamari,Midfield,1997-06-10,Jordan
+111539,518,Léo Leroy,Midfield,2000-02-14,France
+123108,518,Tanguy Coulibaly,Midfield,2001-02-18,France
+125677,518,Joris Chotard,Midfield,2001-09-24,France
+169344,518,Sacha Delaye,Midfield,2002-04-23,France
+185003,518,Khalil Fayad,Midfield,2004-06-09,France
+245467,518,Théo Chennahi,Midfield,2005-02-06,France
+2018,518,Yann Karamoh,Offence,1998-07-08,Ivory Coast
+3598,518,Wahbi Khazri,Offence,1991-02-08,Tunisia
+82132,518,Akor Adams,Offence,2000-01-29,Nigeria
+188039,518,Axel Gueguin,Offence,2005-03-24,France
+221367,518,Yanis Issoufou,Offence,2006-10-28,France
+230209,518,Othmane Maamma,Offence,2005-10-06,Morocco
+246658,518,Junior Ndiaye,Offence,2005-03-29,France
+4259,521,Vito Mannone,Goalkeeper,1988-03-02,Italy
+8392,521,Adam Jakubech,Goalkeeper,1997-01-02,Slovakia
+147896,521,Lucas Chevalier,Goalkeeper,2001-11-06,France
+204236,521,Tom Negrel,Goalkeeper,2003-04-13,France
+212871,521,Lisandru Olmeta,Goalkeeper,2005-07-21,France
+227766,521,Mohamed-Amine Ezzarhouni,Goalkeeper,2006-03-29,France
+3226,521,Ismaily,Defence,1990-01-11,Brazil
+3361,521,Samuel Umtiti,Defence,1993-11-14,France
+31531,521,Gabriel Gudmundsson,Defence,1999-04-29,Sweden
+98745,521,Bafodé Diakité,Defence,2001-01-06,France
+181933,521,Leny Yoro,Defence,2005-11-13,France
+185196,521,Alexsandro Ribeiro,Defence,1999-08-09,Brazil
+186692,521,Rafael Fernandes,Defence,2002-06-28,Portugal
+188087,521,Tiago Santos,Defence,2002-07-23,Portugal
+216223,521,Ousmane Touré,Defence,2005-02-18,France
+250942,521,Vincent Burlet,Defence,2005-09-23,Belgium
+2100,521,Adam Ounas,Midfield,1996-11-11,Algeria
+6503,521,Nabil Bentaleb,Midfield,1994-11-24,Algeria
+7910,521,Angel Gomes,Midfield,2000-08-31,England
+8541,521,Rémy Cabella,Midfield,1990-03-08,France
+8811,521,Benjamin André,Midfield,1990-08-03,France
+30299,521,Yusuf Yazıcı,Midfield,1997-01-29,Turkey
+154584,521,Ignacio Miramon,Midfield,2003-06-12,Argentina
+190846,521,Ichem Ferrah,Midfield,2005-09-23,France
+212857,521,Aaron Malouda,Midfield,2005-11-30,France
+213221,521,Hákon Haraldsson,Midfield,2003-04-10,Iceland
+220585,521,Adame Faiz,Midfield,2005-06-10,France
+221819,521,Ayyoub Bouaddi,Midfield,2007-10-02,France
+227765,521,Lilian Baret,Midfield,2006-05-25,France
+4095,521,Ivan Cavaleiro,Offence,1993-10-18,Portugal
+8924,521,Jonathan David,Offence,2000-01-14,Canada
+8990,521,Edon Zhegrova,Offence,1999-03-31,Kosovo
+150925,521,Tiago Fonseca Morais,Offence,2003-09-03,Portugal
+248780,521,Trévis Dago,Offence,2005-01-21,France
+8686,522,Maxime Dupé,Goalkeeper,1993-03-04,France
+147975,522,Teddy Boulhendi,Goalkeeper,2001-04-09,France
+167416,522,Marcin Bulka,Goalkeeper,1999-10-04,Poland
+8425,522,Dante,Defence,1983-10-18,Brazil
+8435,522,Romain Perraud,Defence,1997-09-22,France
+8559,522,Valentin Rosier,Defence,1996-08-19,France
+182886,521,Andrej Ilic,Offence,2000-04-03,Serbia
+16276,522,Jordan Lotomba,Defence,1998-09-29,Switzerland
+79903,522,Jean-Clair Todibo,Defence,1999-12-30,France
+133188,522,Alexis Beka Beka,Defence,2001-03-29,France
+136721,522,Melvin Bard,Defence,2000-11-06,France
+168667,522,Antoine Mendy,Defence,2004-05-27,France
+172057,522,Youssouf Ndayishimiye,Defence,1998-10-27,Burundi
+181923,522,Yannis Nahounou,Defence,2004-05-16,France
+220121,522,Amidou Doumbouya,Defence,2007-08-05,France
+4121,522,Jérémie Boga,Midfield,1997-01-03,Ivory Coast
+7448,522,Pablo Rosario,Midfield,1997-01-07,Netherlands
+8355,522,Morgan Sanson,Midfield,1994-08-18,France
+76723,522,Sofiane Diop,Midfield,2000-06-09,France
+99251,522,Khéphren Thuram-Ulie,Midfield,2001-03-26,France
+123508,522,Hicham Boudaoui,Midfield,1999-09-23,Algeria
+204237,522,Tom Louchet,Midfield,2003-05-04,France
+204254,522,Daouda Traoré,Midfield,2006-07-22,France
+245465,522,Sami Wattel,Midfield,2006-01-15,France
+608,522,Alexis Claude Maurice,Offence,1998-06-06,France
+8517,522,Gaëtan Laborde,Offence,1994-05-03,France
+113427,522,Terem Moffi,Offence,1999-05-25,Nigeria
+128710,522,Evann Guessand,Offence,2001-07-01,France
+167685,522,Aliou Balde,Offence,2002-12-12,Senegal
+213270,522,Mohamed Cho,Offence,2004-01-19,France
+1331,523,Lucas Perri,Goalkeeper,1997-12-10,Brazil
+3240,523,Anthony Lopes,Goalkeeper,1990-10-01,Portugal
+244704,523,Justin Jose Bengui Joao,Goalkeeper,2005-07-09,France
+1409,523,Adryelson,Defence,1998-03-23,Brazil
+1464,523,Henrique,Defence,1994-04-25,Brazil
+3208,523,Nicolás Tagliafico,Defence,1992-08-31,Argentina
+7859,523,Dejan Lovren,Defence,1989-07-05,Croatia
+8977,523,Clinton Mata,Defence,1992-11-07,Angola
+10206,523,Duje Ćaleta-Car,Defence,1996-09-17,Croatia
+131569,523,Jake O'Brien,Defence,2001-05-15,Ireland
+141637,523,Sinaly Diomandé,Defence,2001-04-09,Ivory Coast
+176942,523,Sael Kumbedi,Defence,2005-03-26,France
+366,523,Corentin Tolisso,Midfield,1994-08-03,France
+3438,523,Nemanja Matić,Midfield,1988-08-01,Serbia
+7792,523,Ainsley Maitland-Niles,Midfield,1997-08-29,England
+9398,523,Orel Mangala,Midfield,1998-03-18,Belgium
+43707,523,Mama Baldé,Midfield,1995-11-06,Guinea-Bissau
+81737,523,Paul Akouokou,Midfield,1997-12-20,Ivory Coast
+101350,523,Maxence Caqueret,Midfield,2000-02-15,France
+133242,523,Rayan Cherki,Midfield,2003-08-17,France
+149044,523,Johann Lepenant,Midfield,2002-10-22,France
+179598,523,Mohamed Elarouch,Midfield,2004-04-06,France
+184726,523,Ernest Nuamah,Midfield,2003-11-01,Ghana
+187065,523,Malick Fofana,Midfield,2005-03-31,Belgium
+189683,523,Chaïm El Djebali,Midfield,2004-02-07,Tunisia
+699,523,Saïd Benrahma,Offence,1995-08-10,Algeria
+7797,523,Alexandre Lacazette,Offence,1991-05-28,France
+191892,523,Gift Orban,Offence,2002-07-17,Nigeria
+221812,523,Mahamadou Diawara,Offence,2005-02-17,France
+51,524,Keylor Navas,Goalkeeper,1986-12-15,Costa Rica
+55,524,Sergio Rico,Goalkeeper,1993-09-01,Spain
+1731,524,Gianluigi Donnarumma,Goalkeeper,1999-02-25,Italy
+16261,524,Alexandre Letellier,Goalkeeper,1990-12-11,France
+146023,524,Arnau Tenas,Goalkeeper,2001-05-30,Spain
+212856,524,Louis Mouquet,Goalkeeper,2004-07-21,Portugal
+53,524,Achraf Hakimi,Defence,1998-11-04,Morocco
+2007,524,Milan Škriniar,Defence,1995-02-11,Slovakia
+3225,524,Marquinhos,Defence,1994-05-14,Brazil
+3363,524,Presnel Kimpembe,Defence,1995-08-13,France
+3365,524,Lucas Hernández,Defence,1996-02-14,France
+8371,524,Nordi Mukiele,Defence,1997-11-01,France
+8478,524,Layvin Kurzawa,Defence,1992-09-04,France
+144570,524,Nuno Mendes,Defence,2002-06-19,Portugal
+169204,524,Lucas Beraldo,Defence,2003-11-24,Brazil
+204247,524,Serif Nhaga,Defence,2005-09-01,Portugal
+246542,524,Kouakou Gadou,Defence,2007-01-17,France
+246711,524,Yoram Zague,Defence,2006-05-15,France
+22,524,Fabián Ruiz,Midfield,1996-04-03,Spain
+52,524,Marco Asensio,Midfield,1996-01-21,Spain
+15909,524,Danilo Pereira,Midfield,1991-09-09,Portugal
+28549,524,Manuel Ugarte,Midfield,2001-04-11,Uruguay
+33148,524,Carlos Soler,Midfield,1997-01-02,Spain
+172762,524,Bradley Barcola,Midfield,2002-09-02,France
+178722,524,Vitinha,Midfield,2000-02-13,Portugal
+186089,524,Warren Zaïre-Emery,Midfield,2006-03-08,France
+213217,524,Kang-in Lee,Midfield,2001-02-19,South Korea
+218468,524,Ethan Mbappé,Midfield,2006-12-29,France
+246066,524,Senny Mayulu,Midfield,2006-05-17,France
+3373,524,Ousmane Dembélé,Offence,1997-05-15,France
+3374,524,Kylian Mbappé,Offence,1998-12-20,France
+8708,524,Randal Kolo Muani,Offence,1998-12-05,France
+101431,524,Gonçalo Ramos,Offence,2001-06-20,Portugal
+2345,525,Alfred Gomis,Goalkeeper,1993-09-05,Senegal
+9534,525,Yvon Mvogo,Goalkeeper,1994-06-06,Switzerland
+123203,525,Dominique Youfeigane,Goalkeeper,2000-02-07,Central African Republic
+566,525,Laurent Abergel,Defence,1993-02-01,France
+713,525,Julien Laporte,Defence,1993-11-04,France
+7882,525,Benjamin Mendy,Defence,1994-07-17,France
+82600,525,Gédéon Kalulu,Defence,1997-08-29,DR Congo
+131179,525,Darlin Yongwa,Defence,2000-09-21,Cameroon
+149069,525,Souleymane Isaak Toure,Defence,2003-03-28,France
+156630,525,Formose Mendy,Defence,2001-01-02,Senegal
+157041,525,Loris Mouyokolo,Defence,2001-05-22,France
+171397,525,Igor Silva,Defence,1996-08-21,Brazil
+172520,525,Theo Le Bris,Defence,2002-10-01,France
+177695,525,Montassar Talbi,Defence,1998-05-26,Tunisia
+187473,525,Nathaniel Adjei,Defence,2002-08-21,Ghana
+188658,525,Panos Katseris,Defence,2001-07-05,Greece
+193599,525,Aurelien Pelon,Defence,2004-05-06,France
+7812,525,Tiemoué Bakayoko,Midfield,1994-08-17,France
+8303,525,Quentin Boisgard,Midfield,1997-03-17,France
+8437,525,Jean-Victor Makengo,Midfield,1998-06-12,France
+16100,525,Bonke Innocent,Midfield,1996-01-20,Nigeria
+72551,525,Aiyegun Tosin,Midfield,1998-06-26,Benin
+79889,525,Julien Ponceau,Midfield,2000-11-28,France
+99830,525,Imran Louza,Midfield,1999-05-01,Morocco
+185007,525,Badredine Bouanani,Midfield,2004-12-08,Algeria
+186083,525,Ayman Kari,Midfield,2004-11-19,France
+204241,525,Eli Kroupi,Midfield,2006-06-23,France
+245416,525,Arthur Avon Ebong,Midfield,2004-12-15,Cameroon
+245424,525,Gino Caoki,Midfield,2004-07-17,France
+246114,525,Carmel Mabanza,Midfield,2003-08-13,DR Congo
+166640,525,Ahmadou Bamba Dieng,Offence,2000-03-23,Senegal
+213749,525,Mohamed Bamba,Offence,2001-12-10,Ivory Coast
+245400,525,Royce Openda,Offence,2002-04-21,Gabon
+899,529,Gauthier Gallon,Goalkeeper,1993-04-23,France
+3356,529,Steve Mandanda,Goalkeeper,1985-03-28,France
+108717,529,Geoffrey Lembet,Goalkeeper,1988-09-23,Central African Republic
+230054,529,Yann Batola,Goalkeeper,2004-01-26,France
+99691,529,Christopher Wooh,Defence,2001-09-18,Cameroon
+135467,529,Warmed Omari,Defence,2000-04-23,France
+135473,529,Guela Doué,Defence,2002-10-17,France
+135482,529,Adrien Truffert,Defence,2001-11-20,France
+145893,529,Arthur Theate,Defence,2000-05-25,Belgium
+147893,529,Alidu Seidu,Defence,2000-06-04,Ghana
+152692,529,Fabian Rieder,Defence,2002-02-16,Switzerland
+177037,529,Jeanuel Belocian,Defence,2005-02-17,France
+227004,529,Mahamadou Nagida,Defence,2005-06-28,Cameroon
+250296,529,Rayan Bamba,Defence,2004-05-14,France
+7566,529,Azor Matusiwa,Midfield,1998-04-28,Netherlands
+8646,529,Baptiste Santamaria,Midfield,1995-03-09,France
+8818,529,Benjamin Bourigeaud,Midfield,1994-01-14,France
+48595,529,Keito Nakamura,Midfield,2000-07-28,Japan
+96869,529,Ludovic Blas,Midfield,1997-12-31,France
+99664,529,Enzo Le Fée,Midfield,2000-02-03,France
+177522,529,Desire Doue,Midfield,2005-06-03,France
+246322,529,Djaoui Cissé,Midfield,2004-01-31,France
+8476,529,Amine Gouiri,Offence,2000-02-16,France
+8797,529,Martin Terrier,Offence,1997-03-04,France
+130668,529,Arnaud Kalimuendo,Offence,2002-01-20,France
+171851,529,Bertug Yildirim,Offence,2002-07-12,Turkey
+187098,529,Ibrahim Salah,Offence,2001-08-30,Morocco
+217541,529,Mathis Lambourde,Offence,2006-01-09,France
+870,533,Arthur Desmas,Goalkeeper,1994-04-07,France
+8449,533,Mathieu Gorgelin,Goalkeeper,1990-08-05,France
+248779,533,Paul Argney,Goalkeeper,2006-05-23,France
+700,533,Christopher Operi,Defence,1997-04-29,France
+1004,533,Gautier Lloris,Defence,1995-07-18,France
+3700,533,Oualid El Hajjam,Defence,1991-02-19,Morocco
+8775,533,Yoann Salmier,Defence,1992-11-21,French Guiana
+63096,533,Loïc Nego,Defence,1991-01-15,Hungary
+157842,533,Arouna Sangante,Defence,2002-04-12,Senegal
+191246,533,Etienne Youte Kinkoue,Defence,2002-01-14,France
+204280,533,Yoni Gomis,Defence,2005-09-23,France
+214568,533,Cheick Doumbia,Defence,2004-10-18,France
+221361,533,Aliou Thiare,Defence,2003-12-20,Senegal
+3687,533,Daler Kuzyaev,Midfield,1993-01-15,Russia
+8697,533,Abdoulaye Touré,Midfield,1994-03-03,France
+157781,533,Oussama Targhalline,Midfield,2002-05-20,Morocco
+169172,533,Yassine Kechta,Midfield,2002-02-25,Morocco
+178663,533,Rassoul N'Diaye,Midfield,2001-12-11,France
+191017,533,Antoine Joujou,Midfield,2003-03-12,France
+204279,533,Simon Ebonog,Midfield,2004-08-16,France
+206360,533,Makrane Bentoumi,Midfield,2005-11-16,France
+728,533,Mohamed Bayo,Offence,1993-09-15,Guinea
+7990,533,André Ayew,Offence,1989-12-17,Ghana
+8627,533,Samuel Grandsir,Offence,1996-08-14,France
+24260,533,Emmanuel Sabbi,Offence,1997-12-24,USA
+152737,533,Josué Casimir,Offence,2001-09-24,Guadeloupe
+187976,533,Alois Confais,Offence,1996-09-07,France
+204321,533,Steve Ngoura,Offence,2005-02-22,France
+204322,533,Andy Logbo,Offence,2004-05-06,France
+20931,541,Mory Diaw,Goalkeeper,1993-06-22,France
+171710,541,Massamba Ndiaye,Goalkeeper,2001-10-08,Senegal
+186090,541,Théo Borne,Goalkeeper,2002-07-15,France
+246305,541,Théo Ramousse,Goalkeeper,2005-02-06,France
+499,541,Florent Ogier,Defence,1989-03-21,France
+8325,541,Yoël Armougom,Defence,1998-06-05,France
+8429,541,Andy Pelmard,Defence,2000-03-12,France
+8803,541,Mehdi Zeffane,Defence,1992-05-19,France
+9124,541,Maximiliano Caufriez,Defence,1997-02-16,Belgium
+30972,541,Neto Borges,Defence,1996-09-13,Brazil
+147912,541,Chrislain Matsima,Defence,2002-05-15,France
+191921,541,Cheick Oumar Konate,Defence,2004-04-02,Mali
+206127,541,Jeremy Jacquet,Defence,2005-07-13,France
+244582,541,Mohamed Sylla,Defence,2004-01-30,France
+250181,541,Ivan M'Bahia,Defence,2004-04-19,Ivory Coast
+452,541,Johan Gastien,Midfield,1988-01-25,France
+1816,541,Maxime Gonalons,Midfield,1989-03-10,France
+74683,541,Yohann Magnin,Midfield,1997-06-21,France
+185000,541,Muhammed Cham,Midfield,2000-09-26,Austria
+192383,541,Stan Berkani,Midfield,2003-08-13,Algeria
+832,541,Grejohn Kyei,Offence,1995-08-12,France
+15674,541,Elbasan Rashani,Offence,1993-05-09,Kosovo
+24336,541,Komnen Andrić,Offence,1995-07-01,Serbia
+32155,541,Bilal Boutobba,Offence,1998-08-29,France
+32315,541,Jérémie Bela,Offence,1993-04-08,Angola
+84562,541,Shamar Nicholson,Offence,1997-03-16,Jamaica
+101297,541,Jim Allevinah,Offence,1995-02-27,Gabon
+150934,541,Alan Virginius,Offence,2003-01-03,France
+166373,541,Habib Keita,Offence,2002-02-05,Mali
+9535,548,Philipp Köhn,Goalkeeper,1998-04-02,Switzerland
+63855,548,Radosław Majecki,Goalkeeper,1999-11-16,Poland
+172431,548,Yann Lienard,Goalkeeper,2003-03-16,France
+194,548,Ismail Jakobs,Defence,1999-08-17,Senegal
+1612,548,Caio Henrique,Defence,1997-07-31,Brazil
+6493,548,Thilo Kehrer,Defence,1996-09-21,Germany
+81039,548,Mohammed Salisu,Defence,1999-04-17,Ghana
+113375,548,Wilfried Singo,Defence,2000-12-25,Ivory Coast
+154607,548,Vanderson,Defence,2001-06-21,Brazil
+179599,548,Aurélien Platret,Defence,2003-02-20,France
+179625,548,Soungoutou Magassa,Defence,2003-10-08,France
+185069,548,Kassoum Ouattara,Defence,2004-10-14,France
+188857,548,Nazim Babai,Defence,2003-01-14,Algeria
+227011,548,Ritchy Valme,Defence,2005-02-03,Haiti
+3683,548,Aleksandr Golovin,Midfield,1996-05-30,Russia
+6687,548,Denis Zakaria,Midfield,1996-11-20,Switzerland
+60424,548,Mohamed Camara,Midfield,2000-01-06,Mali
+81299,548,Youssouf Fofana,Midfield,1999-01-10,France
+175701,548,Maghnes Akliouche,Midfield,2002-02-25,Algeria
+189287,548,Eliesse Ben Seghir,Midfield,2005-02-16,France
+204238,548,Edan Diop,Midfield,2004-08-28,France
+244898,548,Mamadou Coulibaly,Midfield,2004-04-21,France
+245015,548,Saïmon Bouabré,Midfield,2006-06-01,France
+248778,548,Mayssam Benama,Midfield,2005-03-09,France
+73,548,Wissam Ben Yedder,Offence,1990-08-12,France
+3483,548,Breel Embolo,Offence,1997-02-14,Switzerland
+8887,548,Krépin Diatta,Offence,1999-02-25,Senegal
+15100,548,Takumi Minamino,Offence,1995-01-16,Japan
+246674,548,Lucas Michal,Offence,2005-06-22,France
+733,543,Rémy Descamps,Goalkeeper,1996-06-25,France
+8292,543,Alban Lafont,Goalkeeper,1999-01-23,France
+8662,543,Denis Petrić,Goalkeeper,1988-05-24,Serbia
+170640,543,Hugo Barbet,Goalkeeper,2001-11-22,France
+444,543,Jean-Charles Castelletto,Defence,1995-01-26,Cameroon
+776,543,Jean-Kevin Duverne,Defence,1997-08-12,France
+8295,543,Kelvin Amian Adou,Defence,1998-02-08,France
+8373,543,Nicolas Cozza,Defence,1999-01-08,France
+8693,543,Nicolas Pallois,Defence,1987-09-19,France
+30823,543,Eray Cömert,Defence,1998-02-04,Switzerland
+170395,543,Yannis M'Bemba,Defence,2001-07-01,France
+182059,543,Robin Voisine,Defence,2002-04-07,France
+204248,543,Nathan Zézé,Defence,2005-06-18,France
+214507,543,Bastien Meupiyou Menadjou,Defence,2006-03-19,France
+245399,543,Hugo Boutsingkham,Defence,2003-01-20,France
+246272,543,Enzo Mongo,Defence,2005-04-08,France
+1076,543,Douglas Augusto,Midfield,1997-01-13,Brazil
+7397,543,Pedro Chirivella,Midfield,1997-05-23,Spain
+8001,543,Moussa Sissoko,Midfield,1989-08-16,France
+8674,543,Marcus Coco,Midfield,1996-06-24,France
+8701,543,Samuel Moutoussamy,Midfield,1996-08-12,DR Congo
+31071,543,Tinotenda Kadewere,Midfield,1996-01-05,Zimbabwe
+176999,543,Mohamed Achi Bouakline,Midfield,2002-01-16,France
+180640,543,Bénie Traoré,Midfield,2002-11-30,Ivory Coast
+192454,543,Stredair Appuah,Midfield,2004-06-27,France
+251129,543,Mathis Oger,Midfield,2003-05-02,France
+3398,543,Moses Simon,Offence,1995-07-12,Nigeria
+8447,543,Ignatius Ganago,Offence,1999-02-16,Cameroon
+8741,543,Florent Mollet,Offence,1991-11-19,France
+114672,543,Mostafa Mohamed,Offence,1997-11-28,Egypt
+170412,543,Matthis Abline,Offence,2003-03-28,France
+178664,543,Abdoul Bamba,Offence,1994-05-25,France
+185006,543,Joe-Loic Affamah,Offence,2002-06-29,France
+245828,543,Adel Mahamoud,Offence,2003-02-04,Comoros
+246193,543,Dehmaine Assoumani,Offence,2005-04-17,France
+8661,545,Marc-Aurèle Caillard,Goalkeeper,1994-05-12,France
+8769,545,Alexandre Oukidja,Goalkeeper,1988-07-19,Algeria
+99584,545,Guillaume Dietsch,Goalkeeper,2001-04-17,France
+4114,545,Maxime Colin,Defence,1991-11-15,France
+8613,545,Christophe Hérelle,Defence,1992-08-22,France
+8638,545,Ismaël Traoré,Defence,1986-08-18,Ivory Coast
+8717,545,Matthieu Udol,Defence,1996-03-20,France
+8752,545,Kévin N'Doram,Defence,1996-01-22,France
+45199,545,Koffi Franck Kouao,Defence,1998-05-20,Ivory Coast
+78634,545,Kévin Van Den Kerkhof,Defence,1996-03-14,Algeria
+117370,545,Fali Candé,Defence,1998-01-24,Portugal
+157855,545,Albin Demouchy,Defence,2002-05-31,France
+185037,545,Ababacar Lô,Defence,2000-01-02,Senegal
+212866,545,Sadibou Sané,Defence,2004-06-10,Senegal
+8732,545,Ablie Jallow,Midfield,1998-11-14,Gambia
+177049,545,Danley Jean Jacques,Midfield,2000-05-20,Haiti
+185032,545,Maïdine Douane,Midfield,2002-08-23,France
+190552,545,Arthur Atta,Midfield,2003-01-14,France
+204269,545,Lamine Camara,Midfield,2004-01-01,Senegal
+204325,545,Joseph N'Duquidi,Midfield,2004-10-31,France
+206125,545,Pape Diallo,Midfield,2004-06-25,Senegal
+894,545,Didier Lamkel Zé,Offence,1996-09-17,Cameroon
+4071,545,Joel Asoro,Offence,1999-04-27,Sweden
+56614,545,Benjamin Tetteh,Offence,1997-07-10,Ghana
+74681,545,Warren Tchimbembé,Offence,1998-04-21,Congo
+136646,545,Georges Mikautadze,Offence,2000-10-31,Georgia
+206116,545,Malick Mbaye,Offence,2004-04-06,Senegal
+212864,545,Ibou Sané,Offence,2005-03-28,Senegal
+213218,545,Cheikh Sabaly,Offence,1999-03-04,Senegal
+409,546,Jean-Louis Leca,Goalkeeper,1985-09-21,France
+8316,546,Brice Samba,Goalkeeper,1994-04-25,France
+167805,546,Yannick Pandor,Goalkeeper,2001-05-01,Comoros
+592,546,Jimmy Cabot,Defence,1994-04-18,France
+735,546,Jonathan Gradit,Defence,1992-11-24,France
+6655,546,Kevin Danso,Defence,1998-09-19,Austria
+7916,546,Massadio Haïdara,Defence,1992-12-02,France
+8372,546,Ruben Aguilar,Defence,1993-04-26,France
+46125,546,Facundo Medina,Defence,1999-05-28,Argentina
+169041,546,Jhoanner Chavez,Defence,2002-04-25,Ecuador
+212868,546,Abdukodir Khusanov,Defence,2004-02-29,Uzbekistan
+221816,546,Keny M'Bala,Defence,2004-06-02,France
+3540,546,Przemysław Frankowski,Midfield,1995-04-12,Poland
+8441,546,Nampalys Mendy,Midfield,1992-06-23,Senegal
+8648,546,Angelo Fulgini,Midfield,1996-08-20,France
+123206,546,Salis Abdul Samed,Midfield,2000-03-26,Ghana
+127639,546,Adam Abeddou,Midfield,1996-08-17,France
+143101,546,David Pereira da Costa,Midfield,2001-01-05,Portugal
+168656,546,Andy Diouf,Midfield,2003-05-17,France
+170647,546,Neil El Aynaoui,Midfield,2001-07-02,France
+131040,548,Folarin Balogun,Offence,2001-07-03,USA
+204260,546,Fodé Sylla,Midfield,2006-04-16,France
+212872,546,Ayanda Sishuba,Midfield,2005-02-02,Belgium
+229868,546,Tom Pouilly,Midfield,2003-06-18,France
+8575,546,Wesley Saïd,Offence,1995-04-19,France
+8706,546,Adrien Thomasson,Offence,1993-12-10,France
+64837,546,Florian Sotoca,Offence,1990-10-25,France
+109649,546,Morgan Guilavogui,Offence,1998-03-10,France
+156808,546,Sepe Elye Wahi,Offence,2003-01-02,France
+170398,546,Ibrahima Baldé,Offence,2003-01-17,France
+246160,546,Anthony Bermont,Offence,2005-02-10,France
+873,547,Alexandre Olliero,Goalkeeper,1996-02-15,France
+8608,547,Yehvann Diouf,Goalkeeper,1999-11-16,France
+8635,547,Ludovic Butelle,Goalkeeper,1983-04-03,France
+810,547,Yunis Abdelhamid,Defence,1987-09-28,Morocco
+8900,547,Thibault De Smet,Defence,1998-06-05,Belgium
+8908,547,Thomas Foket,Defence,1994-09-25,Belgium
+32099,547,Sergio Akieme,Defence,1997-12-16,Equatorial Guinea
+34313,547,Joseph Okumu,Defence,1997-05-26,Kenya
+75743,547,Maxime Busi,Defence,1999-10-14,Belgium
+149731,547,Emmanuel Agbadou,Defence,1997-06-17,Ivory Coast
+192373,547,Therence Koudou,Defence,2004-12-13,France
+206122,547,Fallou Fall,Defence,2004-04-15,Senegal
+242560,547,Killian Prouchet,Defence,2005-01-23,France
+245428,547,Arthur Tchaptchet,Defence,2006-05-10,France
+245430,547,Nhoa Sangui,Defence,2006-02-27,France
+251244,547,Abdoul Koné,Defence,2005-04-22,Ivory Coast
+6502,547,Benjamin Stambouli,Midfield,1990-08-13,France
+34754,547,Marshall Munetsi,Midfield,1996-06-22,Zimbabwe
+8315,576,Matthieu Dreyer,Goalkeeper,1989-03-20,France
+154781,576,Alexandre Pierre,Goalkeeper,2001-02-25,Haiti
+172575,576,Alaa Bellaarouch,Goalkeeper,2002-02-01,Morocco
+935,576,Thomas Delaine,Defence,1992-03-24,France
+8324,576,Frédéric Guilbert,Defence,1994-12-24,France
+64371,576,Karol Fila,Defence,1998-06-13,Poland
+119063,576,Lucas Perrin,Defence,1998-11-19,France
+147878,576,Ismaël Doukouré,Defence,2003-07-24,France
+149127,576,Saïdou Sow,Defence,2002-07-04,Guinea
+153924,576,Marvin Senaya,Defence,2001-01-28,France
+182091,576,Junior Mwanga,Defence,2003-05-11,France
+182297,576,Abakar Sylla,Defence,2002-12-25,Ivory Coast
+212863,576,Steven Baseya,Defence,2005-01-14,France
+246700,576,Elies Araar Fernandez,Defence,2006-10-07,France
+451,576,Ibrahima Sissoko,Midfield,1997-10-27,France
+8333,576,Jessy Deminguet,Midfield,1998-01-07,France
+8786,576,Jean-Eudes Aholou,Midfield,1994-03-20,Ivory Coast
+166366,576,Andrey Santos,Midfield,2004-05-03,Brazil
+171876,576,Habib Diarra,Midfield,2004-01-03,France
+244929,576,Samir El Mourabet,Midfield,2005-10-06,France
+246704,576,Rabby Nzingoula,Midfield,2005-11-25,France
+127,576,Kevin Gameiro,Offence,1987-05-09,France
+1043,576,Lebo Mothiba,Offence,1996-01-28,South Africa
+150599,576,Emanuel Emegha,Offence,2003-02-03,Netherlands
+151295,576,Dilane Bakwa,Offence,2002-08-26,France
+152783,576,Ângelo Borges,Offence,2004-12-21,Brazil
+166244,576,Dion Moise Sahi,Offence,2001-12-20,Ivory Coast
+190794,576,Tom Saettel,Offence,2005-06-19,France
+229415,576,Jérémy Sebas,Offence,2003-04-14,Martinique
+245388,576,Mohamed Bechikh,Offence,2005-07-13,France
+249100,576,Aboubacar Ali,Offence,2006-04-02,France
+252843,576,Vignon Ouotro,Offence,2005-09-13,Ivory Coast
+252873,576,Tidiane Diallo,Offence,2006-05-28,France
+280,548,Guillermo Maripán,Defence,1994-05-06,Chile
+8913,546,Deiver Machado,Defence,1993-09-02,Colombia
+182199,521,Joffrey Bazie,Offence,2003-10-27,Burkina Faso
