@@ -2,13 +2,29 @@ from datetime import datetime
 import os
 import pandas as pd
 
-def add_date_suffix(base_name, date=None):
-    import os
-    if date is None:
-        date = datetime.now()
-    date_str = date.strftime("%Y-%m-%d")
-    root, ext = os.path.splitext(base_name)
-    return f"{root}{date_str}{ext}"
+def add_date_suffix(base_path: str) -> str:
+    """
+    Add date suffix to a base path for file versioning
+    """
+    current_date = datetime.now().strftime("%Y%m%d_%H%M%S")
+    return f"{base_path.rstrip('/')}/{current_date}"
+
+def ensure_directory_exists(file_path: str) -> None:
+    """
+    Ensure that the directory for a file path exists
+    """
+    directory = os.path.dirname(file_path)
+    if directory and not os.path.exists(directory):
+        os.makedirs(directory, exist_ok=True)
+
+def get_file_size_mb(file_path: str) -> float:
+    """
+    Get file size in megabytes
+    """
+    if os.path.exists(file_path):
+        size_bytes = os.path.getsize(file_path)
+        return size_bytes / (1024 * 1024)
+    return 0.0
 
 
 def leer_datos(path):
