@@ -9,6 +9,6 @@ Thumbs.db
 logs/
 
 __pycache__
-
+**/notebooks/
 # Ignore all files inside data folder
 #data/
