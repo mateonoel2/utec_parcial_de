@@ -1,0 +1,97 @@
+team_id,name,founded_year,stadium_id,league_id,coach_id,cresturl
+77,Athletic Club,1898.0,61,3,61,https://crests.football-data.org/77.png
+78,Club Atlético de Madrid,1903.0,62,3,62,https://crests.football-data.org/78.svg
+79,CA Osasuna,1920.0,63,3,63,https://crests.football-data.org/79.svg
+81,FC Barcelona,1899.0,64,3,64,https://crests.football-data.org/81.svg
+82,Getafe CF,1946.0,65,3,65,https://crests.football-data.org/82.png
+83,Granada CF,1931.0,66,3,66,https://crests.football-data.org/83.svg
+86,Real Madrid CF,1902.0,67,3,67,https://crests.football-data.org/86.png
+87,Rayo Vallecano de Madrid,1924.0,68,3,68,https://crests.football-data.org/87.svg
+89,RCD Mallorca,1916.0,69,3,69,https://crests.football-data.org/89.png
+90,Real Betis Balompié,1907.0,70,3,70,https://crests.football-data.org/90.png
+92,Real Sociedad de Fútbol,1903.0,71,3,71,https://crests.football-data.org/92.svg
+94,Villarreal CF,1923.0,72,3,72,https://crests.football-data.org/94.png
+95,Valencia CF,1919.0,73,3,73,https://crests.football-data.org/95.svg
+263,Deportivo Alavés,1921.0,74,3,74,https://crests.football-data.org/263.png
+264,Cádiz CF,1910.0,75,3,75,https://crests.football-data.org/264.png
+267,UD Almería,1989.0,76,3,76,https://crests.football-data.org/267.png
+1,1. FC Köln,1948.0,101,4,101,https://crests.football-data.org/1.png
+2,TSG 1899 Hoffenheim,1921.0,102,4,102,https://crests.football-data.org/2.png
+3,Bayer 04 Leverkusen,1904.0,103,4,103,https://crests.football-data.org/3.png
+4,Borussia Dortmund,1909.0,104,4,104,https://crests.football-data.org/4.png
+5,FC Bayern München,1900.0,105,4,105,https://crests.football-data.org/5.svg
+10,VfB Stuttgart,1893.0,106,4,106,https://crests.football-data.org/10.png
+11,VfL Wolfsburg,1945.0,107,4,107,https://crests.football-data.org/11.svg
+12,SV Werder Bremen,1899.0,108,4,108,https://crests.football-data.org/12.svg
+15,1. FSV Mainz 05,1905.0,109,4,109,https://crests.football-data.org/15.png
+16,FC Augsburg,1907.0,110,4,110,https://crests.football-data.org/16.png
+17,SC Freiburg,1912.0,111,4,111,https://crests.football-data.org/17.svg
+18,Borussia Mönchengladbach,1900.0,112,4,112,https://crests.football-data.org/18.png
+19,Eintracht Frankfurt,1899.0,113,4,113,https://crests.football-data.org/19.svg
+28,1. FC Union Berlin,1906.0,114,4,114,https://crests.football-data.org/28.svg
+36,VfL Bochum 1848,1849.0,115,4,115,https://crests.football-data.org/36.png
+44,1. FC Heidenheim 1846,1846.0,116,4,116,https://crests.football-data.org/44.svg
+55,SV Darmstadt 98,1898.0,117,4,117,https://crests.football-data.org/55.png
+721,RB Leipzig,2009.0,118,4,118,https://crests.football-data.org/721.png
+98,AC Milan,1899.0,41,2,41,https://crests.football-data.org/98.png
+99,ACF Fiorentina,1926.0,42,2,42,https://crests.football-data.org/99.png
+100,AS Roma,1927.0,43,2,43,https://crests.football-data.org/100.png
+102,Atalanta BC,1904.0,44,2,44,https://crests.football-data.org/102.png
+103,Bologna FC 1909,1909.0,45,2,45,https://crests.football-data.org/103.png
+104,Cagliari Calcio,1920.0,46,2,46,https://crests.football-data.org/104.png
+107,Genoa CFC,1893.0,47,2,47,https://crests.football-data.org/107.png
+108,FC Internazionale Milano,1908.0,41,2,48,https://crests.football-data.org/108.png
+109,Juventus FC,1897.0,48,2,49,https://crests.football-data.org/109.png
+110,SS Lazio,1900.0,43,2,50,https://crests.football-data.org/110.png
+113,SSC Napoli,1904.0,49,2,51,https://crests.football-data.org/113.png
+115,Udinese Calcio,1896.0,50,2,52,https://crests.football-data.org/115.png
+445,Empoli FC,1920.0,51,2,53,https://crests.football-data.org/445.png
+57,Arsenal,1886.0,21,1,21,https://crests.football-data.org/57.png
+58,Aston Villa,1872.0,22,1,22,https://crests.football-data.org/58.png
+61,Chelsea,1905.0,23,1,23,https://crests.football-data.org/61.png
+62,Everton,1878.0,24,1,24,https://crests.football-data.org/62.png
+63,Fulham,1879.0,25,1,25,https://crests.football-data.org/63.svg
+64,Liverpool,1892.0,26,1,26,https://crests.football-data.org/64.png
+65,Manchester City,1880.0,27,1,27,https://crests.football-data.org/65.png
+66,Manchester United,1878.0,28,1,28,https://crests.football-data.org/66.png
+67,Newcastle United,1881.0,29,1,29,https://crests.football-data.org/67.png
+73,Tottenham Hotspur,1882.0,30,1,30,https://crests.football-data.org/73.png
+76,Wolverhampton Wanderers,1877.0,31,1,31,https://crests.football-data.org/76.svg
+328,Burnley,1881.0,32,1,32,https://crests.football-data.org/328.png
+351,Nottingham Forest,1865.0,33,1,33,https://crests.football-data.org/351.png
+354,Crystal Palace,1905.0,34,1,34,https://crests.football-data.org/354.png
+356,Sheffield United,,35,1,35,https://crests.football-data.org/356.svg
+389,Luton Town,1885.0,36,1,36,https://crests.football-data.org/389.png
+397,Brighton & Hove Albion,1898.0,37,1,37,https://crests.football-data.org/397.svg
+402,Brentford,1889.0,38,1,38,https://crests.football-data.org/402.png
+563,West Ham United,1895.0,39,1,39,https://crests.football-data.org/563.png
+1044,AFC Bournemouth,1890.0,40,1,40,https://crests.football-data.org/1044.png
+450,Hellas Verona FC,1903.0,52,2,54,https://crests.football-data.org/450.png
+455,US Salernitana 1919,1919.0,53,2,55,https://crests.football-data.org/455.png
+470,Frosinone Calcio,1912.0,54,2,56,https://crests.football-data.org/470.png
+471,US Sassuolo Calcio,1920.0,55,2,57,https://crests.football-data.org/471.png
+586,Torino FC,1894.0,56,2,58,https://crests.football-data.org/586.png
+5890,US Lecce,1908.0,57,2,59,https://crests.football-data.org/5890.png
+5911,AC Monza,1912.0,58,2,60,https://crests.football-data.org/5911.png
+275,UD Las Palmas,1949.0,77,3,77,https://crests.football-data.org/275.png
+298,Girona FC,1930.0,78,3,78,https://crests.football-data.org/298.png
+558,RC Celta de Vigo,1923.0,79,3,79,https://crests.football-data.org/558.svg
+559,Sevilla FC,1905.0,80,3,80,https://crests.football-data.org/559.svg
+511,Toulouse FC,1937.0,81,5,81,https://crests.football-data.org/511.png
+512,Stade Brestois 29,1903.0,82,5,82,https://crests.football-data.org/512.png
+516,Olympique de Marseille,1898.0,83,5,83,https://crests.football-data.org/516.png
+518,Montpellier HSC,1970.0,84,5,84,https://crests.football-data.org/518.png
+521,Lille OSC,1944.0,85,5,85,https://crests.football-data.org/521.svg
+522,OGC Nice,1904.0,86,5,86,https://crests.football-data.org/522.png
+523,Olympique Lyonnais,1896.0,87,5,87,https://crests.football-data.org/523.svg
+524,Paris Saint-Germain FC,1904.0,88,5,88,https://crests.football-data.org/524.png
+525,FC Lorient,1926.0,89,5,89,https://crests.football-data.org/525.png
+529,Stade Rennais FC 1901,1901.0,90,5,90,https://crests.football-data.org/529.png
+533,Le Havre AC,1872.0,91,5,91,https://crests.football-data.org/533.png
+541,Clermont Foot 63,1911.0,92,5,92,https://crests.football-data.org/541.svg
+543,FC Nantes,1943.0,93,5,93,https://crests.football-data.org/543.png
+545,FC Metz,1919.0,94,5,94,https://crests.football-data.org/545.svg
+546,Racing Club de Lens,1906.0,95,5,95,https://crests.football-data.org/546.png
+547,Stade de Reims,1909.0,96,5,96,https://crests.football-data.org/547.png
+548,AS Monaco FC,1919.0,97,5,97,https://crests.football-data.org/548.png
+576,RC Strasbourg Alsace,1906.0,98,5,98,https://crests.football-data.org/576.png
